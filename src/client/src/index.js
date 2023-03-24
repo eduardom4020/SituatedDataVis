@@ -1,19 +1,106 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import { VictoryScatter, VictoryChart, VictoryTheme } from "victory-native";
+
 import { useDatasource } from './shared/hooks/use-datasource';
+
+const contextualData = {
+    focus: {
+        brands: ['Xiaomi'],
+    },
+};
 
 export default Main = () => {
     const datasource = useDatasource();
 
+    if(datasource.fetching) {
+        return (
+            <View style={styles.container}>
+                <Text>Loading...</Text>
+            </View>
+        )
+    }
+
+    const { 
+        brand: var_Brand,
+        model: var_Model,
+        price: var_Price,
+        camera: var_Camera
+    } = datasource.entries;
+
+    const maxPrice = var_Price && Math.max(...var_Price.map(v => +v.slice(1))) || 1;
+    const maxCamera = var_Camera && Math.max(...var_Camera.map(v => +v)) || 1;
+    const domain = { x: [0, maxCamera], y: [0, maxPrice] };
+
+    const data = new Array(datasource.count).fill({})
+        .filter((_, index) => var_Camera[index])
+        .map((_, index) => ({
+            x: +var_Camera[index],
+            y: +var_Price[index].slice(1),
+            brand: var_Brand[index],
+            model: var_Model[index],
+            // fill: '#dbdbdb', 
+            // size: 1.5,
+        }));
+
+    // const enhancedData_Focus_Brand = contextualData && contextualData.focus && contextualData.focus.brands
+    //     && (
+    //         data.map(entry => contextualData.focus.brands.includes(entry.brand) 
+    //             && {...entry, fill: '#2596be', size: 3}
+    //             || entry
+    //         )
+    //     )
+    //     || data
+
+    const sortedData_ByEnhancing = data.sort((a, b) => {
+        const A_ShouldBeEnhanced = +(
+            contextualData
+            && contextualData.focus
+            && contextualData.focus.brands
+            && contextualData.focus.brands.includes(a.brand)
+        );
+
+        const B_ShouldBeEnhanced = +(
+            contextualData
+            && contextualData.focus
+            && contextualData.focus.brands
+            && contextualData.focus.brands.includes(b.brand)
+        );
+
+        return A_ShouldBeEnhanced > B_ShouldBeEnhanced && 1
+            || A_ShouldBeEnhanced < B_ShouldBeEnhanced && -1
+            || 0;
+    })
+
     return (
         <View style={styles.container}>
-            <Text>{!datasource && 'loading...'}</Text>
-            {
-                datasource && datasource.map(data => (
-                    <Text>{JSON.stringify(data, null, 4)}</Text>
-                ))
-            }
-            <StatusBar style="auto" />
+            <VictoryChart
+                theme={VictoryTheme.material}
+                domain={domain}
+            >
+                {
+                    datasource.count > 0 && (
+                        <VictoryScatter
+                            style={{
+                                data: {
+                                    fill: ({datum}) => (
+                                        contextualData && contextualData.focus && contextualData.focus.brands
+                                        && contextualData.focus.brands.includes(datum.brand)
+                                            && '#2596be'
+                                            || "#dbdbdb"
+                                    ),
+                                    size: ({datum}) => (
+                                        contextualData && contextualData.focus && contextualData.focus.brands
+                                        && contextualData.focus.brands.includes(datum.brand)
+                                            && 2.5
+                                            || 1.5
+                                    )
+                                }
+                            }}
+                            data={sortedData_ByEnhancing}
+                        />
+                    )
+                }
+            </VictoryChart>
         </View>
     );
 }
