@@ -4,7 +4,7 @@ import { VictoryScatter, VictoryChart, VictoryTheme } from "victory-native";
 import { useDatasource } from '../../shared/hooks/use-datasource';
 
 export const Dashboard = ({contextualData={}}) => {
-    const datasource = useDatasource();
+    const datasource = useDatasource('phoneBrands');
 
     if(datasource.fetching) {
         return (
@@ -34,25 +34,32 @@ export const Dashboard = ({contextualData={}}) => {
             model: var_Model[index],
         }));
 
-    const sortedData_ByEnhancing = data.sort((a, b) => {
-        const A_ShouldBeEnhanced = +(
-            contextualData
-            && contextualData.focus
-            && contextualData.focus.brands
-            && contextualData.focus.brands.includes(a.brand)
-        );
+    const enhancedData = { data };
 
-        const B_ShouldBeEnhanced = +(
-            contextualData
-            && contextualData.focus
-            && contextualData.focus.brands
-            && contextualData.focus.brands.includes(b.brand)
-        );
+    if(contextualData && contextualData.near && contextualData.near.brands) {
+        enhancedData.data = enhancedData.data.sort((a, b) => {
+            const containsA = +(contextualData.near.brands.includes(a.brand));
+            const containsB = +(contextualData.near.brands.includes(b.brand));
+    
+            return containsA > containsB && 1
+                || containsA < containsB && -1
+                || 0;
+        });
 
-        return A_ShouldBeEnhanced > B_ShouldBeEnhanced && 1
-            || A_ShouldBeEnhanced < B_ShouldBeEnhanced && -1
-            || 0;
-    });
+        enhancedData.fill = ({datum}) => contextualData.near.brands.includes(datum.brand)
+            && '#2596be'
+            || '#dbdbdb';
+        console.log('Datasource ', datasource.encoding.colors)
+        if(datasource && datasource.encoding.colors && datasource.encoding.colors.some(c => c.series === 'brands')) {
+            enhancedData.fill = ({datum}) => contextualData.near.brands.includes(datum.brand)
+                && (datasource.encoding.colors.find(c => c.series === 'brands').mapping[datum.brand] || '#2596be')
+                || '#dbdbdb';
+        }
+
+        enhancedData.size = ({datum}) => contextualData.near.brands.includes(datum.brand)
+            && 2.5
+            || 1.5;
+    }
 
     return (
         <View style={styles.container}>
@@ -65,21 +72,11 @@ export const Dashboard = ({contextualData={}}) => {
                         <VictoryScatter
                             style={{
                                 data: {
-                                    fill: ({datum}) => (
-                                        contextualData && contextualData.focus && contextualData.focus.brands
-                                        && contextualData.focus.brands.includes(datum.brand)
-                                            && '#2596be'
-                                            || "#dbdbdb"
-                                    ),
-                                    size: ({datum}) => (
-                                        contextualData && contextualData.focus && contextualData.focus.brands
-                                        && contextualData.focus.brands.includes(datum.brand)
-                                            && 2.5
-                                            || 1.5
-                                    )
+                                    fill: enhancedData.fill,
+                                    size: enhancedData.size,
                                 }
                             }}
-                            data={sortedData_ByEnhancing}
+                            data={enhancedData.data}
                         />
                     )
                 }

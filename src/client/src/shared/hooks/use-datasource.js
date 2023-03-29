@@ -1,21 +1,30 @@
 import { useEffect, useCallback, useState, useMemo } from 'react';
 import { DataSourceClient } from '../api-clients/datasource-client';
 
-export const useDatasource = () => {
+export const useDatasource = (name) => {
     const [fetching, setFetching] = useState(false);
+
+    const [encoding, setEncoding] = useState({});
     const [data, setData] = useState([]);
     
+    const fetchEncoding = useCallback(async () => {
+        const encoding = await DataSourceClient.get(name);
+        setEncoding(encoding);
+    }, []);
+
     const fetchData = useCallback(async () => {
-        const data = await DataSourceClient.get();
+        const data = await DataSourceClient.get(`${name}/data`);
         setData(data);
     }, []);
 
     useEffect(() => {
         setFetching(true);
-        fetchData()
+
+        fetchEncoding()
+            .then(fetchData)
             .then(() => setFetching(false))
-            .catch(console.error);
-    }, [fetchData]);
+            .catch(console.error);            
+    }, [fetchData, fetchEncoding]);
 
     const count = useMemo(() => (
         data && data.length || 0
@@ -37,5 +46,6 @@ export const useDatasource = () => {
         entries,
         count,
         fetching,
+        encoding,
     };
 }
