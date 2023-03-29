@@ -1,0 +1,12 @@
+{
+    "chartType": "scatter",
+    "colors": [
+        {
+            "series": "brands",
+            "mapping": {
+                "Xiaomi": "#2596be",
+                "Apple": "#ff2c03"
+            }
+        }
+    ]
+}
