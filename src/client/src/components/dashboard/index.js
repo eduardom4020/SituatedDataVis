@@ -1,5 +1,5 @@
 import { StyleSheet, Text, View } from 'react-native';
-import { VictoryScatter, VictoryChart, VictoryTheme } from "victory-native";
+import { VictoryScatter, VictoryChart, VictoryTheme, VictoryLegend } from "victory-native";
 
 import { useDatasource } from '../../shared/hooks/use-datasource';
 
@@ -36,7 +36,10 @@ export const Dashboard = ({contextualData={}}) => {
 
     const enhancedData = { data };
 
-    if(contextualData && contextualData.near && contextualData.near.brands) {
+    const isNearToBrands = contextualData && contextualData.near && contextualData.near.brands;
+    const hasColorsEncoding = datasource && datasource.encoding.colors && datasource.encoding.colors.some(c => c.series === 'brands');
+
+    if(isNearToBrands) {
         enhancedData.data = enhancedData.data.sort((a, b) => {
             const containsA = +(contextualData.near.brands.includes(a.brand));
             const containsB = +(contextualData.near.brands.includes(b.brand));
@@ -49,8 +52,8 @@ export const Dashboard = ({contextualData={}}) => {
         enhancedData.fill = ({datum}) => contextualData.near.brands.includes(datum.brand)
             && '#2596be'
             || '#dbdbdb';
-        console.log('Datasource ', datasource.encoding.colors)
-        if(datasource && datasource.encoding.colors && datasource.encoding.colors.some(c => c.series === 'brands')) {
+
+        if(hasColorsEncoding) {
             enhancedData.fill = ({datum}) => contextualData.near.brands.includes(datum.brand)
                 && (datasource.encoding.colors.find(c => c.series === 'brands').mapping[datum.brand] || '#2596be')
                 || '#dbdbdb';
@@ -66,18 +69,42 @@ export const Dashboard = ({contextualData={}}) => {
             <VictoryChart
                 theme={VictoryTheme.material}
                 domain={domain}
+                height={350}
             >
                 {
                     datasource.count > 0 && (
-                        <VictoryScatter
-                            style={{
-                                data: {
-                                    fill: enhancedData.fill,
-                                    size: enhancedData.size,
-                                }
-                            }}
-                            data={enhancedData.data}
-                        />
+                        <>
+                            <VictoryScatter
+                                style={{
+                                    data: {
+                                        fill: enhancedData.fill,
+                                        size: enhancedData.size,
+                                    }
+                                }}
+                                data={enhancedData.data}
+                            />
+                            {
+                                isNearToBrands && (
+                                    <VictoryLegend y={40}
+                                        title="Brands"
+                                        centerTitle
+                                        orientation="horizontal"
+                                        gutter={20}
+                                        style={{ title: {fontSize: 14 } }}
+                                        data={
+                                            contextualData.near.brands.map(name => ({ 
+                                                name, 
+                                                symbol: { 
+                                                    fill: hasColorsEncoding
+                                                        ? datasource.encoding.colors.find(c => c.series === 'brands').mapping[name]
+                                                        : '#2596be'
+                                                }
+                                            }))
+                                        }
+                                    />
+                                ) 
+                            }
+                        </>
                     )
                 }
             </VictoryChart>

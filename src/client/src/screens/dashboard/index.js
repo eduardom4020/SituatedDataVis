@@ -1,7 +1,15 @@
+import { Button, View } from "react-native"
 import { Dashboard } from "../../components/dashboard"
 
-export const DashboardScreen = ({ route }) => {
+export const DashboardScreen = ({ navigation, route }) => {
     return (
-        <Dashboard contextualData={route.params.contextualData}/>
+        <View>
+            <Dashboard contextualData={route.params.contextualData}/>
+            <Button onPress={() => {
+                navigation.navigate('QrScanner', { contextualData: route.params.contextualData });
+            }}
+                title="Scan QRCode"
+            />
+        </View>
     )
 }

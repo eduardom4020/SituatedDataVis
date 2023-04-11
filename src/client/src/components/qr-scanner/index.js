@@ -1,10 +1,12 @@
 import { useCallback, useEffect, useState } from 'react';
-import { StyleSheet, Text } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 import { BarCodeScanner, Constants as BarCodeScannerConstants } from 'expo-barcode-scanner';
+import { useIsFocused } from '@react-navigation/native';
 
 export const QrScanner = ({ onScan=()=>null }) => {
     const [ data, setData ] = useState();
     const [hasPermission, setHasPermission] = useState(null);
+    const isFocused = useIsFocused();
 
     useEffect(() => {
         (async () => {
@@ -25,6 +27,12 @@ export const QrScanner = ({ onScan=()=>null }) => {
         }
     }, [hasPermission, data])
 
+    useEffect(() => {
+        if(isFocused) {
+            setData(null);
+        }
+    }, [isFocused])
+
     if (hasPermission === null) {
         return <Text>Requesting for camera permission...</Text>;
     }
@@ -33,10 +41,14 @@ export const QrScanner = ({ onScan=()=>null }) => {
         return <Text>No access to camera!</Text>;
     }
 
-    return (
-        <BarCodeScanner
-            onBarCodeScanned={data ? undefined : handleQrCodeScanned}
-            style={StyleSheet.absoluteFillObject}
-        />
-    );
+    if(isFocused) {
+        return (
+            <BarCodeScanner
+                onBarCodeScanned={data ? undefined : handleQrCodeScanned}
+                style={StyleSheet.absoluteFillObject}
+            />
+        );
+    }
+
+    return null;
 }
