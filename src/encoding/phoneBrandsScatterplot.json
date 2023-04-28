@@ -1,12 +1,43 @@
-{
-    "chartType": "scatter",
-    "colors": [
-        {
-            "series": "brands",
-            "mapping": {
+[
+    {
+        "chartCode": "phones-scatter",
+        "chartType": "Scatter",
+        "contextSelect": {
+            "series": "brand",
+            "contextualActivation": "near",
+            "contextualDeactivation": "far",
+            "colors": {
                 "Xiaomi": "#2596be",
                 "Apple": "#ff2c03"
             }
+        },
+        "changeRepresentation": {
+            "series": "brand",
+            "contextualTrigger": "directAttention",
+            "showChart": "phone-pie-chart"
         }
-    ]
-}
+    },
+    {
+        "chartCode": "phone-pie-chart",
+        "chartType": "Piechart",
+        "changeRepresentation": {
+            "series": "brand",
+            "contextualTrigger": "near | far",
+            "showChart": "phones-scatter"
+        },
+        "blendRepresentations": {
+            "series": "brand",
+            "contextualTrigger": "directAttention",
+            "showChart": "phone-stacked-bar-chart"
+        }
+    },
+    {
+        "chartCode": "phone-stacked-bar-chart",
+        "chartType": "StackedBarchart",
+        "changeRepresentation": {
+            "series": "brand",
+            "contextualTrigger": "near | far",
+            "showChart": "phones-scatter"
+        }
+    }
+]
