@@ -2,7 +2,7 @@ import { useEffect, useCallback, useState, useMemo } from 'react';
 import { DataSourceClient } from '../api-clients/datasource-client';
 
 export const useDatasource = (name) => {
-    const [fetching, setFetching] = useState(false);
+    const [fetching, setFetching] = useState(true);
 
     const [encoding, setEncoding] = useState({});
     const [data, setData] = useState([]);

@@ -1,0 +1,50 @@
+#IDEA: Guided situated data vis dashboard.
+# Around all the place user is able to live in a dynamic dashboard.
+# Framework is responsible for the decisions and situated things.
+# Toolkit uses yaml files and descriptions to generate the qr code interactions.
+
+# FOCUS: Adding behaviour. Same size of datasource and same vis.  Use near?
+# FILTER: Domain reduction behavior. Same vis or altered vis.
+
+# Contextual focus Xiaomi
+
+# focus:
+#   near:
+#     brands:
+#       - Xiaomi
+
+focus:
+  brands:
+    - Xiaomi
+
+# Contextual focus Apple
+
+# focus:
+#   near:
+#     brands:
+#       - Apple
+
+focus:
+  brands:
+    - Apple
+
+# Contextual filter 5 phones models
+
+filter:
+  # near:
+    models:
+      - P50 Pro
+      - Mi 11 Ultra
+      - Mate 40 Pro
+      - iPhone 13 Pro
+      - Mate 40 Pro
+
+########### Definitive ################
+
+near:
+  brand:
+    - Xiaomi
+
+near:
+  brand:
+    - Apple
