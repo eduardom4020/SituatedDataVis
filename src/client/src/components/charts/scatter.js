@@ -1,8 +1,7 @@
+import { Text, View } from 'react-native';
 import { VictoryScatter, VictoryChart, VictoryTheme, VictoryLegend } from "victory-native";
 
-export const Scatter = ({chartCode, domain, data, encoding=[], contextualData={}}) => {
-    const chartEncoding = encoding.find(e => e.chartCode === chartCode);
-
+export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => {
     if(!chartEncoding) {
         throw new Error('Unable to mount chart without encoding');
     }
@@ -10,8 +9,8 @@ export const Scatter = ({chartCode, domain, data, encoding=[], contextualData={}
     const enhancedData = { data };
     enhancedData.fill = () => '#dbdbdb';
     enhancedData.size = () => 1.5;
-
-    const hasContextSelectAction = chartEncoding && chartEncoding.contextSelect;
+    
+    const hasContextSelectAction = chartEncoding && Boolean(chartEncoding.contextSelect);
     const selectSeries = hasContextSelectAction && chartEncoding.contextSelect.series;
 
     let contextActivatedValues = null;
@@ -25,7 +24,7 @@ export const Scatter = ({chartCode, domain, data, encoding=[], contextualData={}
         contextActivatedValues = contextActivatedSeries[selectSeries] || [];
         contextActivatedValues = contextActivatedValues.filter(v => !contextDeactivatedValues.includes(v));
     }
-
+    
     if(contextActivatedValues) {
         enhancedData.data = enhancedData.data.sort((a, b) => {
             const containsA = +(contextActivatedValues.includes(a[selectSeries]));
@@ -43,6 +42,14 @@ export const Scatter = ({chartCode, domain, data, encoding=[], contextualData={}
         enhancedData.size = ({datum}) => contextActivatedValues.includes(datum[selectSeries])
             && 2.5
             || 1.5;
+    }
+
+    if(!data || !data.length) {
+        return (
+            <View>
+                <Text>Loading...</Text>
+            </View>
+        )
     }
 
     return (

@@ -1,5 +1,6 @@
 [
     {
+        "main": true,
         "chartCode": "phones-scatter",
         "chartType": "Scatter",
         "contextSelect": {
@@ -12,7 +13,7 @@
             }
         },
         "changeRepresentation": {
-            "series": "brand",
+            "series": "model",
             "contextualTrigger": "directAttention",
             "showChart": "phone-pie-chart"
         }
