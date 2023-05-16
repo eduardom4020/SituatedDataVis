@@ -1,6 +1,6 @@
 model,price,launch,camera,selfie,audio,display,battery,rating5s,rating4s,rating3s,rating2s,rating1s
 Huawei P50 Pro,$907,Jul 2021,144.0,106.0,,93.0,2,1,15,7,2
-Xiaomi Mi 11 Ultra,$1200,Mar 2021,143.0,94.0,71.0,87.0,69.0,,,,,
+Xiaomi Mi 11 Ultra,$1200,Mar 2021,143.0,94.0,71.0,87.0,69.0,2,1,15,7,2
 Huawei Mate 40 Pro+,$1363,Oct 2020,139.0,,,,,,,,,
 Apple iPhone 13 Pro Max,$1099,Sep 2021,137.0,99.0,75.0,99.0,89.0,,,,,
 Apple iPhone 13 Pro,$999,Sep 2021,137.0,99.0,75.0,98.0,76.0,,,,,

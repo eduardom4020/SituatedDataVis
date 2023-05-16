@@ -40,7 +40,7 @@ filter:
       - Mate 40 Pro
 
 ########### Definitive ################
-
+# remember to create as array to prevent unexpected breakings
 near:
   brand:
     - Xiaomi
@@ -48,3 +48,12 @@ near:
 near:
   brand:
     - Apple
+
+#to first mount scatter and after that mount pie chart
+
+near:
+  brand:
+    - Xiaomi
+directAttention:
+  model:
+    - Mi 11 Ultra

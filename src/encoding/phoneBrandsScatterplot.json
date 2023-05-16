@@ -27,7 +27,7 @@
             "showChart": "phones-scatter"
         },
         "blendRepresentations": {
-            "series": "brand",
+            "series": "model",
             "contextualTrigger": "directAttention",
             "showChart": "phone-stacked-bar-chart"
         }
