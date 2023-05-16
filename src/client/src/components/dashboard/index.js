@@ -3,6 +3,7 @@ import { useDatasource } from '../../shared/hooks/use-datasource';
 import { Scatter } from '../charts/scatter';
 import { useEffect, useMemo } from 'react';
 import { Pie } from '../charts/pie';
+import { StackedBar } from '../charts/stackedbar';
 
 export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=null}) => {
     const datasource = useDatasource('phoneBrands');
@@ -67,8 +68,8 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
 
     const pieData = useMemo(() => {
         if(!datasource.fetching && chartEncoding && chartEncoding.chartType === 'Piechart' && contextualData.directAttention && contextualData.directAttention.model) {
-            const selectedModel = contextualData.directAttention.model;
-            const selectedModelIndex = var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModel[0].replaceAll(' ', ''));
+            const selectedModels = contextualData.directAttention.model;
+            const selectedModelIndex = var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModels[0].replaceAll(' ', ''));
     
             return [
                 {
@@ -102,9 +103,44 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
         return [];
     }, [chartEncoding, contextualData, datasource]);
 
-    console.log({pieData})
+    const stackedBarData = useMemo(() => {
+        if(!datasource.fetching && chartEncoding && chartEncoding.chartType === 'StackedBarchart' && contextualData.directAttention && contextualData.directAttention.model) {
+            const selectedModels = contextualData.directAttention.model;
+            const selectedModelIndexes = selectedModels.map(selectedModel => var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModel.replaceAll(' ', '')));
     
-    if(datasource.fetching && !chartEncoding) {
+            return selectedModelIndexes.map((selectedModelIndex, index) => ([
+                {
+                    x: index + 1,
+                    y: +rating5s[selectedModelIndex],
+                    label: '5*',
+                },
+                {
+                    x: index + 1,
+                    y: +rating4s[selectedModelIndex],
+                    label: '4*',
+                },
+                {
+                    x: index + 1,
+                    y: +rating3s[selectedModelIndex],
+                    label: '3*',
+                },
+                {
+                    x: index + 1,
+                    y: +rating2s[selectedModelIndex],
+                    label: '2*',
+                },
+                {
+                    x: index + 1,
+                    y: +rating1s[selectedModelIndex],
+                    label: '1*',
+                }
+            ]));
+        }
+
+        return [];
+    }, [chartEncoding, contextualData, datasource]);
+    
+    if(datasource.fetching || !chartEncoding) {
         return (
             <View style={styles.container}>
                 <Text>Loading...</Text>
@@ -125,6 +161,12 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
             ) : chartEncoding.chartType === 'Piechart' ? (
                 <Pie
                     data={pieData}
+                    contextualData={contextualData}
+                    chartEncoding={chartEncoding}
+                />
+            ) : chartEncoding.chartType === 'StackedBarchart' ? (
+                <StackedBar
+                    data={stackedBarData}
                     contextualData={contextualData}
                     chartEncoding={chartEncoding}
                 />

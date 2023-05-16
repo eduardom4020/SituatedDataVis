@@ -5,7 +5,7 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
     if(!chartEncoding) {
         throw new Error('Unable to mount chart without encoding');
     }
-    
+
     const enhancedData = { data };
     enhancedData.fill = () => '#dbdbdb';
     enhancedData.size = () => 1.5;
@@ -22,6 +22,7 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
         const contextDeactivatedValues = contextDeactivatedSeries[selectSeries] || [];
         
         contextActivatedValues = contextActivatedSeries[selectSeries] || [];
+        
         contextActivatedValues = contextActivatedValues.filter(v => !contextDeactivatedValues.includes(v));
     }
     

@@ -17,7 +17,8 @@ export const QrScanner = ({ onScan=()=>null }) => {
 
     const handleQrCodeScanned = useCallback(({ type, data }) => {
         if(hasPermission && type === BarCodeScannerConstants.BarCodeType.qr && data) {
-            setData(JSON.parse(data.trim().replace(/\n|\s|\t|\\n|\\s|\\t/g, '')));
+            const newData = JSON.parse(data.trim().replace(/\n|\s|\t|\\n|\\s|\\t/g, ''));
+            setData(newData);
         }
     }, [hasPermission]);
     

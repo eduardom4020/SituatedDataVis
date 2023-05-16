@@ -43,7 +43,23 @@ export const QrScannerScreen = ({ navigation, route }) => {
                 && data.hasOwnProperty(encoding.changeRepresentation.contextualTrigger)
                 && Object.keys(data[encoding.changeRepresentation.contextualTrigger]).includes(encoding.changeRepresentation.series)
             ) {
+                console.log('Hereeeee')
                 storedData.selectedChartCode = encoding.changeRepresentation.showChart;
+            }
+
+            console.log(encoding) 
+            console.log(data) 
+            console.log(contextualData) 
+            console.log(storedData)
+
+            if(
+                encoding
+                && encoding.blendRepresentations
+                && data.hasOwnProperty(encoding.blendRepresentations.contextualTrigger)
+                && Object.keys(data[encoding.blendRepresentations.contextualTrigger]).includes(encoding.blendRepresentations.series)
+            ) {
+                console.log('TTTHereeeee')
+                storedData.selectedChartCode = encoding.blendRepresentations.showChart;
             }
 
             navigation.navigate('Dashboard', { contextualData, storedData });

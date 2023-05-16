@@ -7,6 +7,7 @@ export const Pie = ({data, chartEncoding={}, contextualData={}}) => {
     }
     
     const enhancedData = { data };
+    
     // const hasContextSelectAction = chartEncoding && Boolean(chartEncoding.contextSelect);
     // const selectSeries = hasContextSelectAction && chartEncoding.contextSelect.series;
 
