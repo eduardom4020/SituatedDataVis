@@ -32,7 +32,7 @@ export const QrScannerScreen = ({ navigation, route }) => {
             if(directAttention) {
                 contextualData.directAttention = Object.entries(directAttention)
                     .map(([key, values]) => ({
-                        [key]: [...new Set([...(contextualData.directAttention[directAttention] || []), ...values])]
+                        [key]: [...new Set([...(contextualData.directAttention[key] || []), ...values])]
                     }))
                     .reduce((acc, curr) => ({...acc, ...curr}), {});
             }
@@ -43,14 +43,8 @@ export const QrScannerScreen = ({ navigation, route }) => {
                 && data.hasOwnProperty(encoding.changeRepresentation.contextualTrigger)
                 && Object.keys(data[encoding.changeRepresentation.contextualTrigger]).includes(encoding.changeRepresentation.series)
             ) {
-                console.log('Hereeeee')
                 storedData.selectedChartCode = encoding.changeRepresentation.showChart;
             }
-
-            console.log(encoding) 
-            console.log(data) 
-            console.log(contextualData) 
-            console.log(storedData)
 
             if(
                 encoding
@@ -58,7 +52,6 @@ export const QrScannerScreen = ({ navigation, route }) => {
                 && data.hasOwnProperty(encoding.blendRepresentations.contextualTrigger)
                 && Object.keys(data[encoding.blendRepresentations.contextualTrigger]).includes(encoding.blendRepresentations.series)
             ) {
-                console.log('TTTHereeeee')
                 storedData.selectedChartCode = encoding.blendRepresentations.showChart;
             }
 

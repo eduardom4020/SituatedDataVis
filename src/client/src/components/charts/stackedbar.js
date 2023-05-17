@@ -7,21 +7,19 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}}) => {
     }
     
     const enhancedData = { data };
-    console.log(JSON.stringify(enhancedData.data, null, 4))
-    
-    // const hasContextSelectAction = chartEncoding && Boolean(chartEncoding.contextSelect);
-    // const selectSeries = hasContextSelectAction && chartEncoding.contextSelect.series;
 
     return (
         <VictoryChart
             theme={VictoryTheme.material}
             height={350}
             domainPadding={10}
+            domain={{x: [0, enhancedData.data.length + 1]}}
         >
             <VictoryStack>
             {
                 enhancedData.data.map(data => (
                     <VictoryBar
+                        barWidth={25}
                         theme={BaseTheme}
                         data={data}
                     />

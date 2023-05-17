@@ -107,34 +107,42 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
         if(!datasource.fetching && chartEncoding && chartEncoding.chartType === 'StackedBarchart' && contextualData.directAttention && contextualData.directAttention.model) {
             const selectedModels = contextualData.directAttention.model;
             const selectedModelIndexes = selectedModels.map(selectedModel => var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModel.replaceAll(' ', '')));
-    
-            return selectedModelIndexes.map((selectedModelIndex, index) => ([
-                {
+
+            const maxRatingsBySelectedModels = selectedModelIndexes.map(selectedModelIndex => (
+                +rating5s[selectedModelIndex] +
+                +rating4s[selectedModelIndex] +
+                +rating3s[selectedModelIndex] +
+                +rating2s[selectedModelIndex] +
+                +rating1s[selectedModelIndex]
+            ));
+
+            return [
+                selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: +rating5s[selectedModelIndex],
+                    y: (+rating5s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '5*',
-                },
-                {
+                })),
+                selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: +rating4s[selectedModelIndex],
+                    y: (+rating4s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '4*',
-                },
-                {
+                })),
+                selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: +rating3s[selectedModelIndex],
+                    y: (+rating3s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '3*',
-                },
-                {
+                })),
+                selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: +rating2s[selectedModelIndex],
+                    y: (+rating2s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '2*',
-                },
-                {
+                })),
+                selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: +rating1s[selectedModelIndex],
+                    y: (+rating1s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '1*',
-                }
-            ]));
+                })),
+            ];
         }
 
         return [];
