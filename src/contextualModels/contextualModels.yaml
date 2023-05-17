@@ -57,3 +57,5 @@ near:
 directAttention:
   model:
     - Mi 11 Ultra
+
+# {"near":{"brand":["Xiaomi"]}, "directAttention":{"model": ["Mi 11 Ultra"]}}
