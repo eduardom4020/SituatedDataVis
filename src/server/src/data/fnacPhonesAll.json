@@ -1,0 +1,3836 @@
+[
+    {
+        "title": "Smartphone Xiaomi Redmi 10C - 128GB - Ocean Blue",
+        "price": "159,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi A1 - 32GB - Black",
+        "price": "94,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A13 - 128GB - Preto",
+        "price": "189,98 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 10C - 64GB - Graphite Gray",
+        "price": "149,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Nothing Phone (1) - 128GB - Black",
+        "price": "399,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Nothing"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 10A - 64GB - Graphite Gray",
+        "price": "149,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Samsung Galaxy S20 FE 5G - 128GB - Azul",
+        "price": "449,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A23 5G - 128GB - Preto",
+        "price": "249,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 Pro 5G - 128GB - Midnight Black",
+        "price": "399,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 9A - 32GB - Granite Grey",
+        "price": "99,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A13 - 32GB - Azul",
+        "price": "179,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 9C NFC - 64GB - Midnight Gray",
+        "price": "139,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 10 2022 - 128GB - Sea Blue",
+        "price": "179,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi A1 - 32GB - Light Green",
+        "price": "94,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 128GB - Black",
+        "price": "679,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Oppo Reno8 5G - 256GB - Shimmer Black",
+        "price": "399,98 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A04S - 32GB - Preto",
+        "price": "139,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A53 5G - 256GB - Preto",
+        "price": "449,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi A1 - 32GB - Light Blue",
+        "price": "94,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 128GB - Roxo Escuro",
+        "price": "1 329,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 128GB - Roxo Escuro",
+        "price": "1 199,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 256GB - Preto Sideral",
+        "price": "1 299,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 128GB - Preto Sideral",
+        "price": "1 199,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 1TB - Dourado",
+        "price": "2 149,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 128GB - Prateado",
+        "price": "1 329,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 128GB - Prateado",
+        "price": "1 199,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 256GB - Dourado",
+        "price": "1 299,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 128GB - Meia-Noite",
+        "price": "749,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 - 128GB - Azul",
+        "price": "879,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Oppo Find X5 Pro 5G - 256GB - Ceramic White",
+        "price": "499,98 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 256GB - Black",
+        "price": "729,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Amarelo",
+        "price": "1 019,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 064,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade A",
+        "price": "728,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 - 128GB - Roxo",
+        "price": "879,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone SE - 128GB - Meia-Noite - 2022",
+        "price": "579,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone CAT S75 5G - 128GB - Preto",
+        "price": "569,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Caterpillar"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 256GB - Prateado",
+        "price": "1 449,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "579,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Rosa",
+        "price": "849,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 128GB - Roxo Escuro",
+        "price": "1 199,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 256GB - Preto Sideral",
+        "price": "1 299,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 128GB - Preto Sideral",
+        "price": "1 199,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 1TB - Dourado",
+        "price": "2 149,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 128GB - Prateado",
+        "price": "1 329,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 128GB - Prateado",
+        "price": "1 199,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 256GB - Dourado",
+        "price": "1 299,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 128GB - Meia-Noite",
+        "price": "749,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 - 128GB - Azul",
+        "price": "879,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Oppo Find X5 Pro 5G - 256GB - Ceramic White",
+        "price": "499,98 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 256GB - Black",
+        "price": "729,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Amarelo",
+        "price": "1 019,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 064,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade A",
+        "price": "728,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 - 128GB - Roxo",
+        "price": "879,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone SE - 128GB - Meia-Noite - 2022",
+        "price": "579,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone CAT S75 5G - 128GB - Preto",
+        "price": "569,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Caterpillar"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 256GB - Prateado",
+        "price": "1 449,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "579,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Rosa",
+        "price": "849,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 128GB - Graphite",
+        "price": "379,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 128GB - Graphite",
+        "price": "479,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 256GB - Dourado",
+        "price": "1 449,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Xiaomi 12 5G - 256GB - Purple",
+        "price": "499,98 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 256GB - Prateado",
+        "price": "1 299,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 128GB - Dourado",
+        "price": "1 329,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 128GB - Dourado",
+        "price": "1 199,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A33 5G - 128GB - Preto",
+        "price": "299,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 128GB - Luz das Estrelas",
+        "price": "989,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A23 5G - 64GB - Preto",
+        "price": "249,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 12 S - 128GB - Preto",
+        "price": "299,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Meia-Noite",
+        "price": "939,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 - 64GB - Preto",
+        "price": "179,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 128GB - Preto Sideral",
+        "price": "1 329,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Meia-Noite",
+        "price": "849,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple Watch SE 40mm - Alumínio Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "216,99 €",
+        "rate": "5",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 256GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 128GB - Green",
+        "price": "679,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 128GB - White",
+        "price": "679,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Ulefone Armor x9 Pro - 64GB - Preto",
+        "price": "159,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Smartphone Ulefone Armor x9 Pro - 64GB - Verde",
+        "price": "159,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Smartphone OnePlus Nord CE2 Lite 5G 128 GB - Preto",
+        "price": "229,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Oneplus"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 256GB - Preto Sideral",
+        "price": "1 449,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Nothing Phone (1) - 256GB - Black",
+        "price": "419,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Nothing"
+    },
+    {
+        "title": "Apple iPhone 11 - 64GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "394,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S23 Plus 5G 512GB - Bege",
+        "price": "1 269,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 256GB - Roxo Escuro",
+        "price": "1 299,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Oppo Reno8 5G - 256GB - Shimmer Gold",
+        "price": "399,98 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 12C - 128GB - Ocean Blue",
+        "price": "179,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone CAT S42 H+ - 32GB - Preto",
+        "price": "219,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Caterpillar"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold3 5G - 512GB - Green",
+        "price": "1 199,98 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Telemovel Nokia 8210 4G - Azul",
+        "price": "84,99 €",
+        "rate": "3",
+        "sub": "Telemóvel Nokia"
+    },
+    {
+        "title": "Telemóvel CAT B26 - Preto",
+        "price": "69,99 €",
+        "rate": "1",
+        "sub": "Telemóvel Caterpillar"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Branco",
+        "price": "799,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 5G - 128GB - Prateado",
+        "price": "229,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 256GB - Roxo Escuro",
+        "price": "1 449,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S20 FE 5G - 256GB - Azul",
+        "price": "469,98 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple MacBook Air 13'' i5-1,8GHz | 8GB | 128GB - Recondicionado – FNAC Restart - Grade B",
+        "price": "519,99 € ",
+        "rate": "3",
+        "sub": "Macbook Apple rst"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A13 5G - 128GB - Preto",
+        "price": "199,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 128GB - Meia-Noite",
+        "price": "989,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Luz das Estrelas",
+        "price": "849,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Nothing Phone (1) - 256GB - Black",
+        "price": "459,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Nothing"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Meia-Noite",
+        "price": "1 019,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 128GB - Azul",
+        "price": "989,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Azul",
+        "price": "849,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 256GB - Preto",
+        "price": "1 349,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "994,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 512GB - Preto",
+        "price": "1 529,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 256GB - Preto",
+        "price": "959,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 128GB - Violet",
+        "price": "379,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 064,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 1TB - Preto Sideral",
+        "price": "1 799,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Verde",
+        "price": "849,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 256GB - Green",
+        "price": "729,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 - 64GB - Prateado",
+        "price": "179,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 256GB - Graphite",
+        "price": "529,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A53 5G - 256GB - Branco",
+        "price": "449,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Azul",
+        "price": "1 019,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 - 512GB - Roxo",
+        "price": "1 299,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 128GB - Bora Purple",
+        "price": "679,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Luz das Estrelas",
+        "price": "849,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Nothing Phone (1) - 256GB - Black",
+        "price": "459,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Nothing"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Meia-Noite",
+        "price": "1 019,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 128GB - Azul",
+        "price": "989,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Azul",
+        "price": "849,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 256GB - Preto",
+        "price": "1 349,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "994,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 512GB - Preto",
+        "price": "1 529,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 256GB - Preto",
+        "price": "959,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 128GB - Violet",
+        "price": "379,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 064,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 1TB - Preto Sideral",
+        "price": "1 799,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Verde",
+        "price": "849,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 256GB - Green",
+        "price": "729,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 - 64GB - Prateado",
+        "price": "179,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 256GB - Graphite",
+        "price": "529,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A53 5G - 256GB - Branco",
+        "price": "449,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Azul",
+        "price": "1 019,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 - 512GB - Roxo",
+        "price": "1 299,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 128GB - Bora Purple",
+        "price": "679,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Roxo",
+        "price": "1 019,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Nothing Phone (1) - 256GB - White",
+        "price": "459,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Nothing"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 10 2022 - 128GB - Carbon Gray",
+        "price": "179,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Xiaomi 12T 5G - 256GB - Black",
+        "price": "599,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
+        "price": "714,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 128GB - White",
+        "price": "479,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Preto - Recondicionado - FNAC Restart - Grade A",
+        "price": "728,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 - 128GB - Onyx Gray",
+        "price": "249,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPad - 32GB Wi-Fi + Cellular - Prateado – FNAC Restart - Grade A",
+        "price": "229,99 €",
+        "rate": "1",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 128GB - Cinzento - Recondicionado – FNAC Restart - Grade A",
+        "price": "449,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Luz das Estrelas",
+        "price": "939,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone SE - 128GB - Luz das Estrelas - 2022",
+        "price": "579,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 - 128GB - Preto",
+        "price": "209,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 5G - 128GB - Preto",
+        "price": "229,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Huawei Mate 50 Pro - 256GB - Preto",
+        "price": "1 149,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Huawei"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 128GB - Phantom Black",
+        "price": "599,98 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Azul",
+        "price": "739,98 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple Watch Series 5 44mm - Alumínio Cinzento - Recondicionado – FNAC Restart - Grade B",
+        "price": "269,99 €",
+        "rate": "5",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 64GB - Branco - Recondicionado – FNAC Restart - Grade B",
+        "price": "394,99 €",
+        "rate": "5",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 128GB - Azul",
+        "price": "749,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Roxo",
+        "price": "1 019,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Nothing Phone (1) - 256GB - White",
+        "price": "459,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Nothing"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 10 2022 - 128GB - Carbon Gray",
+        "price": "179,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Xiaomi 12T 5G - 256GB - Black",
+        "price": "599,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
+        "price": "714,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 128GB - White",
+        "price": "479,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Preto - Recondicionado - FNAC Restart - Grade A",
+        "price": "728,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 - 128GB - Onyx Gray",
+        "price": "249,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPad - 32GB Wi-Fi + Cellular - Prateado – FNAC Restart - Grade A",
+        "price": "229,99 €",
+        "rate": "1",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 128GB - Cinzento - Recondicionado – FNAC Restart - Grade A",
+        "price": "449,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Luz das Estrelas",
+        "price": "939,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone SE - 128GB - Luz das Estrelas - 2022",
+        "price": "579,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 - 128GB - Preto",
+        "price": "209,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 5G - 128GB - Preto",
+        "price": "229,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Huawei Mate 50 Pro - 256GB - Preto",
+        "price": "1 149,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Huawei"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 128GB - Phantom Black",
+        "price": "599,98 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Azul",
+        "price": "739,98 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple Watch Series 5 44mm - Alumínio Cinzento - Recondicionado – FNAC Restart - Grade B",
+        "price": "269,99 €",
+        "rate": "5",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 64GB - Branco - Recondicionado – FNAC Restart - Grade B",
+        "price": "394,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 128GB - Azul",
+        "price": "749,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Nothing Phone (1) - 256GB - White",
+        "price": "419,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Nothing"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 512GB - Verde",
+        "price": "1 529,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
+        "price": "994,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "714,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 128GB - Lime",
+        "price": "379,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Oppo Reno8 Lite 5G - 128GB - Cosmic Black",
+        "price": "329,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A04S - 32GB - Branco",
+        "price": "139,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S23 Plus 5G 512GB - Preto",
+        "price": "1 269,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 512GB - Meia-Noite",
+        "price": "1 299,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Preto",
+        "price": "799,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - (Product) Red",
+        "price": "599,98 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 256GB - White",
+        "price": "529,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Azul - Recondicionado – FNAC Restart - Grade A",
+        "price": "728,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 256GB - Lavender",
+        "price": "959,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 128GB - Silver",
+        "price": "379,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 11 - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "454,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 11 - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "434,99 €",
+        "rate": "5",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S20 - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "359,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple MacBook Pro 13'' Retina i5-1,4GHz | 8GB | 128GB | Intel Iris Plus Graphics 645 com Touch Bar e Touch ID - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "809,99 € ",
+        "rate": "2",
+        "sub": "Macbook Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 Plus 5G 256GB - Verde",
+        "price": "1 149,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Nothing Phone (1) - 256GB - White",
+        "price": "419,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Nothing"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 512GB - Verde",
+        "price": "1 529,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
+        "price": "994,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "714,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 128GB - Lime",
+        "price": "379,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Oppo Reno8 Lite 5G - 128GB - Cosmic Black",
+        "price": "329,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A04S - 32GB - Branco",
+        "price": "139,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S23 Plus 5G 512GB - Preto",
+        "price": "1 269,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 512GB - Meia-Noite",
+        "price": "1 299,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Preto",
+        "price": "799,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - (Product) Red",
+        "price": "599,98 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 256GB - White",
+        "price": "529,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Azul - Recondicionado – FNAC Restart - Grade A",
+        "price": "728,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 256GB - Lavender",
+        "price": "959,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 128GB - Silver",
+        "price": "379,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 11 - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "454,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 11 - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "434,99 €",
+        "rate": "5",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S20 - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "359,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple MacBook Pro 13'' Retina i5-1,4GHz | 8GB | 128GB | Intel Iris Plus Graphics 645 com Touch Bar e Touch ID - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "809,99 € ",
+        "rate": "1",
+        "sub": "Macbook Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 Plus 5G 256GB - Verde",
+        "price": "1 149,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 Pro+ 5G - 256GB - Light Blue",
+        "price": "499,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 128GB - Preto",
+        "price": "899,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 512GB - Bege",
+        "price": "1 529,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 128GB - Lavender",
+        "price": "899,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - Luz das Estrelas",
+        "price": "1 019,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4 5G - 128GB - Pink Gold",
+        "price": "979,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 - 128GB - Ice Blue",
+        "price": "249,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone XR - 64GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "279,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 13 - 512GB - Verde",
+        "price": "1 059,98 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 5G - 128GB - Verde",
+        "price": "229,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi 13 Pro 5G - 256GB - Ceramic Black",
+        "price": "1 399,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone CAT S53 5G - 128GB - Preto",
+        "price": "489,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Caterpillar"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 128GB - Grafite- Recondicionado – FNAC Restart - Grade B",
+        "price": "904,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 5G - 128GB - Onyx Gray",
+        "price": "309,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 128GB - Violet",
+        "price": "479,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 1TB - Prateado",
+        "price": "1 799,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Ulefone Armor X10 Pro - 64GB - Preto",
+        "price": "199,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 128GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
+        "price": "924,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A54 5G - 128GB - Lime",
+        "price": "479,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 - 128GB - Prateado",
+        "price": "209,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Rosa",
+        "price": "939,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A23 5G - 64GB - Branco",
+        "price": "249,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 11T - 256GB - Preto",
+        "price": "679,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 64GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "579,99 €",
+        "rate": "5",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Verde",
+        "price": "739,98 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 128GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 7 45mm - Cellular - Aço Inoxidável Prateada - Recondicionado - FNAC Restart - Grade A",
+        "price": "609,99 €",
+        "rate": "5",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 5 44mm - Alumínio Cinzento - Recondicionado – FNAC Restart - Grade A",
+        "price": "299,99 €",
+        "rate": "4",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Telemóvel CAT B40 4G - Preto",
+        "price": "89,99 €",
+        "rate": "1",
+        "sub": "Telemóvel Caterpillar"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 9 - 128 GB - Preto",
+        "price": "609,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A13 5G - 128GB - Branco",
+        "price": "199,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S23 Plus 5G 256GB - Preto",
+        "price": "1 149,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi 13 5G - 256GB - Black",
+        "price": "999,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold4 5G - 256GB - Beige",
+        "price": "1 599,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Azul",
+        "price": "939,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 1TB - Roxo Escuro",
+        "price": "1 799,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone XR - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "309,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 256GB - Meia-Noite",
+        "price": "1 189,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Telemóvel Senior SPC Fortune 2 - Preto",
+        "price": "39,99 €",
+        "rate": "4",
+        "sub": "Telemóvel Spc internet"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "924,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 9AT - 32GB - Granite Grey",
+        "price": "99,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A23 5G - 128GB - Branco",
+        "price": "249,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S20+ - 128GB - Preto Cósmico - Recondicionado – FNAC Restart - Grade A",
+        "price": "399,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "454,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 11 - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
+        "price": "394,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A23 5G - 128GB - Azul",
+        "price": "249,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 128GB - Cream",
+        "price": "599,98 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 128GB - Roxo",
+        "price": "989,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 256GB - Bege",
+        "price": "959,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "594,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Pro Max - 1TB - Prateado",
+        "price": "2 149,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "629,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 - 64GB - Verde",
+        "price": "179,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S21 FE 5G - 256GB - Cinzento",
+        "price": "629,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPad - 32GB Wi-Fi + Cellular - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "219,99 €",
+        "rate": "1",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 128GB - Prateado- Recondicionado – FNAC Restart - Grade B",
+        "price": "904,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "599,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 256GB - Lavender",
+        "price": "1 349,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold3 5G - 256GB - Black",
+        "price": "1 099,98 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 - 512GB - Azul",
+        "price": "1 299,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Verde",
+        "price": "939,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 64GB - Branco",
+        "price": "549,98 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 12C - 64GB - Graphite Gray",
+        "price": "159,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 8 Pro - 128GB - Preto",
+        "price": "269,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone 14 - 256GB - (Product) Red",
+        "price": "1 019,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 12C NFC - 32GB - Azul",
+        "price": "139,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 128GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 256GB - Bege",
+        "price": "1 349,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Roxo",
+        "price": "799,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 256GB - Verde",
+        "price": "959,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 12C NFC - 32GB - Grafite",
+        "price": "139,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Samsung Galaxy S23 Ultra 5G 256GB - Verde",
+        "price": "1 349,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "539,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 064,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 256GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "608,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Grafite - Recondicionado – FNAC Restart - Grade B",
+        "price": "694,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 64GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "509,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 256GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
+        "price": "879,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 Plus 5G 256GB - Lavender",
+        "price": "1 149,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 256GB - White",
+        "price": "729,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "879,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Oppo A17 - 64GB - Midnight Black",
+        "price": "169,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 12C - 64GB - Ocean Blue",
+        "price": "159,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A23 5G - 64GB - Azul",
+        "price": "249,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold4 5G - 512GB - Phantom Black",
+        "price": "1 699,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 256GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
+        "price": "859,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 128GB - Branco - Recondicionado – FNAC Restart - Grade B",
+        "price": "434,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "994,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple MacBook Air 13'' Retina | i3-1,1GHz | 8GB | 256GB SSD - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "729,99 € ",
+        "rate": "1",
+        "sub": "Macbook Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 256GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 64GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "414,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Telemóvel Senior SPC Stella 2 - Cinzento",
+        "price": "49,99 €",
+        "rate": "3",
+        "sub": "Telemóvel Spc internet"
+    },
+    {
+        "title": "Apple iPhone 14 - 128GB - (Product) Red",
+        "price": "879,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Telemóvel NOKIA 210 Dual SIM - Preto",
+        "price": "45,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Nokia"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4 5G - 256GB - Graphite",
+        "price": "1 029,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 256GB - Roxo",
+        "price": "1 189,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone X - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "279,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4 5G - 512GB - Pink Gold",
+        "price": "1 159,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 256GB - Silver",
+        "price": "429,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "614,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 8 Pro - 128GB - Vermelho",
+        "price": "269,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone SE - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "218,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S20 FE - 128GB - Verde - Recondicionado – FNAC Restart - Grade A",
+        "price": "299,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone XS Max- 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "398,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 - 128GB - Verde",
+        "price": "209,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone XR - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
+        "price": "279,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 128GB - Verde",
+        "price": "899,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone SE - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
+        "price": "188,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 128GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade A",
+        "price": "604,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
+        "price": "694,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 128GB - Phantom Black",
+        "price": "649,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold4 5G - 256GB - Graygreen",
+        "price": "1 599,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4 5G - 256GB - Bora Purple",
+        "price": "1 029,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 5G - 128GB - Ice Blue",
+        "price": "309,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Samsung Galaxy Note20 Ultra 5G - 256GB - Mystic Black - Recondicionado – FNAC Restart - Grade B",
+        "price": "629,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 256GB - (Product) Red",
+        "price": "1 189,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Ulefone Armor x9 Pro - 64GB - Vermelho",
+        "price": "159,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone 13 Pro 128GB - Verde - Recondicionado FNAC Restart - Grade A",
+        "price": "924,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Telemóvel Nokia 105 - Black",
+        "price": "27,99 €",
+        "rate": "5",
+        "sub": "Telemóvel Nokia"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 256GB - Amarelo",
+        "price": "1 189,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 128GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A53 5G - 256GB - Azul",
+        "price": "449,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "614,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 64GB - Verde Meia-Noite - Recondicionado – FNAC Restart - Grade A",
+        "price": "529,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max 128GB - Verde - Recondicionado FNAC Restart - Grade A",
+        "price": "994,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "694,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "999,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 64GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "529,99 €",
+        "rate": "5",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "529,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 256GB - Azul",
+        "price": "1 189,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "559,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Meia-Noite - Recondicionado – FNAC Restart - Grade B",
+        "price": "708,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S23 Plus 5G 256GB - Bege",
+        "price": "1 149,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A34 5G - 256GB - Graphite",
+        "price": "429,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - (Product) Red",
+        "price": "879,98 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S23 5G 128GB - Bege",
+        "price": "899,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S22 5G - 256GB - Bora Purple",
+        "price": "729,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 512GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Smartphone Oppo A17 - 64GB - Lake Blue",
+        "price": "169,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Apple iPhone 11 - 256GB - Roxo - Recondicionado – FNAC Restart - Grade A",
+        "price": "669,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 128GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "629,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 12 5G - 128GB - Preto",
+        "price": "449,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone SE - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "238,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple MacBook Air 13'' Retina | i3-1,1GHz | 8GB | 256GB SSD - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "769,99 € ",
+        "rate": "5",
+        "sub": "Macbook Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "974,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "879,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "579,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 256GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 512GB - Rosa",
+        "price": "1 059,98 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 256GB - Grafite- Recondicionado – FNAC Restart - Grade A",
+        "price": "999,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Pro - 1TB - Dourado",
+        "price": "1 799,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone XS Max- 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "418,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "519,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 FE 5G - 256GB - Lavanda",
+        "price": "629,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold4 5G - 512GB - Graygreen",
+        "price": "1 699,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 19T 256GB - Preto",
+        "price": "649,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 512GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
+        "price": "899,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Huawei nova Y70 - 128GB - Preto",
+        "price": "179,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Huawei"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4 5G - 128GB - Bora Purple",
+        "price": "979,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Telemovel Nokia 5710 Express Audio - Preto | Vermelho",
+        "price": "49,98 €",
+        "rate": "1",
+        "sub": "Telemóvel Nokia"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Rosa - Recondicionado – FNAC Restart - Grade A",
+        "price": "728,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - Roxo - Recondicionado – FNAC Restart - Grade A",
+        "price": "539,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 128GB - (Product) Red",
+        "price": "989,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Telemóvel Senior SPC Harmony - Preto",
+        "price": "59,99 €",
+        "rate": "4",
+        "sub": "Telemóvel Spc internet"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "614,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 Pro - 128GB - Graphite Gray",
+        "price": "349,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "879,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 10C - 64GB - Ocean Blue",
+        "price": "149,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade B",
+        "price": "859,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "859,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold4 5G - 256GB - Phantom Black",
+        "price": "1 599,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 11 - 64GB - Roxo - Recondicionado – FNAC Restart - Grade A",
+        "price": "414,99 €",
+        "rate": "3",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 64GB - Verde Meia-Noite - Recondicionado – FNAC Restart - Grade B",
+        "price": "559,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Telemóvel Senior SPC Fortune 2 Pocket Edition - Preto",
+        "price": "29,99 €",
+        "rate": "5",
+        "sub": "Telemóvel Spc internet"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Rosa - Recondicionado – FNAC Restart - Grade B",
+        "price": "708,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "714,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "594,99 €",
+        "rate": "5",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 256GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "709,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 128GB - Roxo - Recondicionado – FNAC Restart - Grade B",
+        "price": "434,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple MacBook Air 13'' Retina | i5-1,6GHz | 8GB | 128GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "769,99 € ",
+        "rate": "5",
+        "sub": "Macbook Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 7 45mm - Alumínio Luz das Estrelas - Recondicionado - FNAC Restart - Grade A",
+        "price": "369,99 €",
+        "rate": "4",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 256GB - Luz das Estrelas",
+        "price": "1 189,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "609,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 5G - 64GB - Prateado",
+        "price": "229,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 Pro - 128GB - Azul",
+        "price": "349,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Dourado – - Recondicionado FNAC Restart - Grade B",
+        "price": "1 044,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold3 5G - 512GB - Black",
+        "price": "1 199,98 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold3 5G - 256GB - Black - Recondicionado – FNAC Restart - Grade A",
+        "price": "849,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - Branco - Recondicionado – FNAC Restart - Grade B",
+        "price": "579,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPad Pro 12,9'' - 256GB WiFi - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "597,99 €",
+        "rate": "2",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Apple Watch SE 44mm - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "239,99 €",
+        "rate": "2",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 256GB - Azul - Recondicionado – FNAC Restart - Grade A",
+        "price": "608,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 128GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "694,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Azul - Recondicionado – FNAC Restart - Grade B",
+        "price": "708,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 64GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "529,99 €",
+        "rate": "3",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone XS Max- 64GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "398,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - Branco - Recondicionado – FNAC Restart - Grade B",
+        "price": "519,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "509,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade B",
+        "price": "708,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Oppo A98 5G - 256 GB - Preto + Auriculares True Wireless Oppo Enco Free2i - Branco",
+        "price": "399,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Apple Watch Nike Series 6 40mm - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "309,99 €",
+        "rate": "3",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "994,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Roxo - Recondicionado – FNAC Restart - Grade B",
+        "price": "594,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi 13 Lite 5G - 256GB - Lite Pink",
+        "price": "549,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Xiaomi 13 Lite 5G - 256GB - Black",
+        "price": "549,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple Watch Series 6 44mm - Alumínio Azul - Recondicionado – FNAC Restart - Grade B",
+        "price": "329,99 €",
+        "rate": "4",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Smartphone Oppo A78 5G - 4GB - 128GB - Glowing Black",
+        "price": "259,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 128GB - Green",
+        "price": "649,98 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S20 Ultra 5G - 128GB - Preto Cósmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "544,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S20 Ultra 5G - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "529,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Smartphone Oppo A78 5G - 8GB - 128GB - Glowing Blue",
+        "price": "299,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Apple Watch SE 40mm - Cellular - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "274,99 €",
+        "rate": "4",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Smartphone Oppo A98 5G - 256 GB - Azul + Auriculares True Wireless Oppo Enco Free2i - Branco",
+        "price": "399,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 128GB - Meia-Noite - Recondicionado – FNAC Restart - Grade A",
+        "price": "604,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Telemóvel Nokia 2660 Flip - Preto",
+        "price": "89,99 €",
+        "rate": "4",
+        "sub": "Telemóvel Nokia"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "614,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi 10A 6.5\" 3GB | 64GB - Azul",
+        "price": "149,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi Note 12 Pro 5G - 128GB - Atlantic Blue",
+        "price": "399,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 5G - 64GB - Preto",
+        "price": "229,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4 5G - 128GB - Graphite",
+        "price": "979,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPad Pro 12,9'' - 256GB WiFi + Cellular - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "671,99 €",
+        "rate": "1",
+        "sub": "Tablet Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4 5G - 512GB - Graphite - Fnac Outlet - Grade A",
+        "price": "849,97 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple MacBook Pro 13'' Retina i5-2,0GHz | 16GB | 512GB | Intel Iris Plus Graphics com Magic Keyboard Touch Bar e Touch ID - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 279,99 € ",
+        "rate": "5",
+        "sub": "Macbook Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 128GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "904,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 17 Pro - 256GB - Preto",
+        "price": "419,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold3 5G - 512GB - Silver",
+        "price": "1 199,98 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "629,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
+        "price": "1 044,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple MacBook Air 13'' Retina | i3-1,1GHz | 8GB | 256GB SSD - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "729,99 € ",
+        "rate": "4",
+        "sub": "Macbook Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold3 5G - 256GB - Black - Recondicionado – FNAC Restart - Grade B",
+        "price": "829,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone XS Max- 64GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "378,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 512GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S20+ - 128GB - Preto Cósmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "379,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 128GB - Rosa - Recondicionado - FNAC Restart - Grade A",
+        "price": "449,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "649,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 256GB - Branco - Recondicionado – FNAC Restart - Grade B",
+        "price": "518,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 512GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "899,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 256GB - Phantom Black",
+        "price": "749,98 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip4 5G - 512GB - Graphite",
+        "price": "1 159,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone X - 64GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "279,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - Azul - Recondicionado – FNAC Restart - Grade B",
+        "price": "519,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S10+ - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "299,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple Watch SE 40mm - Cellular - Alumínio Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "293,99 €",
+        "rate": "1",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S20 Ultra 5G - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade A",
+        "price": "549,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 512GB - Azul",
+        "price": "1 059,98 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 14 Pro - 128GB - Preto",
+        "price": "309,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Novo Apple iPad Pro 11.0'' - 512GB WiFi + Cellular - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "849,99 €",
+        "rate": "5",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Branco - Recondicionado – FNAC Restart - Grade B",
+        "price": "594,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPad Air 10.5'' Wi-Fi - 64GB - Cinzento Sideral 2019 - Recondicionado – FNAC Restart - Grade A",
+        "price": "387,99 €",
+        "rate": "4",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Novo Apple iPad Pro 11.0'' - 128GB WiFi - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "709,99 €",
+        "rate": "2",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 128GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "649,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Fold3 5G - 256GB - Green",
+        "price": "1 099,98 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Novo Apple iPad Pro 11.0'' - 512GB WiFi - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "869,99 €",
+        "rate": "4",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S10 - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "259,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Smartphone Oppo A78 5G - 4GB - 128GB - Glowing Blue",
+        "price": "259,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Oppo"
+    },
+    {
+        "title": "Apple iPhone 13 - 512GB - Luz das Estrelas",
+        "price": "1 059,98 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Xiaomi 13 Lite 5G - 256GB - Lite Blue",
+        "price": "549,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Samsung Galaxy S20 FE - 128GB - Azul - Recondicionado – FNAC Restart - Grade B",
+        "price": "279,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple Watch Series 6 40mm - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "299,99 €",
+        "rate": "5",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 256GB - Grafite- Recondicionado – FNAC Restart - Grade B",
+        "price": "979,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 128GB - Cinzento - Recondicionado – FNAC Restart - Grade B",
+        "price": "429,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Telemóvel SPC Titan - Preto",
+        "price": "34,99 €",
+        "rate": "3",
+        "sub": "Telemóvel Spc"
+    },
+    {
+        "title": "Samsung Galaxy S20+ - 128GB - Azul Nuvem - Recondicionado – FNAC Restart - Grade B",
+        "price": "379,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Azul Sierra- Recondicionado – FNAC Restart - Grade B",
+        "price": "974,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "594,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 64GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "509,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone XR - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
+        "price": "299,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 512GB - Roxo",
+        "price": "1 579,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi A2 - 32GB - Light Green",
+        "price": "119,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 256GB - Green",
+        "price": "749,98 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Samsung Galaxy S21+ 5G - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "529,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPad - 32GB Wi-Fi - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "259,99 €",
+        "rate": "4",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi A2 - 32GB - Blue",
+        "price": "119,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone XS Max- 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "398,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Telemovel Nokia 130 Dual Sim - Preto",
+        "price": "34,99 €",
+        "rate": "2",
+        "sub": "Telemóvel Nokia"
+    },
+    {
+        "title": "Apple iPhone 14 - 512GB - (Product) Red",
+        "price": "1 189,98 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple Watch Series 7 45mm - Cellular - Alumínio Meia-Noite - Recondicionado - FNAC Restart - Grade A",
+        "price": "399,99 €",
+        "rate": "1",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 128GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "708,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 256GB - Phantom Black - Recondicionado - FNAC Restart - Grade B",
+        "price": "539,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Smartphone Xiaomi Redmi A2 - 32GB - Black",
+        "price": "119,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Xiaomi"
+    },
+    {
+        "title": "Apple iPhone SE - 64GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "208,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 512GB - Azul",
+        "price": "1 579,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 512GB - Meia-Noite",
+        "price": "1 579,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 256GB - Meia-Noite - Recondicionado – FNAC Restart - Grade A",
+        "price": "698,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 256GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "729,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 064,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Samsung Galaxy A14 5G - 64GB - Verde",
+        "price": "229,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone XR - 256GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "429,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 1TB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 299,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 18T - 256GB - Preto",
+        "price": "799,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Samsung Galaxy S10+ - 512GB - Preto Cerâmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "329,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade B",
+        "price": "1 044,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone XS Max- 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "398,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Samsung Galaxy S20+ 5G - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "429,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Novo Apple iPad Mini 8.3'' Wi-Fi + Cellular - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "499,99 €",
+        "rate": "1",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 512GB - (Product) Red",
+        "price": "969,98 €",
+        "rate": "1",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Samsung Galaxy S10+ - 512GB - Branco Cerâmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "409,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "579,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 256GB - Verde - Recondicionado – FNAC Restart - Grade A",
+        "price": "608,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 64GB - Roxo - Recondicionado – FNAC Restart - Grade B",
+        "price": "394,99 €",
+        "rate": "5",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple Watch Series 6 44mm - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "339,99 €",
+        "rate": "3",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Novo Apple iPad 10.2'' Wi-Fi - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "479,99 €",
+        "rate": "1",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - Azul - Recondicionado – FNAC Restart - Grade B",
+        "price": "579,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPad 10.2'' Wi-Fi + Cellular - 32GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "381,99 €",
+        "rate": "3",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 128GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "434,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 64GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "559,99 €",
+        "rate": "5",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - Verde - Recondicionado – FNAC Restart - Grade A",
+        "price": "539,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 64GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "449,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 256GB - Cream",
+        "price": "749,98 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 256GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
+        "price": "588,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 512GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 099,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 256GB - Violeta - Recondicionado – FNAC Restart - Grade A",
+        "price": "538,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPad 10.2'' Wi-Fi - 32GB - Prateado 2019 - Recondicionado – FNAC Restart - Grade A",
+        "price": "312,99 €",
+        "rate": "5",
+        "sub": "iPad Apple rst"
+    },
+    {
+        "title": "Apple iPhone XR - 128GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
+        "price": "309,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "594,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 256GB - Grafite - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 6 44mm - Cellular - Aço Inoxidável Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "499,99 €",
+        "rate": "1",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Rosa - Recondicionado – FNAC Restart - Grade A",
+        "price": "784,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple Watch SE 44mm - Cellular - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
+        "price": "310,99 €",
+        "rate": "2",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 14 Plus - 512GB - Luz das Estrelas",
+        "price": "1 579,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 256GB - Verde Alpino - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 064,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S20 FE 5G - 128GB - Azul - Recondicionado – FNAC Restart - Grade A",
+        "price": "349,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "599,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Meia-Noite - Recondicionado – FNAC Restart - Grade A",
+        "price": "784,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone XS Max- 512GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "514,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - (Product) Red Recondicionado – FNAC Restart - Grade A",
+        "price": "784,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 256GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
+        "price": "608,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy Z Flip3 5G - 128GB - Green",
+        "price": "649,98 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 1TB - Verde Alpino – Recondicionado - FNAC Restart - Grade A",
+        "price": "1 299,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 6 44mm - Alumínio Azul - Recondicionado – FNAC Restart - Grade A",
+        "price": "339,99 €",
+        "rate": "5",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21+ 5G - 128GB - Violeta - Recondicionado - FNAC Restart - Grade A",
+        "price": "549,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 256GB - Cinzento - Recondicionado – FNAC Restart - Grade A",
+        "price": "538,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Roxo - Recondicionado – FNAC Restart - Grade A",
+        "price": "614,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S10e - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "269,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "709,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S21+ 5G - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "579,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S10+ - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "279,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple Watch SE 44mm - Cellular - Alumínio Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "310,99 €",
+        "rate": "1",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "ZTC Cardphone G200 - Branco",
+        "price": "64,99 €",
+        "rate": "2",
+        "sub": "Telemóvel Ztc"
+    },
+    {
+        "title": "Apple Watch Series 7 45mm - Alumínio Azul - Recondicionado - FNAC Restart - Grade B",
+        "price": "349,99 €",
+        "rate": "5",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 128GB - Verde Alpino - Recondicionado – FNAC Restart - Grade B",
+        "price": "974,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 256GB - Titânio - Recondicionado – FNAC Restart - Grade A",
+        "price": "749,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "859,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Mini - 256GB - Azul- Recondicionado – FNAC Restart - Grade A",
+        "price": "698,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "629,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "729,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple Watch Series 6 44mm - Alumínio Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "329,99 €",
+        "rate": "2",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
+        "price": "599,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 13 - 256GB - Preto",
+        "price": "399,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Samsung Galaxy S21+ 5G - 128GB - Violeta – FNAC Restart - Grade B",
+        "price": "529,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade A",
+        "price": "784,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 7 45mm - Cellular - Aço Inoxidável Grafite - Recondicionado – FNAC Restart - Grade B",
+        "price": "589,99 €",
+        "rate": "4",
+        "sub": "Gadget Conectável Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 64GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "559,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra 5G - 512GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "799,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro Max - 64GB - Verde Meia-Noite - Recondicionado – FNAC Restart - Grade A",
+        "price": "579,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 256GB - Cinzento - Recondicionado – FNAC Restart - Grade B",
+        "price": "518,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 128GB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
+        "price": "904,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 256GB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
+        "price": "979,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 7 45mm - Cellular - Aço Inoxidável Grafite - Recondicionado - FNAC Restart - Grade A",
+        "price": "609,99 €",
+        "rate": "3",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 6 40mm - Alumínio Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "319,99 €",
+        "rate": "1",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "779,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone XS Max- 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "398,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rfb"
+    },
+    {
+        "title": "Apple iPhone 12 - 256GB - Roxo - Recondicionado – FNAC Restart - Grade A",
+        "price": "708,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 8 - 64GB - Preto",
+        "price": "229,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple Watch Series 7 45mm - Alumínio (Product) Red - Recondicionado - FNAC Restart - Grade B",
+        "price": "349,99 €",
+        "rate": "3",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Azul - Recondicionado – FNAC Restart - Grade A",
+        "price": "784,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 15 - 128GB - Preto",
+        "price": "329,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 1TB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
+        "price": "1 279,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 256GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "649,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S21+ 5G - 256GB - Preto - Recondicionado – FNAC Restart - Grade B",
+        "price": "559,99 €",
+        "rate": "3",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 64GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "394,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "594,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 512GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
+        "price": "808,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Meia-Noite - Recondicionado – FNAC Restart - Grade B",
+        "price": "764,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 512GB - Azul Sierra - Recondicionado - FNAC Restart - Grade A",
+        "price": "1 199,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 256GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade B",
+        "price": "764,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 128GB - Rosa - Recondicionado – FNAC Restart - Grade B",
+        "price": "429,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S20 FE 5G - 128GB - Azul - Recondicionado – FNAC Restart - Grade B",
+        "price": "329,99 €",
+        "rate": "1",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 1TB - Dourado - Recondicionado FNAC Restart - Grade A",
+        "price": "1 249,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "609,99 €",
+        "rate": "1",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 - 256GB - Verde - Recondicionado – FNAC Restart - Grade A",
+        "price": "708,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 512GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
+        "price": "688,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
+        "price": "519,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S10 - 128GB - Verde - Recondicionado – FNAC Restart - Grade A",
+        "price": "279,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 11 Pro - 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
+        "price": "609,99 €",
+        "rate": "2",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 256GB - Branco - Recondicionado – FNAC Restart - Grade A",
+        "price": "538,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 256GB - Azul - Recondicionado – FNAC Restart - Grade B",
+        "price": "588,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 5 44mm - Alumínio Prateado - Recondicionado - FNAC Restart - Grade B",
+        "price": "399,99 €",
+        "rate": "1",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S20+ - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
+        "price": "379,99 €",
+        "rate": "4",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 128GB - Cinzento - Recondicionado – FNAC Restart - Grade A",
+        "price": "549,99 €",
+        "rate": "5",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Novo Apple iPad Air 10.9'' Wi-Fi + Cellular - 64GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "556,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 128GB - Azul - Recondicionado – FNAC Restart - Grade A",
+        "price": "599,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Mini - 256GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "588,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 11 - 256GB - Preto - Recondicionado – FNAC Restart - Grade A",
+        "price": "669,99 €",
+        "rate": "4",
+        "sub": "iPhone Rfb pcclinic"
+    },
+    {
+        "title": "Samsung Galaxy S21 5G - 128GB - Violeta - Recondicionado - FNAC Restart - Grade B",
+        "price": "479,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Apple Watch Series 6 44mm - Alumínio (PRODUCT) RED - Recondicionado – FNAC Restart - Grade A",
+        "price": "339,99 €",
+        "rate": "5",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 - 64GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "519,99 €",
+        "rate": "1",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple Watch Series 6 44mm - Cellular - Aço Inoxidável Prateada - Recondicionado – FNAC Restart - Grade A",
+        "price": "499,99 €",
+        "rate": "1",
+        "sub": "Smartwatch Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 - 512GB - Verde - Recondicionado – FNAC Restart - Grade B",
+        "price": "1 008,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro Max - 512GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
+        "price": "879,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Smartphone Ulefone Armor 8 - 64GB - Vermelho",
+        "price": "229,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Ulefone"
+    },
+    {
+        "title": "Apple iPhone 12 - 128GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
+        "price": "614,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 - 256GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
+        "price": "708,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone XR - 256GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
+        "price": "409,99 €",
+        "rate": "4",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Samsung Galaxy S21+ 5G - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
+        "price": "559,99 €",
+        "rate": "2",
+        "sub": "SmartPhone Android Samsung rst"
+    },
+    {
+        "title": "Telemóvel TCL 3189 128MB - Himalaya Grey",
+        "price": "59,99 €",
+        "rate": "2",
+        "sub": "Telemóvel Tcl"
+    },
+    {
+        "title": "Telemóvel TCL 3189 128MB - Illuminating Yellow",
+        "price": "59,99 €",
+        "rate": "3",
+        "sub": "Telemóvel Tcl"
+    },
+    {
+        "title": "Apple MacBook Air 13'' Retina | M1 | 8GB | 512GB SSD | GPU 8-Core - Dourado - Recondicionado – FNAC Restart - Grade A",
+        "price": "939,99 € ",
+        "rate": "3",
+        "sub": "Tablet Android Apple rst"
+    },
+    {
+        "title": "Apple iPhone 12 Pro - 512GB - Prateado - Recondicionado – FNAC Restart - Grade A",
+        "price": "828,99 €",
+        "rate": "5",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 512GB - Grafite - Recondicionado – FNAC Restart - Grade A",
+        "price": "1 099,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro Max - 512GB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
+        "price": "1 179,99 €",
+        "rate": "3",
+        "sub": "iPhone Apple rst"
+    },
+    {
+        "title": "Apple iPhone 13 Pro - 128GB - Verde Alpino - Recondicionado – FNAC Restart - Grade B",
+        "price": "904,99 €",
+        "rate": "2",
+        "sub": "iPhone Apple rst"
+    }
+]

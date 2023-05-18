@@ -16,7 +16,7 @@ export const QrScannerScreen = ({ navigation, route }) => {
             if(near) {
                 contextualData.near = Object.entries(near)
                     .map(([key, values]) => ({
-                        [key]: [...new Set([...(contextualData.near[key] || []), ...values])]
+                        [key]: [...new Set([...(contextualData.near && contextualData.near[key] || []), ...values])]
                     }))
                     .reduce((acc, curr) => ({...acc, ...curr}), {});
             }
@@ -24,7 +24,7 @@ export const QrScannerScreen = ({ navigation, route }) => {
             if(far) {
                 contextualData.far = Object.entries(far)
                     .map(([key, values]) => ({
-                        [key]: [...new Set([...(contextualData.far[key] || []), ...values])]
+                        [key]: [...new Set([...(contextualData.far && contextualData.far[key] || []), ...values])]
                     }))
                     .reduce((acc, curr) => ({...acc, ...curr}), {});
             }
@@ -32,7 +32,7 @@ export const QrScannerScreen = ({ navigation, route }) => {
             if(directAttention) {
                 contextualData.directAttention = Object.entries(directAttention)
                     .map(([key, values]) => ({
-                        [key]: [...new Set([...(contextualData.directAttention[key] || []), ...values])]
+                        [key]: [...new Set([...(contextualData.directAttention && contextualData.directAttention[key] || []), ...values])]
                     }))
                     .reduce((acc, curr) => ({...acc, ...curr}), {});
             }

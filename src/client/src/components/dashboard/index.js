@@ -6,7 +6,7 @@ import { Pie } from '../charts/pie';
 import { StackedBar } from '../charts/stackedbar';
 
 export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=null}) => {
-    const datasource = useDatasource('phoneBrands');
+    const datasource = useDatasource('fnac');
     
     const chartEncoding = useMemo(() => {
         if(datasource.encoding) {
@@ -35,37 +35,38 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
         brand: var_Brand,
         model: var_Model,
         price: var_Price,
-        camera: var_Camera,
-        rating5s,
-        rating4s,
-        rating3s,
-        rating2s,
-        rating1s
+        soldUnits: var_SoldUnits,
+        // camera: var_Camera,
+        meanRating: var_MeanRating,
+        ratings5s,
+        ratings4s,
+        ratings3s,
+        ratings2s,
+        ratings1s
     } = datasource.entries;
 
     //TODO: Send data treatments to charts internal implementations.
     // send to them only datasource entries and contextal data
-
     const baseData = useMemo(() => {
         if(datasource) {
             return new Array(datasource.count).fill({})
-                .filter((_, index) => var_Camera[index])
+                .filter((_, index) => var_SoldUnits[index])
         }
         return [];
     }, [datasource]);
+    
+    const maxPrice = var_Price && Math.max(...var_Price) || 1;
+    const maxSoldUnits = var_SoldUnits && Math.max(...var_SoldUnits) || 1;
 
-    const maxPrice = var_Price && Math.max(...var_Price.map(v => +v.slice(1))) || 1;
-    const maxCamera = var_Camera && Math.max(...var_Camera.map(v => +v)) || 1;
-
-    const scatterDomain = { x: [0, maxCamera], y: [0, maxPrice] };
-
+    const scatterDomain = { x: [0, maxSoldUnits], y: [0, maxPrice] };
+    
     const scatterData = baseData.map((_, index) => ({
-        x: +var_Camera[index],
-        y: +var_Price[index].slice(1),
+        x: var_SoldUnits[index],
+        y: var_Price[index],
         brand: var_Brand[index],
         model: var_Model[index],
     }));
-
+    
     const pieData = useMemo(() => {
         if(!datasource.fetching && chartEncoding && chartEncoding.chartType === 'Piechart' && contextualData.directAttention && contextualData.directAttention.model) {
             const selectedModels = contextualData.directAttention.model;
@@ -74,27 +75,27 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
             return [
                 {
                     x: 1,
-                    y: +rating5s[selectedModelIndex],
+                    y: +ratings5s[selectedModelIndex],
                     label: '5*',
                 },
                 {
                     x: 2,
-                    y: +rating4s[selectedModelIndex],
+                    y: +ratings4s[selectedModelIndex],
                     label: '4*',
                 },
                 {
                     x: 3,
-                    y: +rating3s[selectedModelIndex],
+                    y: +ratings3s[selectedModelIndex],
                     label: '3*',
                 },
                 {
                     x: 4,
-                    y: +rating2s[selectedModelIndex],
+                    y: +ratings2s[selectedModelIndex],
                     label: '2*',
                 },
                 {
                     x: 5,
-                    y: +rating1s[selectedModelIndex],
+                    y: +ratings1s[selectedModelIndex],
                     label: '1*',
                 }
             ];
@@ -102,44 +103,44 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
 
         return [];
     }, [chartEncoding, contextualData, datasource]);
-
+    
     const stackedBarData = useMemo(() => {
         if(!datasource.fetching && chartEncoding && chartEncoding.chartType === 'StackedBarchart' && contextualData.directAttention && contextualData.directAttention.model) {
             const selectedModels = contextualData.directAttention.model;
             const selectedModelIndexes = selectedModels.map(selectedModel => var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModel.replaceAll(' ', '')));
 
             const maxRatingsBySelectedModels = selectedModelIndexes.map(selectedModelIndex => (
-                +rating5s[selectedModelIndex] +
-                +rating4s[selectedModelIndex] +
-                +rating3s[selectedModelIndex] +
-                +rating2s[selectedModelIndex] +
-                +rating1s[selectedModelIndex]
+                +ratings5s[selectedModelIndex] +
+                +ratings4s[selectedModelIndex] +
+                +ratings3s[selectedModelIndex] +
+                +ratings2s[selectedModelIndex] +
+                +ratings1s[selectedModelIndex]
             ));
 
             return [
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: (+rating5s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
+                    y: (+ratings5s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '5*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: (+rating4s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
+                    y: (+ratings4s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '4*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: (+rating3s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
+                    y: (+ratings3s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '3*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: (+rating2s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
+                    y: (+ratings2s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '2*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
                     x: index + 1,
-                    y: (+rating1s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
+                    y: (+ratings1s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '1*',
                 })),
             ];
@@ -155,7 +156,7 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
             </View>
         )
     }
-
+    
     return (
         <View style={styles.container}>
         {

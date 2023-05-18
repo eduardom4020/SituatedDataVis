@@ -47,10 +47,16 @@ const requestListener = async (req, res) => {
         return res.end(JSON.stringify(dataset, null, 4));
     }
     
-    if(req.url === '/phoneBrands') {
+    if(req.url === '/phoneBrands' || req.url === '/fnac') {
         const phoneBrandsEncoding = await readEncoding('phoneBrandsScatterplot.json');
         res.writeHead(200);
         return res.end(JSON.stringify(phoneBrandsEncoding, null, 4));
+    }
+
+    if(req.url === '/fnac/data') {
+        const fnacPhones = require('./data/fnacPhonesAllTreated.json');
+        res.writeHead(200);
+        return res.end(JSON.stringify(fnacPhones, null, 4));
     }
 
     res.writeHead(404);
