@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useDatasource } from '../../shared/hooks/use-datasource';
 import { Scatter } from '../charts/scatter';
 import { useEffect, useMemo } from 'react';
@@ -119,27 +119,27 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
 
             return [
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
+                    x: `phone${index + 1}`,
                     y: (+ratings5s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '5*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
+                    x: `phone${index + 1}`,
                     y: (+ratings4s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '4*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
+                    x: `phone${index + 1}`,
                     y: (+ratings3s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '3*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
+                    x: `phone${index + 1}`,
                     y: (+ratings2s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '2*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
+                    x: `phone${index + 1}`,
                     y: (+ratings1s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '1*',
                 })),
@@ -158,33 +158,71 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
     }
     
     return (
-        <View style={styles.container}>
-        {
-            chartEncoding.chartType === 'Scatter' ? (
-                <Scatter
-                    data={scatterData}
-                    domain={scatterDomain}
-                    contextualData={contextualData}
-                    chartEncoding={chartEncoding}
-                />
-            ) : chartEncoding.chartType === 'Piechart' ? (
-                <Pie
-                    data={pieData}
-                    contextualData={contextualData}
-                    chartEncoding={chartEncoding}
-                />
-            ) : chartEncoding.chartType === 'StackedBarchart' ? (
-                <StackedBar
-                    data={stackedBarData}
-                    contextualData={contextualData}
-                    chartEncoding={chartEncoding}
-                />
-            ) : (
-                <></>
-            )
-        }
-            
-        </View>
+        <ScrollView>
+            <View style={styles.container}>
+            {
+                chartEncoding.chartType === 'Scatter' ? (
+                    <Scatter
+                        data={scatterData}
+                        domain={scatterDomain}
+                        contextualData={contextualData}
+                        chartEncoding={chartEncoding}
+                    />
+                ) : chartEncoding.chartType === 'Piechart' ? (
+                    <View>
+                        <Scatter
+                            data={scatterData}
+                            domain={scatterDomain}
+                            contextualData={contextualData}
+                            chartEncoding={{
+                                contextSelect: {
+                                    series: 'model',
+                                    contextualActivation: 'directAttention',
+                                    colors: {
+                                        "RedmiNote12Pro5G-128GB-MidnightBlack": "#1982c4",
+                                    },
+                                    sizes: {
+                                        "RedmiNote12Pro5G-128GB-MidnightBlack": 4,
+                                    }
+                                }
+                            }}
+                        />
+                        <View style={{height: 20}}/>
+                        <Pie
+                            data={pieData}
+                            contextualData={contextualData}
+                            chartEncoding={chartEncoding}
+                            title='Xiaomi Redmi Note12 Pro5G: Ratings'
+                        />
+                    </View>
+                ) : chartEncoding.chartType === 'StackedBarchart' ? (
+                    // <View>
+                    //     <StackedBar
+                    //         data={stackedBarData}
+                    //         contextualData={contextualData}
+                    //         chartEncoding={chartEncoding}
+                    //     />
+                    //     <View style={{height: 20}}/>
+                    //     <View style={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row', flexWrap: 2}}>
+                    //         <Pie
+                    //             data={pieData}
+                    //             contextualData={contextualData}
+                    //             chartEncoding={chartEncoding}
+                    //             title='Xiaomi Redmi Note12 Pro5G: Ratings'
+                    //         />
+                    //     </View>
+                    // </View>
+                    <StackedBar
+                        data={stackedBarData}
+                        contextualData={contextualData}
+                        chartEncoding={chartEncoding}
+                    />
+                ) : (
+                    <></>
+                )
+            }
+            </View>
+        </ScrollView>
     );
 }
 

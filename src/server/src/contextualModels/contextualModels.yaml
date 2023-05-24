@@ -59,3 +59,8 @@ directAttention:
     - Mi 11 Ultra
 
 # {"near":{"brand":["Xiaomi"]}, "directAttention":{"model": ["Mi 11 Ultra"]}}
+
+# {"near":{"brand":["Xiaomi"]}}
+# {"near":{"brand":["Apple"]}}
+# {"directAttention":{"model":["Redmi Note 12 Pro 5G - 128GB - Midnight Black"]}}
+# {"directAttention":{"model":["iPhone 14 Pro Max - 128GB - Roxo Escuro"]}}

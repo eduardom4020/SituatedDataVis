@@ -8,8 +8,8 @@
             "contextualActivation": "near",
             "contextualDeactivation": "far",
             "colors": {
-                "Xiaomi": "#2596be",
-                "Apple": "#ff2c03"
+                "Xiaomi": "#1982c4",
+                "Apple": "#ff595e"
             }
         },
         "changeRepresentation": {

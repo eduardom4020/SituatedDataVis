@@ -1,5 +1,5 @@
 import { Text, View } from 'react-native';
-import { VictoryScatter, VictoryChart, VictoryTheme, VictoryLegend } from "victory-native";
+import { VictoryScatter, VictoryChart, VictoryTheme, VictoryLegend, VictoryAxis } from "victory-native";
 
 export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => {
     if(!chartEncoding) {
@@ -9,6 +9,10 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
     const enhancedData = { data };
     enhancedData.fill = () => '#dbdbdb';
     enhancedData.size = () => 1.5;
+
+    // if(data && data.length) {
+    //     console.log('enhancedData ', data.map(x => x.model.replace(/ /g, '')))
+    // }
     
     const hasContextSelectAction = chartEncoding && Boolean(chartEncoding.contextSelect);
     const selectSeries = hasContextSelectAction && chartEncoding.contextSelect.series;
@@ -28,20 +32,20 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
     
     if(contextActivatedValues) {
         enhancedData.data = enhancedData.data.sort((a, b) => {
-            const containsA = +(contextActivatedValues.includes(a[selectSeries]));
-            const containsB = +(contextActivatedValues.includes(b[selectSeries]));
+            const containsA = +(contextActivatedValues.includes(a[selectSeries].replace(/ /g, '')));
+            const containsB = +(contextActivatedValues.includes(b[selectSeries].replace(/ /g, '')));
     
             return containsA > containsB && 1
                 || containsA < containsB && -1
                 || 0;
         });
 
-        enhancedData.fill = ({datum}) => contextActivatedValues.includes(datum[selectSeries])
-            && (chartEncoding.contextSelect.colors[datum[selectSeries]] || '#2596be')
+        enhancedData.fill = ({datum}) => contextActivatedValues.includes(datum[selectSeries].replace(/ /g, ''))
+            && (chartEncoding.contextSelect.colors && chartEncoding.contextSelect.colors[datum[selectSeries].replace(/ /g, '')] || '#2596be')
             || '#dbdbdb';
 
-        enhancedData.size = ({datum}) => contextActivatedValues.includes(datum[selectSeries])
-            && 2.5
+        enhancedData.size = ({datum}) => contextActivatedValues.includes(datum[selectSeries].replace(/ /g, ''))
+            && (chartEncoding.contextSelect.sizes && chartEncoding.contextSelect.sizes[datum[selectSeries].replace(/ /g, '')] || 2.5)
             || 1.5;
     }
 
@@ -54,24 +58,54 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
     }
 
     return (
-        <VictoryChart
-            theme={VictoryTheme.material}
-            domain={domain}
-            height={350}
-        >
-            <>
+        <View style={{
+            width: '100%',
+            justifyContent: 'center'
+        }}>
+            <Text style={{
+                top: 80,
+                width: '100%',
+                textAlign: 'center',
+                fontWeight: 300,
+                fontSize: 24
+            }}>Smartphones in this Fnac Store</Text>
+            <VictoryChart
+                theme={VictoryTheme.material}
+                height={400}
+                padding={{bottom:100,left:80, right: 40, top: 100}}
+            >
                 <VictoryScatter
                     style={{
                         data: {
                             fill: enhancedData.fill,
-                            size: enhancedData.size,
                         }
                     }}
                     data={enhancedData.data}
+                    size={enhancedData.size}
+                />
+                <VictoryAxis
+                    label='Sold Units'
+                    crossAxis
+                    domain={domain.x}
+                    fixLabelOverlap
+                    style={{
+                        axisLabel: { fontSize: 14, padding: 30 },
+                    }}
+                />
+                <VictoryAxis
+                    label='Price (€)'
+                    dependentAxis
+                    domain={domain.y}
+                    fixLabelOverlap
+                    style={{
+                        axisLabel: { fontSize: 14, padding: 50 },
+                    }}
                 />
                 {
                     hasContextSelectAction && (
-                        <VictoryLegend y={40}
+                        <VictoryLegend
+                            x={60} 
+                            y={350}
                             title="Brands"
                             centerTitle
                             orientation="horizontal"
@@ -90,7 +124,7 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
                         />
                     ) 
                 }
-            </>
-        </VictoryChart>
+            </VictoryChart>
+        </View>
     );
 }

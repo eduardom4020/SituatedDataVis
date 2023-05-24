@@ -1,7 +1,8 @@
 import { VictoryPie, VictoryChart, VictoryLegend } from "victory-native";
-import { BaseTheme } from '../themes';
+import { BaseTheme, PieRatingsTheme } from '../themes';
+import { Text, View } from 'react-native';
 
-export const Pie = ({data, chartEncoding={}, contextualData={}}) => {
+export const Pie = ({data, chartEncoding={}, contextualData={}, title}) => {
     if(!chartEncoding) {
         throw new Error('Unable to mount chart without encoding');
     }
@@ -12,9 +13,19 @@ export const Pie = ({data, chartEncoding={}, contextualData={}}) => {
     // const selectSeries = hasContextSelectAction && chartEncoding.contextSelect.series;
 
     return (
-        <>
+        <View style={{
+            width: '100%',
+            justifyContent: 'center'
+        }}>
+            <Text style={{
+                // top: 80,
+                width: '100%',
+                textAlign: 'center',
+                fontWeight: 300,
+                fontSize: 24
+            }}>{title || 'Phone Ratings'}</Text>
             <VictoryPie
-                theme={BaseTheme}
+                theme={PieRatingsTheme}
                 data={enhancedData.data}
             />
             {/* <VictoryLegend y={40}
@@ -34,6 +45,6 @@ export const Pie = ({data, chartEncoding={}, contextualData={}}) => {
                     }))
                 }
             /> */}
-        </>
+        </View>
     );
 }

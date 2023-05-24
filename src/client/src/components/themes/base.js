@@ -10,12 +10,12 @@ const lightGreen500 = "#8BC34A";
 const teal700 = "#00796B";
 const cyan900 = "#006064";
 const colors = [
-  '#2596be',
-  '#ff2c03',
-  '#dbdbdb',
-  teal700,
-  lime300,
-  blueGrey50
+  '#1982c4',
+  '#ff595e',
+  '#8ac926',
+  '#6a4c93',
+  '#ffca3a',
+  '#dbdbdb'
 ];
 const blueGrey50 = "#ECEFF1";
 const blueGrey300 = "#90A4AE";
