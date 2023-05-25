@@ -67,41 +67,44 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
         model: var_Model[index],
     }));
     
-    const pieData = useMemo(() => {
-        if(!datasource.fetching && chartEncoding && chartEncoding.chartType === 'Piechart' && contextualData.directAttention && contextualData.directAttention.model) {
+    const pieData = useMemo(() => {        
+        if(!datasource.fetching && chartEncoding && ['StackedBarchart', 'Piechart'].includes(chartEncoding.chartType) && contextualData.directAttention && contextualData.directAttention.model) {
             const selectedModels = contextualData.directAttention.model;
-            const selectedModelIndex = var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModels[0].replaceAll(' ', ''));
+
+            return selectedModels.map(selectedModel => {
+                const selectedModelIndex = var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModel.replaceAll(' ', ''));
     
-            return [
-                {
-                    x: 1,
-                    y: +ratings5s[selectedModelIndex],
-                    label: '5*',
-                },
-                {
-                    x: 2,
-                    y: +ratings4s[selectedModelIndex],
-                    label: '4*',
-                },
-                {
-                    x: 3,
-                    y: +ratings3s[selectedModelIndex],
-                    label: '3*',
-                },
-                {
-                    x: 4,
-                    y: +ratings2s[selectedModelIndex],
-                    label: '2*',
-                },
-                {
-                    x: 5,
-                    y: +ratings1s[selectedModelIndex],
-                    label: '1*',
-                }
-            ];
+                return [
+                    {
+                        x: 1,
+                        y: +ratings5s[selectedModelIndex],
+                        label: '5*',
+                    },
+                    {
+                        x: 2,
+                        y: +ratings4s[selectedModelIndex],
+                        label: '4*',
+                    },
+                    {
+                        x: 3,
+                        y: +ratings3s[selectedModelIndex],
+                        label: '3*',
+                    },
+                    {
+                        x: 4,
+                        y: +ratings2s[selectedModelIndex],
+                        label: '2*',
+                    },
+                    {
+                        x: 5,
+                        y: +ratings1s[selectedModelIndex],
+                        label: '1*',
+                    }
+                ];
+            });
         }
 
-        return [];
+        return [[]];
     }, [chartEncoding, contextualData, datasource]);
     
     const stackedBarData = useMemo(() => {
@@ -119,27 +122,27 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
 
             return [
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: `phone${index + 1}`,
+                    x: index + 1,
                     y: (+ratings5s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '5*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: `phone${index + 1}`,
+                    x: index + 1,
                     y: (+ratings4s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '4*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: `phone${index + 1}`,
+                    x: index + 1,
                     y: (+ratings3s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '3*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: `phone${index + 1}`,
+                    x: index + 1,
                     y: (+ratings2s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '2*',
                 })),
                 selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: `phone${index + 1}`,
+                    x: index + 1,
                     y: (+ratings1s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
                     label: '1*',
                 })),
@@ -156,7 +159,7 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
             </View>
         )
     }
-    
+    console.log(pieData)
     return (
         <ScrollView>
             <View style={styles.container}>
@@ -169,7 +172,7 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
                         chartEncoding={chartEncoding}
                     />
                 ) : chartEncoding.chartType === 'Piechart' ? (
-                    <View>
+                    <View style={{display: 'flex', alignItems: 'center', padding: 8, flexDirection: 'column'}}>
                         <Scatter
                             data={scatterData}
                             domain={scatterDomain}
@@ -189,34 +192,54 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
                         />
                         <View style={{height: 20}}/>
                         <Pie
-                            data={pieData}
+                            data={pieData[0]}
                             contextualData={contextualData}
                             chartEncoding={chartEncoding}
                             title='Xiaomi Redmi Note12 Pro5G: Ratings'
+                            pieProps={{
+                                width: 260,
+                                height: 260,
+                                labelRadius: ({ innerRadius }) => innerRadius + 90,
+                            }}
                         />
                     </View>
                 ) : chartEncoding.chartType === 'StackedBarchart' ? (
-                    // <View>
-                    //     <StackedBar
-                    //         data={stackedBarData}
-                    //         contextualData={contextualData}
-                    //         chartEncoding={chartEncoding}
-                    //     />
-                    //     <View style={{height: 20}}/>
-                    //     <View style={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row', flexWrap: 2}}>
-                    //         <Pie
-                    //             data={pieData}
-                    //             contextualData={contextualData}
-                    //             chartEncoding={chartEncoding}
-                    //             title='Xiaomi Redmi Note12 Pro5G: Ratings'
-                    //         />
-                    //     </View>
-                    // </View>
-                    <StackedBar
-                        data={stackedBarData}
-                        contextualData={contextualData}
-                        chartEncoding={chartEncoding}
-                    />
+                    <View style={{display: 'flex', alignItems: 'center', padding: 8, flexDirection: 'column'}}>
+                        <StackedBar
+                            data={stackedBarData}
+                            contextualData={contextualData}
+                            chartEncoding={chartEncoding}
+                        />
+                        <View style={{height: 20}}/>
+                        <View style={{display: 'flex', justifyContent: 'center', alignItems: 'space-around', flexDirection: 'row', width: 220, padding: 12}}>
+                            <Pie
+                                data={pieData[0]}
+                                contextualData={contextualData}
+                                chartEncoding={chartEncoding}
+                                title='Xiaomi Redmi Note12 Pro5G: Ratings'
+                                titleSize={14}
+                                pieProps={{
+                                    width: 240,
+                                    height: 240,
+                                    labelRadius: ({ innerRadius }) => innerRadius + 40,
+                                    style: { labels: { fill: "white", fontWeight: 400 } }
+                                }}
+                            />
+                            <Pie
+                                data={pieData[1]}
+                                contextualData={contextualData}
+                                chartEncoding={chartEncoding}
+                                title='iPhone 14 Pro Max - 128GB - Roxo Escuro: Ratings'
+                                titleSize={14}
+                                pieProps={{
+                                    width: 240,
+                                    height: 240,
+                                    labelRadius: ({ innerRadius }) => innerRadius + 40,
+                                    style: { labels: { fill: "white", fontWeight: 400 } }
+                                }}
+                            />
+                        </View>
+                    </View>
                 ) : (
                     <></>
                 )

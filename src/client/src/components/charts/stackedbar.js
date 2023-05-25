@@ -1,4 +1,4 @@
-import { VictoryBar, VictoryChart, VictoryLegend, VictoryStack, VictoryTheme, VictoryLabel } from "victory-native";
+import { VictoryBar, VictoryChart, VictoryAxis, VictoryStack, VictoryTheme, VictoryLabel } from "victory-native";
 import { BaseTheme, PieRatingsTheme } from '../themes';
 import { Text, View } from 'react-native';
 
@@ -12,10 +12,11 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}}) => {
     return (
         <View style={{
             width: '100%',
-            justifyContent: 'center'
+            justifyContent: 'center',
+            alignItems: 'center'
         }}>
             <Text style={{
-                top: 80,
+                top: 40,
                 width: '100%',
                 textAlign: 'center',
                 fontWeight: 300,
@@ -28,16 +29,17 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}}) => {
                         colorScale: PieRatingsTheme.pie.colorScale
                     }
                 }}
-                height={250}
-                padding={{bottom:100,left:80, right: 40, top: 100}}
-                // domainPadding={10}
-                // domain={{x: [0, enhancedData.data[0].length + 1]}}
+                height={200}
+                padding={{left:20, right: 20}}
+                // domainPadding={100}
+                domain={{x: [0, 4]}}
             >
                 <VictoryStack
                     style={{
                         data: { stroke: "white", strokeWidth: 1 }
                     }}
-                    alignment="middle"
+                    // alignment="middle"
+                    horizontal
                 >
                 {
                     enhancedData.data.map(data => (
@@ -45,12 +47,14 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}}) => {
                             barWidth={25}
                             data={data}
                             labelComponent={<VictoryLabel dx={-15} style={{fill: 'white'}}/>}
-                            horizontal
                         />
                     ))
                 }
+                <VictoryLabel textAnchor="start" text='iPhone 14 Pro Max - 128GB - Roxo Escuro' dy={80} dx={20} />
+                <VictoryLabel textAnchor="start" text='Xiaomi Redmi Note12 Pro5G' y={130} x={20} />
                 </VictoryStack>
-                {/* <VictoryAxis crossAxis fixLabelOverlap />
+                <VictoryAxis dependentAxis gridComponent={<></>} domain={[0, 100]} offsetY={35}/>
+                {/* 
                 <VictoryAxis dependentAxis /> */}
                 {/* <VictoryLegend y={40}
                     title="Brands"

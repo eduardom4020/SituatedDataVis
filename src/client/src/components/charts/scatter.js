@@ -60,7 +60,8 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
     return (
         <View style={{
             width: '100%',
-            justifyContent: 'center'
+            justifyContent: 'center',
+            alignItems: 'center'
         }}>
             <Text style={{
                 top: 80,
@@ -91,6 +92,7 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
                     style={{
                         axisLabel: { fontSize: 14, padding: 30 },
                     }}
+                    gridComponent={<></>}
                 />
                 <VictoryAxis
                     label='Price (€)'
@@ -100,6 +102,7 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
                     style={{
                         axisLabel: { fontSize: 14, padding: 50 },
                     }}
+                    gridComponent={<></>}
                 />
                 {
                     hasContextSelectAction && (
