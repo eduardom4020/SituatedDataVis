@@ -8,12 +8,12 @@
             "contextualActivation": "near",
             "contextualDeactivation": "far",
             "colors": {
-                "Xiaomi": "#1982c4",
-                "Apple": "#ff595e"
+                "Xiaomi": 0,
+                "Apple": 1
             }
         },
         "changeRepresentation": {
-            "series": "model",
+            "series": "id",
             "contextualTrigger": "directAttention",
             "showChart": "phone-pie-chart"
         }
@@ -27,7 +27,7 @@
             "showChart": "phones-scatter"
         },
         "blendRepresentations": {
-            "series": "model",
+            "series": "id",
             "contextualTrigger": "directAttention",
             "showChart": "phone-stacked-bar-chart"
         }

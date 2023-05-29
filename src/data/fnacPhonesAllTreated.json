@@ -1,5 +1,6 @@
 [
     {
+        "id": "308dc585-76c3-45b8-9901-d92aee0b3a1f",
         "brand": "Xiaomi",
         "model": "Redmi 10C - 128GB - Ocean Blue",
         "price": 159.99,
@@ -12,6 +13,7 @@
         "soldUnits": 809
     },
     {
+        "id": "c6e5010a-aa80-46f1-930f-3a1ee91d5ddd",
         "brand": "Xiaomi",
         "model": "Redmi A1 - 32GB - Black",
         "price": 94.99,
@@ -24,6 +26,7 @@
         "soldUnits": 94
     },
     {
+        "id": "7dbe8aa8-e9fa-4dda-80e0-bfbdf09c9431",
         "brand": "Samsung",
         "model": "Galaxy A13 - 128GB - Preto",
         "price": 189.98,
@@ -36,6 +39,7 @@
         "soldUnits": 634
     },
     {
+        "id": "05e31226-8453-4359-af67-13a993cf34b7",
         "brand": "Xiaomi",
         "model": "Redmi 10C - 64GB - Graphite Gray",
         "price": 149.99,
@@ -48,6 +52,7 @@
         "soldUnits": 547
     },
     {
+        "id": "3ed46c8a-be53-412e-a11b-376b08b8ce55",
         "brand": "Nothing",
         "model": "Nothing Phone (1) - 128GB - Black",
         "price": 399.99,
@@ -60,6 +65,7 @@
         "soldUnits": 313
     },
     {
+        "id": "d8dafe95-38fc-4c66-aa3e-ec7b603b744c",
         "brand": "Xiaomi",
         "model": "Redmi 10A - 64GB - Graphite Gray",
         "price": 149.99,
@@ -72,6 +78,7 @@
         "soldUnits": 932
     },
     {
+        "id": "41aec074-7d26-4268-9505-1646c13d9d11",
         "brand": "Samsung",
         "model": "Galaxy S20 FE 5G - 128GB - Azul",
         "price": 449.99,
@@ -84,6 +91,7 @@
         "soldUnits": 240
     },
     {
+        "id": "d8ad4d34-4e9d-434a-b3e9-de50bf754290",
         "brand": "Samsung",
         "model": "Galaxy A23 5G - 128GB - Preto",
         "price": 249.99,
@@ -96,6 +104,7 @@
         "soldUnits": 760
     },
     {
+        "id": "b92a0afc-4482-471c-8126-b68c32f37e9c",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 Pro 5G - 128GB - Midnight Black",
         "price": 399.99,
@@ -108,6 +117,7 @@
         "soldUnits": 807
     },
     {
+        "id": "853383a0-1466-48ce-91e5-83d5cd3dcad8",
         "brand": "Xiaomi",
         "model": "Redmi 9A - 32GB - Granite Grey",
         "price": 99.99,
@@ -120,6 +130,7 @@
         "soldUnits": 861
     },
     {
+        "id": "c465139a-8dd3-4f93-8f92-8c244632ba1e",
         "brand": "Samsung",
         "model": "Galaxy A13 - 32GB - Azul",
         "price": 179.99,
@@ -132,6 +143,7 @@
         "soldUnits": 149
     },
     {
+        "id": "cd7b4a4f-94d1-4724-8d50-82b18cb8ac88",
         "brand": "Xiaomi",
         "model": "Redmi 9C NFC - 64GB - Midnight Gray",
         "price": 139.99,
@@ -144,6 +156,7 @@
         "soldUnits": 899
     },
     {
+        "id": "3cd2ddb8-f50a-4bb2-88ed-ffca9c8cb8bf",
         "brand": "Xiaomi",
         "model": "Redmi 10 2022 - 128GB - Sea Blue",
         "price": 179.99,
@@ -156,6 +169,7 @@
         "soldUnits": 262
     },
     {
+        "id": "f4f11cf3-c7ec-45b1-9a09-235c553bbd69",
         "brand": "Xiaomi",
         "model": "Redmi A1 - 32GB - Light Green",
         "price": 94.99,
@@ -168,6 +182,7 @@
         "soldUnits": 659
     },
     {
+        "id": "d7fab420-0ba6-46a0-8a6c-a5b372071665",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 128GB - Black",
         "price": 679.99,
@@ -180,6 +195,7 @@
         "soldUnits": 12
     },
     {
+        "id": "f16a367a-1f64-4b89-a648-0832e38dffd5",
         "brand": "Oppo",
         "model": "Reno8 5G - 256GB - Shimmer Black",
         "price": 399.98,
@@ -192,6 +208,7 @@
         "soldUnits": 847
     },
     {
+        "id": "6b398152-b54c-4798-995f-eed49bed4ab1",
         "brand": "Samsung",
         "model": "Galaxy A04S - 32GB - Preto",
         "price": 139.99,
@@ -204,6 +221,7 @@
         "soldUnits": 583
     },
     {
+        "id": "19487506-b2e9-4251-889a-cef8ff7ef03e",
         "brand": "Samsung",
         "model": "Galaxy A53 5G - 256GB - Preto",
         "price": 449.99,
@@ -216,6 +234,7 @@
         "soldUnits": 702
     },
     {
+        "id": "c049b89e-bb3d-4acd-8415-896481cce0a3",
         "brand": "Xiaomi",
         "model": "Redmi A1 - 32GB - Light Blue",
         "price": 94.99,
@@ -228,6 +247,7 @@
         "soldUnits": 870
     },
     {
+        "id": "358f725d-5394-4be5-9e68-9856c098ee1f",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 128GB - Roxo Escuro",
         "price": 1329.99,
@@ -240,6 +260,7 @@
         "soldUnits": 336
     },
     {
+        "id": "a79e6c45-960f-40ce-9751-7357791b5553",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 128GB - Roxo Escuro",
         "price": 1199.99,
@@ -252,6 +273,7 @@
         "soldUnits": 309
     },
     {
+        "id": "28f18b2a-b804-4f5e-a226-133da0d177a2",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 256GB - Preto Sideral",
         "price": 1299.99,
@@ -264,6 +286,7 @@
         "soldUnits": 854
     },
     {
+        "id": "551b0da1-4b9a-405c-9093-2dab6ee60859",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 128GB - Preto Sideral",
         "price": 1199.99,
@@ -276,6 +299,7 @@
         "soldUnits": 183
     },
     {
+        "id": "d9617fed-823b-4ae1-9b2a-b05009c6ec85",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 1TB - Dourado",
         "price": 2149.99,
@@ -288,6 +312,7 @@
         "soldUnits": 325
     },
     {
+        "id": "072ba7ef-70b0-490f-8f32-3ca1f3039018",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 128GB - Prateado",
         "price": 1329.99,
@@ -300,6 +325,7 @@
         "soldUnits": 792
     },
     {
+        "id": "eb725964-19a9-4a0e-a4be-3fb46f7af5bb",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 128GB - Prateado",
         "price": 1199.99,
@@ -312,6 +338,7 @@
         "soldUnits": 581
     },
     {
+        "id": "14a5fd4c-663e-40fe-9a68-72b0f0728d2c",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 256GB - Dourado",
         "price": 1299.99,
@@ -324,6 +351,7 @@
         "soldUnits": 101
     },
     {
+        "id": "355bf03b-ee68-4a93-9350-9d22e1637391",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 128GB - Meia-Noite",
         "price": 749.99,
@@ -336,6 +364,7 @@
         "soldUnits": 55
     },
     {
+        "id": "6a02aad1-a6a4-40f7-8510-edb81e0dc6a6",
         "brand": "Apple",
         "model": "iPhone 14 - 128GB - Azul",
         "price": 879.99,
@@ -348,6 +377,7 @@
         "soldUnits": 535
     },
     {
+        "id": "72b8c4e0-c901-4f21-8b3e-c987e4bf91a3",
         "brand": "Oppo",
         "model": "Find X5 Pro 5G - 256GB - Ceramic White",
         "price": 499.98,
@@ -360,6 +390,7 @@
         "soldUnits": 913
     },
     {
+        "id": "d12ed1ec-efb1-448a-93b9-a5b7f82ef6fc",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 256GB - Black",
         "price": 729.99,
@@ -372,6 +403,7 @@
         "soldUnits": 537
     },
     {
+        "id": "08e2a9ff-0471-420c-bc4c-0bea42a15c01",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Amarelo",
         "price": 1019.99,
@@ -384,6 +416,7 @@
         "soldUnits": 425
     },
     {
+        "id": "d57192d5-8e20-4664-b860-656359df4cbe",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 1064.99,
@@ -396,6 +429,7 @@
         "soldUnits": 378
     },
     {
+        "id": "2648a84b-442e-4326-9dfb-ee710e8680b0",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade A",
         "price": 728.99,
@@ -408,6 +442,7 @@
         "soldUnits": 258
     },
     {
+        "id": "43be7904-10b8-419e-83eb-25049d2a1cac",
         "brand": "Apple",
         "model": "iPhone 14 - 128GB - Roxo",
         "price": 879.99,
@@ -420,6 +455,7 @@
         "soldUnits": 415
     },
     {
+        "id": "355deeec-7dcb-4288-b239-4f3f3b0777cb",
         "brand": "Apple",
         "model": "iPhone SE - 128GB - Meia-Noite - 2022",
         "price": 579.99,
@@ -432,6 +468,7 @@
         "soldUnits": 1
     },
     {
+        "id": "40e9c73d-29af-4170-bfb3-5e5efb1a65cc",
         "brand": "Caterpillar",
         "model": "CAT S75 5G - 128GB - Preto",
         "price": 569.99,
@@ -444,6 +481,7 @@
         "soldUnits": 226
     },
     {
+        "id": "929f510b-dab8-4c9c-a5d7-8f7b333b106c",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 256GB - Prateado",
         "price": 1449.99,
@@ -456,6 +494,7 @@
         "soldUnits": 230
     },
     {
+        "id": "f392955b-00e2-45a4-8ef8-539958ce5d8e",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 579.99,
@@ -468,6 +507,7 @@
         "soldUnits": 68
     },
     {
+        "id": "c2dd0884-8b6b-41f3-8152-b5ce514753c0",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Rosa",
         "price": 849.99,
@@ -480,6 +520,7 @@
         "soldUnits": 782
     },
     {
+        "id": "c2004d04-8da1-4124-b061-46bbb4099375",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 128GB - Roxo Escuro",
         "price": 1199.99,
@@ -492,6 +533,7 @@
         "soldUnits": 675
     },
     {
+        "id": "37d46b2c-fc81-4293-91bd-8d4a7afdbc5d",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 256GB - Preto Sideral",
         "price": 1299.99,
@@ -504,6 +546,7 @@
         "soldUnits": 844
     },
     {
+        "id": "28375ecb-131c-4505-979c-39ca88785a40",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 128GB - Preto Sideral",
         "price": 1199.99,
@@ -516,6 +559,7 @@
         "soldUnits": 819
     },
     {
+        "id": "c8a47410-47b7-458d-ae87-7b0643710b8d",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 1TB - Dourado",
         "price": 2149.99,
@@ -528,6 +572,7 @@
         "soldUnits": 81
     },
     {
+        "id": "9f837a0d-932a-4a56-beba-5d6633c581d7",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 128GB - Prateado",
         "price": 1329.99,
@@ -540,6 +585,7 @@
         "soldUnits": 370
     },
     {
+        "id": "9cdf3986-e253-46f1-96a8-940faa168eda",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 128GB - Prateado",
         "price": 1199.99,
@@ -552,6 +598,7 @@
         "soldUnits": 76
     },
     {
+        "id": "1a1b6626-b312-4553-83a8-5a57a881c24a",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 256GB - Dourado",
         "price": 1299.99,
@@ -564,6 +611,7 @@
         "soldUnits": 192
     },
     {
+        "id": "54860781-30fd-4819-9ca1-c2af2c405deb",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 128GB - Meia-Noite",
         "price": 749.99,
@@ -576,6 +624,7 @@
         "soldUnits": 166
     },
     {
+        "id": "dbd5e95c-15fe-4f8c-acb0-a230bd14dcf6",
         "brand": "Apple",
         "model": "iPhone 14 - 128GB - Azul",
         "price": 879.99,
@@ -588,6 +637,7 @@
         "soldUnits": 404
     },
     {
+        "id": "53dc4738-9220-4141-b5c0-4061f9b65f63",
         "brand": "Oppo",
         "model": "Find X5 Pro 5G - 256GB - Ceramic White",
         "price": 499.98,
@@ -600,6 +650,7 @@
         "soldUnits": 455
     },
     {
+        "id": "851a967d-d5d8-4665-8fd4-3555a9d91284",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 256GB - Black",
         "price": 729.99,
@@ -612,6 +663,7 @@
         "soldUnits": 613
     },
     {
+        "id": "c9569092-cd31-4e3f-9cdf-bbf8ac4f2fcf",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Amarelo",
         "price": 1019.99,
@@ -624,6 +676,7 @@
         "soldUnits": 800
     },
     {
+        "id": "c4ea418e-4d97-4a08-9f15-ade1d24eba71",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 1064.99,
@@ -636,6 +689,7 @@
         "soldUnits": 779
     },
     {
+        "id": "2d4ac89c-e023-49c7-ab8e-d18d407b7490",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade A",
         "price": 728.99,
@@ -648,6 +702,7 @@
         "soldUnits": 417
     },
     {
+        "id": "e122b545-9225-435f-993f-b631eba260fb",
         "brand": "Apple",
         "model": "iPhone 14 - 128GB - Roxo",
         "price": 879.99,
@@ -660,6 +715,7 @@
         "soldUnits": 555
     },
     {
+        "id": "a4555965-7dab-42fa-866a-0934614f057f",
         "brand": "Apple",
         "model": "iPhone SE - 128GB - Meia-Noite - 2022",
         "price": 579.99,
@@ -672,6 +728,7 @@
         "soldUnits": 266
     },
     {
+        "id": "08b0a32a-4699-459a-b33e-f56fa4d5fe6a",
         "brand": "Caterpillar",
         "model": "CAT S75 5G - 128GB - Preto",
         "price": 569.99,
@@ -684,6 +741,7 @@
         "soldUnits": 74
     },
     {
+        "id": "707228fd-4ece-4458-8597-1f608e5109ff",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 256GB - Prateado",
         "price": 1449.99,
@@ -696,6 +754,7 @@
         "soldUnits": 662
     },
     {
+        "id": "a8a85247-7342-46df-8017-1fa27eed4eee",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 579.99,
@@ -708,6 +767,7 @@
         "soldUnits": 40
     },
     {
+        "id": "933fad21-2f98-4771-8997-2bcc43a9afcb",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Rosa",
         "price": 849.99,
@@ -720,6 +780,7 @@
         "soldUnits": 28
     },
     {
+        "id": "02df48f5-0fa6-4ac4-a90f-aad2c8e98d5f",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 128GB - Graphite",
         "price": 379.99,
@@ -732,6 +793,7 @@
         "soldUnits": 244
     },
     {
+        "id": "3e8d246f-8eb9-4d17-9f49-f87b7a2b3841",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 128GB - Graphite",
         "price": 479.99,
@@ -744,6 +806,7 @@
         "soldUnits": 496
     },
     {
+        "id": "ae1fcbe1-55c3-41a2-a412-af1019d3dab9",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 256GB - Dourado",
         "price": 1449.99,
@@ -756,6 +819,7 @@
         "soldUnits": 140
     },
     {
+        "id": "227f458c-385c-46ab-b4a0-21fce827ecfe",
         "brand": "Xiaomi",
         "model": "12 5G - 256GB - Purple",
         "price": 499.98,
@@ -768,6 +832,7 @@
         "soldUnits": 61
     },
     {
+        "id": "eef0d73d-6f93-41ee-b102-6437e3f9a33a",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 256GB - Prateado",
         "price": 1299.99,
@@ -780,6 +845,7 @@
         "soldUnits": 803
     },
     {
+        "id": "ad7d6946-668f-4dff-82d0-14c623081e61",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 128GB - Dourado",
         "price": 1329.99,
@@ -792,6 +858,7 @@
         "soldUnits": 576
     },
     {
+        "id": "9130ccfe-b4b7-4832-b5b9-205e6c0151af",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 128GB - Dourado",
         "price": 1199.99,
@@ -804,6 +871,7 @@
         "soldUnits": 526
     },
     {
+        "id": "a341d744-d202-4f04-aa07-dacba30e4837",
         "brand": "Samsung",
         "model": "Galaxy A33 5G - 128GB - Preto",
         "price": 299.99,
@@ -816,6 +884,7 @@
         "soldUnits": 926
     },
     {
+        "id": "60af0c48-0849-497e-8323-42e513a46a62",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 128GB - Luz das Estrelas",
         "price": 989.99,
@@ -828,6 +897,7 @@
         "soldUnits": 432
     },
     {
+        "id": "a2e815ed-f6e8-46e6-95f2-5b4aa72650ef",
         "brand": "Samsung",
         "model": "Galaxy A23 5G - 64GB - Preto",
         "price": 249.99,
@@ -840,6 +910,7 @@
         "soldUnits": 933
     },
     {
+        "id": "3e736a97-b079-471d-ad19-e12dd7aa3ffc",
         "brand": "Ulefone",
         "model": "Ulefone Armor 12 S - 128GB - Preto",
         "price": 299.99,
@@ -852,6 +923,7 @@
         "soldUnits": 22
     },
     {
+        "id": "78edd0c2-7fb2-4550-879c-861d8751e261",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Meia-Noite",
         "price": 939.99,
@@ -864,6 +936,7 @@
         "soldUnits": 100
     },
     {
+        "id": "d50274e2-f318-41e0-a409-c9ada7ef472a",
         "brand": "Samsung",
         "model": "Galaxy A14 - 64GB - Preto",
         "price": 179.99,
@@ -876,6 +949,7 @@
         "soldUnits": 182
     },
     {
+        "id": "790ec07c-d1cb-461a-8f7e-bd738827a511",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 128GB - Preto Sideral",
         "price": 1329.99,
@@ -888,6 +962,7 @@
         "soldUnits": 102
     },
     {
+        "id": "0772d1ac-ca85-40c9-a345-47c1d93f0b37",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Meia-Noite",
         "price": 849.99,
@@ -900,6 +975,7 @@
         "soldUnits": 366
     },
     {
+        "id": "5f24d490-5ba7-40a6-8d08-09261da5d7bb",
         "brand": "Smartwatch Apple",
         "model": "Watch SE 40mm - Alumínio Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 216.99,
@@ -912,6 +988,7 @@
         "soldUnits": 884
     },
     {
+        "id": "dab67a90-a6b5-404e-86d8-3008c8e34718",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 256GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -924,6 +1001,7 @@
         "soldUnits": 881
     },
     {
+        "id": "d16960c1-7d71-45c9-ae16-cbd45c929bfe",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 128GB - Green",
         "price": 679.99,
@@ -936,6 +1014,7 @@
         "soldUnits": 74
     },
     {
+        "id": "eb20f880-51ab-4b04-a083-4ea2a154dc46",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 128GB - White",
         "price": 679.99,
@@ -948,6 +1027,7 @@
         "soldUnits": 157
     },
     {
+        "id": "598e6019-c102-49af-b5b2-8be456b2c674",
         "brand": "Ulefone",
         "model": "Ulefone Armor x9 Pro - 64GB - Preto",
         "price": 159.99,
@@ -960,6 +1040,7 @@
         "soldUnits": 706
     },
     {
+        "id": "a9ece788-6fb4-4745-a85a-167c738ca265",
         "brand": "Ulefone",
         "model": "Ulefone Armor x9 Pro - 64GB - Verde",
         "price": 159.99,
@@ -972,6 +1053,7 @@
         "soldUnits": 254
     },
     {
+        "id": "d15d881a-f025-42e4-af79-b1977ad80bd6",
         "brand": "Oneplus",
         "model": "OnePlus Nord CE2 Lite 5G 128 GB - Preto",
         "price": 229.99,
@@ -984,6 +1066,7 @@
         "soldUnits": 960
     },
     {
+        "id": "33ef3184-ca3f-4117-879d-9bf9cd1afbdd",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 256GB - Preto Sideral",
         "price": 1449.99,
@@ -996,6 +1079,7 @@
         "soldUnits": 384
     },
     {
+        "id": "5ea82c39-ebd1-4009-afa9-5794eebd8f98",
         "brand": "Nothing",
         "model": "Nothing Phone (1) - 256GB - Black",
         "price": 419.99,
@@ -1008,6 +1092,7 @@
         "soldUnits": 58
     },
     {
+        "id": "bb02c0ee-fc6e-4a2d-a3aa-3bf73f8da470",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 64GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 394.99,
@@ -1020,6 +1105,7 @@
         "soldUnits": 488
     },
     {
+        "id": "5285143b-473f-467f-a557-87dca6f23837",
         "brand": "Samsung",
         "model": "Galaxy S23 Plus 5G 512GB - Bege",
         "price": 1269.99,
@@ -1032,6 +1118,7 @@
         "soldUnits": 391
     },
     {
+        "id": "cc5c68b5-749b-4ced-a449-7d61bf86b453",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 256GB - Roxo Escuro",
         "price": 1299.99,
@@ -1044,6 +1131,7 @@
         "soldUnits": 725
     },
     {
+        "id": "b58dcfb0-fbd7-4e1e-aa78-ef6c2b183cee",
         "brand": "Oppo",
         "model": "Reno8 5G - 256GB - Shimmer Gold",
         "price": 399.98,
@@ -1056,6 +1144,7 @@
         "soldUnits": 341
     },
     {
+        "id": "7d5bf41e-d937-4d85-9c34-e8fd07c4d3af",
         "brand": "Xiaomi",
         "model": "Redmi 12C - 128GB - Ocean Blue",
         "price": 179.99,
@@ -1068,6 +1157,7 @@
         "soldUnits": 873
     },
     {
+        "id": "a61cb813-1ec0-4668-88a8-09be2c34ca4d",
         "brand": "Caterpillar",
         "model": "CAT S42 H+ - 32GB - Preto",
         "price": 219.99,
@@ -1080,6 +1170,7 @@
         "soldUnits": 413
     },
     {
+        "id": "3ce6bd72-6954-4440-a764-b16594e4f8eb",
         "brand": "Samsung",
         "model": "Galaxy Z Fold3 5G - 512GB - Green",
         "price": 1199.98,
@@ -1092,6 +1183,7 @@
         "soldUnits": 829
     },
     {
+        "id": "9d879550-cb82-4f59-ae04-89358d96923e",
         "brand": "Nokia",
         "model": "Telemovel Nokia 8210 4G - Azul",
         "price": 84.99,
@@ -1104,6 +1196,7 @@
         "soldUnits": 51
     },
     {
+        "id": "83149f6b-c79a-4366-adf3-a115f502ece1",
         "brand": "Caterpillar",
         "model": "CAT B26 - Preto",
         "price": 69.99,
@@ -1116,6 +1209,7 @@
         "soldUnits": 79
     },
     {
+        "id": "3959309d-cac9-452a-b1c4-f6fb706c5a1c",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Branco",
         "price": 799.99,
@@ -1128,6 +1222,7 @@
         "soldUnits": 76
     },
     {
+        "id": "9f6f7034-dc43-4fb1-9f9f-10633120cb07",
         "brand": "Samsung",
         "model": "Galaxy A14 5G - 128GB - Prateado",
         "price": 229.99,
@@ -1140,6 +1235,7 @@
         "soldUnits": 176
     },
     {
+        "id": "a1b33ab3-3a2a-4639-9e43-a3935f7948f4",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 256GB - Roxo Escuro",
         "price": 1449.99,
@@ -1152,6 +1248,7 @@
         "soldUnits": 48
     },
     {
+        "id": "41ee8851-d82e-459e-9b9c-9f35f57a47d9",
         "brand": "Samsung",
         "model": "Galaxy S20 FE 5G - 256GB - Azul",
         "price": 469.98,
@@ -1164,6 +1261,7 @@
         "soldUnits": 861
     },
     {
+        "id": "22dcd00d-3852-4a0f-bbe8-6ee1fea1dade",
         "brand": "Macbook Apple",
         "model": "MacBook Air 13'' i5-1,8GHz | 8GB | 128GB - Recondicionado – FNAC Restart - Grade B",
         "price": 519.99,
@@ -1176,6 +1274,7 @@
         "soldUnits": 352
     },
     {
+        "id": "2970da0a-64e3-4741-9c13-61ae2f53854f",
         "brand": "Samsung",
         "model": "Galaxy A13 5G - 128GB - Preto",
         "price": 199.99,
@@ -1188,6 +1287,7 @@
         "soldUnits": 88
     },
     {
+        "id": "f697282d-b0e3-48cc-aaac-51ddd2a98fcd",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 128GB - Meia-Noite",
         "price": 989.99,
@@ -1200,6 +1300,7 @@
         "soldUnits": 274
     },
     {
+        "id": "b5e9c5ca-59ba-4f4b-b13c-de731cdc4187",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Luz das Estrelas",
         "price": 849.99,
@@ -1212,6 +1313,7 @@
         "soldUnits": 392
     },
     {
+        "id": "d38626a4-b7a3-40bf-8e98-93eb56ca3298",
         "brand": "Nothing",
         "model": "Nothing Phone (1) - 256GB - Black",
         "price": 459.99,
@@ -1224,6 +1326,7 @@
         "soldUnits": 224
     },
     {
+        "id": "8f392881-6940-461f-bf06-fc7bc706d9d0",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Meia-Noite",
         "price": 1019.99,
@@ -1236,6 +1339,7 @@
         "soldUnits": 252
     },
     {
+        "id": "6d3167de-8fa4-4b47-950d-4f2f654628e8",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 128GB - Azul",
         "price": 989.99,
@@ -1248,6 +1352,7 @@
         "soldUnits": 645
     },
     {
+        "id": "00872ea0-ed48-4911-afa6-07bddb8b99c4",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Azul",
         "price": 849.99,
@@ -1260,6 +1365,7 @@
         "soldUnits": 350
     },
     {
+        "id": "ba8d7a23-f9ad-413a-a095-adcdae48899e",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 256GB - Preto",
         "price": 1349.99,
@@ -1272,6 +1378,7 @@
         "soldUnits": 318
     },
     {
+        "id": "dae6919c-8c92-451d-aa4d-6ca6486fbba9",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 994.99,
@@ -1284,6 +1391,7 @@
         "soldUnits": 28
     },
     {
+        "id": "177ad0ff-b1d7-4396-bb7b-5ede60d96288",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 512GB - Preto",
         "price": 1529.99,
@@ -1296,6 +1404,7 @@
         "soldUnits": 371
     },
     {
+        "id": "0e04e4f6-9f5f-4705-aef8-a57a3af6995b",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 256GB - Preto",
         "price": 959.99,
@@ -1308,6 +1417,7 @@
         "soldUnits": 624
     },
     {
+        "id": "ab2be0a1-f484-4c84-b0cd-24246f7c6994",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 128GB - Violet",
         "price": 379.99,
@@ -1320,6 +1430,7 @@
         "soldUnits": 744
     },
     {
+        "id": "a325e3cf-f689-4c1f-8e72-73e7ff7642e8",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 1064.99,
@@ -1332,6 +1443,7 @@
         "soldUnits": 491
     },
     {
+        "id": "fa6c8a8c-b72e-4de8-ae97-d570dd9694bb",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 1TB - Preto Sideral",
         "price": 1799.99,
@@ -1344,6 +1456,7 @@
         "soldUnits": 826
     },
     {
+        "id": "89bb94ae-a2f9-43ea-8888-876e27e90745",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Verde",
         "price": 849.99,
@@ -1356,6 +1469,7 @@
         "soldUnits": 944
     },
     {
+        "id": "ed2dda96-8982-4548-8b0c-d80405820d6e",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 256GB - Green",
         "price": 729.99,
@@ -1368,6 +1482,7 @@
         "soldUnits": 28
     },
     {
+        "id": "f0726f9e-1c3c-4391-8f83-18ac56e85a68",
         "brand": "Samsung",
         "model": "Galaxy A14 - 64GB - Prateado",
         "price": 179.99,
@@ -1380,6 +1495,7 @@
         "soldUnits": 870
     },
     {
+        "id": "ab80511d-88bc-42f4-b673-d811fcc54c5f",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 256GB - Graphite",
         "price": 529.99,
@@ -1392,6 +1508,7 @@
         "soldUnits": 681
     },
     {
+        "id": "22b1b0ef-0637-4f77-993f-62e0c7b097fe",
         "brand": "Samsung",
         "model": "Galaxy A53 5G - 256GB - Branco",
         "price": 449.99,
@@ -1404,6 +1521,7 @@
         "soldUnits": 996
     },
     {
+        "id": "df1a4e9a-66ae-4322-b9cf-ad97b07ad549",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Azul",
         "price": 1019.99,
@@ -1416,6 +1534,7 @@
         "soldUnits": 338
     },
     {
+        "id": "c1252576-d579-4c3b-9fe9-c96955f6f73d",
         "brand": "Apple",
         "model": "iPhone 14 - 512GB - Roxo",
         "price": 1299.99,
@@ -1428,6 +1547,7 @@
         "soldUnits": 820
     },
     {
+        "id": "ec019b12-1faa-4f8e-a62a-bbb075adc48d",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 128GB - Bora Purple",
         "price": 679.99,
@@ -1440,6 +1560,7 @@
         "soldUnits": 824
     },
     {
+        "id": "a9105a6a-cce9-4703-a84d-0b841bb47064",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Luz das Estrelas",
         "price": 849.99,
@@ -1452,6 +1573,7 @@
         "soldUnits": 461
     },
     {
+        "id": "d28c35c2-e9ec-49ed-a6f4-59514fca6d4b",
         "brand": "Nothing",
         "model": "Nothing Phone (1) - 256GB - Black",
         "price": 459.99,
@@ -1464,6 +1586,7 @@
         "soldUnits": 215
     },
     {
+        "id": "63de40ad-1cbf-4de4-a968-f2f6ccf13047",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Meia-Noite",
         "price": 1019.99,
@@ -1476,6 +1599,7 @@
         "soldUnits": 979
     },
     {
+        "id": "79c69818-fc02-46c8-8519-c5d656dee162",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 128GB - Azul",
         "price": 989.99,
@@ -1488,6 +1612,7 @@
         "soldUnits": 613
     },
     {
+        "id": "9a49e89c-2bd1-412a-84fb-1a84fd9afe10",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Azul",
         "price": 849.99,
@@ -1500,6 +1625,7 @@
         "soldUnits": 813
     },
     {
+        "id": "77bda450-2f2b-4e77-b1b4-c2bdba4226d2",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 256GB - Preto",
         "price": 1349.99,
@@ -1512,6 +1638,7 @@
         "soldUnits": 10
     },
     {
+        "id": "9c81f649-e745-4626-8161-023162288c6a",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 994.99,
@@ -1524,6 +1651,7 @@
         "soldUnits": 593
     },
     {
+        "id": "908bff2b-147d-4046-b363-5e276dd079d5",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 512GB - Preto",
         "price": 1529.99,
@@ -1536,6 +1664,7 @@
         "soldUnits": 619
     },
     {
+        "id": "e1d77eaa-cee6-483b-ae17-5062ed20d254",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 256GB - Preto",
         "price": 959.99,
@@ -1548,6 +1677,7 @@
         "soldUnits": 667
     },
     {
+        "id": "dc69dd7b-8d0a-474e-ba57-dfab73ca0b23",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 128GB - Violet",
         "price": 379.99,
@@ -1560,6 +1690,7 @@
         "soldUnits": 115
     },
     {
+        "id": "97023ebb-ef5c-4abe-853e-05a3b9b5808c",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 1064.99,
@@ -1572,6 +1703,7 @@
         "soldUnits": 938
     },
     {
+        "id": "bcd95dc6-b3cf-48c9-af56-6aea443ef3c4",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 1TB - Preto Sideral",
         "price": 1799.99,
@@ -1584,6 +1716,7 @@
         "soldUnits": 653
     },
     {
+        "id": "a4420ab0-5633-4c4f-ba90-2458f359b72f",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Verde",
         "price": 849.99,
@@ -1596,6 +1729,7 @@
         "soldUnits": 727
     },
     {
+        "id": "fe56e5d4-3471-491f-8521-e0c22852c98a",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 256GB - Green",
         "price": 729.99,
@@ -1608,6 +1742,7 @@
         "soldUnits": 767
     },
     {
+        "id": "4ca5099f-2308-4b83-924b-a593cd2d32f9",
         "brand": "Samsung",
         "model": "Galaxy A14 - 64GB - Prateado",
         "price": 179.99,
@@ -1620,6 +1755,7 @@
         "soldUnits": 882
     },
     {
+        "id": "23743012-50c4-46e4-a7eb-f646ba070fd3",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 256GB - Graphite",
         "price": 529.99,
@@ -1632,6 +1768,7 @@
         "soldUnits": 124
     },
     {
+        "id": "c2c70c2b-5850-41c2-be5c-42deb05da182",
         "brand": "Samsung",
         "model": "Galaxy A53 5G - 256GB - Branco",
         "price": 449.99,
@@ -1644,6 +1781,7 @@
         "soldUnits": 600
     },
     {
+        "id": "824320e9-14b6-499d-a7ae-7689aba37e26",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Azul",
         "price": 1019.99,
@@ -1656,6 +1794,7 @@
         "soldUnits": 452
     },
     {
+        "id": "df762351-98d8-45a4-b8b5-c4539157c0a6",
         "brand": "Apple",
         "model": "iPhone 14 - 512GB - Roxo",
         "price": 1299.99,
@@ -1668,6 +1807,7 @@
         "soldUnits": 187
     },
     {
+        "id": "05318132-afa6-4bbc-9c8b-28646c720a54",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 128GB - Bora Purple",
         "price": 679.99,
@@ -1680,6 +1820,7 @@
         "soldUnits": 43
     },
     {
+        "id": "078265c1-bd78-4fc4-948f-b3a99910a6fc",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Roxo",
         "price": 1019.99,
@@ -1692,6 +1833,7 @@
         "soldUnits": 572
     },
     {
+        "id": "2f00bf52-989f-425d-9068-973424659d1e",
         "brand": "Nothing",
         "model": "Nothing Phone (1) - 256GB - White",
         "price": 459.99,
@@ -1704,6 +1846,7 @@
         "soldUnits": 472
     },
     {
+        "id": "e580f398-86c9-4ec9-8037-08f5ed33616e",
         "brand": "Xiaomi",
         "model": "Redmi 10 2022 - 128GB - Carbon Gray",
         "price": 179.99,
@@ -1716,6 +1859,7 @@
         "soldUnits": 644
     },
     {
+        "id": "4ca8d85b-204d-48f9-9a7e-1b17375b092b",
         "brand": "Xiaomi",
         "model": "12T 5G - 256GB - Black",
         "price": 599.99,
@@ -1728,6 +1872,7 @@
         "soldUnits": 293
     },
     {
+        "id": "a018591d-685d-41f5-a3a4-e22adbdaf009",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
         "price": 714.99,
@@ -1740,6 +1885,7 @@
         "soldUnits": 598
     },
     {
+        "id": "52ada222-5bd1-4f0d-af6d-07727c4a0c4a",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 128GB - White",
         "price": 479.99,
@@ -1752,6 +1898,7 @@
         "soldUnits": 24
     },
     {
+        "id": "cdaac05f-51ea-44bd-85f7-e2cd1c13f8cb",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Preto - Recondicionado - FNAC Restart - Grade A",
         "price": 728.99,
@@ -1764,6 +1911,7 @@
         "soldUnits": 74
     },
     {
+        "id": "5826bf5a-7150-48e7-b5f4-b1184cada041",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 - 128GB - Onyx Gray",
         "price": 249.99,
@@ -1776,6 +1924,7 @@
         "soldUnits": 708
     },
     {
+        "id": "ec705a97-bb8d-4b95-868f-058d13d4255e",
         "brand": "iPad Apple",
         "model": "iPad - 32GB Wi-Fi + Cellular - Prateado – FNAC Restart - Grade A",
         "price": 229.99,
@@ -1788,6 +1937,7 @@
         "soldUnits": 612
     },
     {
+        "id": "82111792-73d1-4a07-8de4-3b0495fe0d83",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 128GB - Cinzento - Recondicionado – FNAC Restart - Grade A",
         "price": 449.99,
@@ -1800,6 +1950,7 @@
         "soldUnits": 779
     },
     {
+        "id": "8924bb93-864f-41e1-a386-dd814bdfd391",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Luz das Estrelas",
         "price": 939.99,
@@ -1812,6 +1963,7 @@
         "soldUnits": 399
     },
     {
+        "id": "f8c304d9-d032-4355-af06-b613daf252ff",
         "brand": "Apple",
         "model": "iPhone SE - 128GB - Luz das Estrelas - 2022",
         "price": 579.99,
@@ -1824,6 +1976,7 @@
         "soldUnits": 249
     },
     {
+        "id": "a9148191-8d04-4c9a-b90b-caefcbe84782",
         "brand": "Samsung",
         "model": "Galaxy A14 - 128GB - Preto",
         "price": 209.99,
@@ -1836,6 +1989,7 @@
         "soldUnits": 605
     },
     {
+        "id": "dd8d9216-6461-471d-a0d7-c2b2d857d8e6",
         "brand": "Samsung",
         "model": "Galaxy A14 5G - 128GB - Preto",
         "price": 229.99,
@@ -1848,6 +2002,7 @@
         "soldUnits": 797
     },
     {
+        "id": "a4167220-9158-4665-9863-9da1655f25be",
         "brand": "Huawei",
         "model": "Huawei Mate 50 Pro - 256GB - Preto",
         "price": 1149.99,
@@ -1860,6 +2015,7 @@
         "soldUnits": 32
     },
     {
+        "id": "6b8d8cda-3bad-47c0-9de6-3dbd056afc3c",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 128GB - Phantom Black",
         "price": 599.98,
@@ -1872,6 +2028,7 @@
         "soldUnits": 266
     },
     {
+        "id": "b6bc7aa7-137e-4823-abe6-4458f1574656",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Azul",
         "price": 739.98,
@@ -1884,6 +2041,7 @@
         "soldUnits": 854
     },
     {
+        "id": "460b86c8-194b-4359-9b1e-571a3ee6c125",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 5 44mm - Alumínio Cinzento - Recondicionado – FNAC Restart - Grade B",
         "price": 269.99,
@@ -1896,6 +2054,7 @@
         "soldUnits": 202
     },
     {
+        "id": "42b8a577-a6aa-42a2-923e-b4bf889e549a",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 64GB - Branco - Recondicionado – FNAC Restart - Grade B",
         "price": 394.99,
@@ -1908,6 +2067,7 @@
         "soldUnits": 125
     },
     {
+        "id": "32d62abc-c531-448c-b649-1f556d384378",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 128GB - Azul",
         "price": 749.99,
@@ -1920,6 +2080,7 @@
         "soldUnits": 557
     },
     {
+        "id": "90ddf43c-0447-4384-b08f-a59ddc9b21e1",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Roxo",
         "price": 1019.99,
@@ -1932,6 +2093,7 @@
         "soldUnits": 75
     },
     {
+        "id": "fa297f20-bb85-4a5a-bbea-5bd45a9baece",
         "brand": "Nothing",
         "model": "Nothing Phone (1) - 256GB - White",
         "price": 459.99,
@@ -1944,6 +2106,7 @@
         "soldUnits": 201
     },
     {
+        "id": "744dae78-677d-4c52-b880-7407aaefcdc1",
         "brand": "Xiaomi",
         "model": "Redmi 10 2022 - 128GB - Carbon Gray",
         "price": 179.99,
@@ -1956,6 +2119,7 @@
         "soldUnits": 805
     },
     {
+        "id": "ac7a52ad-e014-4789-a9ed-7f115dfe8289",
         "brand": "Xiaomi",
         "model": "12T 5G - 256GB - Black",
         "price": 599.99,
@@ -1968,6 +2132,7 @@
         "soldUnits": 215
     },
     {
+        "id": "43821eb9-3c74-4f1f-bed8-edf22520cc5e",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
         "price": 714.99,
@@ -1980,6 +2145,7 @@
         "soldUnits": 654
     },
     {
+        "id": "6f939d59-dddc-4f18-a56e-3860fae9d140",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 128GB - White",
         "price": 479.99,
@@ -1992,6 +2158,7 @@
         "soldUnits": 504
     },
     {
+        "id": "524aef92-4e02-44fb-8b60-9330e81a28b9",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Preto - Recondicionado - FNAC Restart - Grade A",
         "price": 728.99,
@@ -2004,6 +2171,7 @@
         "soldUnits": 987
     },
     {
+        "id": "cdfbce27-2f45-4893-970c-16770502e23f",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 - 128GB - Onyx Gray",
         "price": 249.99,
@@ -2016,6 +2184,7 @@
         "soldUnits": 580
     },
     {
+        "id": "c99c7b24-7b2e-4f6d-9006-93f6a7e060a7",
         "brand": "iPad Apple",
         "model": "iPad - 32GB Wi-Fi + Cellular - Prateado – FNAC Restart - Grade A",
         "price": 229.99,
@@ -2028,6 +2197,7 @@
         "soldUnits": 604
     },
     {
+        "id": "d597ceb9-652b-46a7-abd4-5f925577ae5e",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 128GB - Cinzento - Recondicionado – FNAC Restart - Grade A",
         "price": 449.99,
@@ -2040,6 +2210,7 @@
         "soldUnits": 135
     },
     {
+        "id": "b36129b4-c955-4dbb-ba75-8b162ac3a86c",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Luz das Estrelas",
         "price": 939.99,
@@ -2052,6 +2223,7 @@
         "soldUnits": 110
     },
     {
+        "id": "242fccf9-34a4-48bd-8694-b94a827b639e",
         "brand": "Apple",
         "model": "iPhone SE - 128GB - Luz das Estrelas - 2022",
         "price": 579.99,
@@ -2064,6 +2236,7 @@
         "soldUnits": 10
     },
     {
+        "id": "c0d28c09-3172-497b-82ea-e837110cca02",
         "brand": "Samsung",
         "model": "Galaxy A14 - 128GB - Preto",
         "price": 209.99,
@@ -2076,6 +2249,7 @@
         "soldUnits": 104
     },
     {
+        "id": "8d86f650-bb90-46ab-97ab-2c19bd9c92f6",
         "brand": "Samsung",
         "model": "Galaxy A14 5G - 128GB - Preto",
         "price": 229.99,
@@ -2088,6 +2262,7 @@
         "soldUnits": 6
     },
     {
+        "id": "37d76e28-d986-4207-a5bd-8a45005fa3be",
         "brand": "Huawei",
         "model": "Huawei Mate 50 Pro - 256GB - Preto",
         "price": 1149.99,
@@ -2100,6 +2275,7 @@
         "soldUnits": 391
     },
     {
+        "id": "e5297f5d-417a-49ff-bc0b-34173a4e24bf",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 128GB - Phantom Black",
         "price": 599.98,
@@ -2112,6 +2288,7 @@
         "soldUnits": 718
     },
     {
+        "id": "1dd8599f-dc13-469d-8821-d59eebadb142",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Azul",
         "price": 739.98,
@@ -2124,6 +2301,7 @@
         "soldUnits": 381
     },
     {
+        "id": "b81a8e01-fc7e-4a52-9bfd-6a5af93e01c7",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 5 44mm - Alumínio Cinzento - Recondicionado – FNAC Restart - Grade B",
         "price": 269.99,
@@ -2136,6 +2314,7 @@
         "soldUnits": 618
     },
     {
+        "id": "cf4c89dd-d337-4973-a352-3960597290be",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 64GB - Branco - Recondicionado – FNAC Restart - Grade B",
         "price": 394.99,
@@ -2148,6 +2327,7 @@
         "soldUnits": 836
     },
     {
+        "id": "a8802da3-886d-40c4-9038-b32e5599e611",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 128GB - Azul",
         "price": 749.99,
@@ -2160,6 +2340,7 @@
         "soldUnits": 675
     },
     {
+        "id": "2359bce9-d0cd-48f2-bdaf-2ff52dc4729e",
         "brand": "Nothing",
         "model": "Nothing Phone (1) - 256GB - White",
         "price": 419.99,
@@ -2172,6 +2353,7 @@
         "soldUnits": 643
     },
     {
+        "id": "f0398373-934a-4508-9a47-1f8ee1649f22",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 512GB - Verde",
         "price": 1529.99,
@@ -2184,6 +2366,7 @@
         "soldUnits": 160
     },
     {
+        "id": "95829baf-1a13-4945-8c46-1ad0734410d2",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
         "price": 994.99,
@@ -2196,6 +2379,7 @@
         "soldUnits": 959
     },
     {
+        "id": "fcfb38ed-57d0-4e9b-98af-bee2b449d570",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 714.99,
@@ -2208,6 +2392,7 @@
         "soldUnits": 761
     },
     {
+        "id": "07aae021-dbab-4d47-8d74-0cb0884a1503",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 128GB - Lime",
         "price": 379.99,
@@ -2220,6 +2405,7 @@
         "soldUnits": 111
     },
     {
+        "id": "b6f52226-43e0-4b36-b028-a954c5a0c8e5",
         "brand": "Oppo",
         "model": "Reno8 Lite 5G - 128GB - Cosmic Black",
         "price": 329.99,
@@ -2232,6 +2418,7 @@
         "soldUnits": 427
     },
     {
+        "id": "04938446-7aae-456c-b6a5-c7c76bea7ae7",
         "brand": "Samsung",
         "model": "Galaxy A04S - 32GB - Branco",
         "price": 139.99,
@@ -2244,6 +2431,7 @@
         "soldUnits": 377
     },
     {
+        "id": "a4616931-6ff1-4ba7-9d7a-96613c9c497a",
         "brand": "Samsung",
         "model": "Galaxy S23 Plus 5G 512GB - Preto",
         "price": 1269.99,
@@ -2256,6 +2444,7 @@
         "soldUnits": 937
     },
     {
+        "id": "6b814a50-efea-4b78-a4a8-33db9e645689",
         "brand": "Apple",
         "model": "iPhone 14 - 512GB - Meia-Noite",
         "price": 1299.99,
@@ -2268,6 +2457,7 @@
         "soldUnits": 917
     },
     {
+        "id": "e2659b62-a143-47dc-b933-1b71d6b0e541",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Preto",
         "price": 799.99,
@@ -2280,6 +2470,7 @@
         "soldUnits": 47
     },
     {
+        "id": "0c66ac62-6e34-496a-8923-f0baeee085cf",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - (Product) Red",
         "price": 599.98,
@@ -2292,6 +2483,7 @@
         "soldUnits": 928
     },
     {
+        "id": "d2e2531e-2528-456f-bfcf-9074af9701e5",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 256GB - White",
         "price": 529.99,
@@ -2304,6 +2496,7 @@
         "soldUnits": 70
     },
     {
+        "id": "3b0552f8-d97f-4600-a8e6-576a8dec293d",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Azul - Recondicionado – FNAC Restart - Grade A",
         "price": 728.99,
@@ -2316,6 +2509,7 @@
         "soldUnits": 274
     },
     {
+        "id": "c4b88f5c-7c7c-41c7-82e6-17cba624d82f",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 256GB - Lavender",
         "price": 959.99,
@@ -2328,6 +2522,7 @@
         "soldUnits": 133
     },
     {
+        "id": "df754e7b-80cf-4688-917c-e52106d53759",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 128GB - Silver",
         "price": 379.99,
@@ -2340,6 +2535,7 @@
         "soldUnits": 842
     },
     {
+        "id": "1b2af7b2-1494-44de-b393-93db818b923f",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 454.99,
@@ -2352,6 +2548,7 @@
         "soldUnits": 205
     },
     {
+        "id": "894a1dd9-c8e7-425f-8c89-242c698de3d9",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 434.99,
@@ -2364,6 +2561,7 @@
         "soldUnits": 112
     },
     {
+        "id": "cd915613-b2da-4111-ab5b-570a307132ab",
         "brand": "Samsung",
         "model": "Galaxy S20 - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
         "price": 359.99,
@@ -2376,6 +2574,7 @@
         "soldUnits": 564
     },
     {
+        "id": "9d91b2cd-ec09-491c-a04b-98c7252573a6",
         "brand": "Macbook Apple",
         "model": "MacBook Pro 13'' Retina i5-1,4GHz | 8GB | 128GB | Intel Iris Plus Graphics 645 com Touch Bar e Touch ID - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 809.99,
@@ -2388,6 +2587,7 @@
         "soldUnits": 856
     },
     {
+        "id": "f66309cd-e8fe-484d-a5e5-f38912b1216c",
         "brand": "Samsung",
         "model": "Galaxy S23 Plus 5G 256GB - Verde",
         "price": 1149.99,
@@ -2400,6 +2600,7 @@
         "soldUnits": 957
     },
     {
+        "id": "f9447fd9-8832-42f9-a029-8a8111cc76e4",
         "brand": "Nothing",
         "model": "Nothing Phone (1) - 256GB - White",
         "price": 419.99,
@@ -2412,6 +2613,7 @@
         "soldUnits": 698
     },
     {
+        "id": "a5f225c9-f071-4169-886c-77bc60241df1",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 512GB - Verde",
         "price": 1529.99,
@@ -2424,6 +2626,7 @@
         "soldUnits": 739
     },
     {
+        "id": "7409e16a-53dc-402b-823a-1192b61e9ec1",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
         "price": 994.99,
@@ -2436,6 +2639,7 @@
         "soldUnits": 407
     },
     {
+        "id": "04f9e5e9-9de4-41bf-b305-ee16411748f4",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 714.99,
@@ -2448,6 +2652,7 @@
         "soldUnits": 833
     },
     {
+        "id": "23d046ea-bc45-4b5e-8f3f-30b80644d3bc",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 128GB - Lime",
         "price": 379.99,
@@ -2460,6 +2665,7 @@
         "soldUnits": 349
     },
     {
+        "id": "8853fdf9-9cea-41b4-a029-03245c031fa6",
         "brand": "Oppo",
         "model": "Reno8 Lite 5G - 128GB - Cosmic Black",
         "price": 329.99,
@@ -2472,6 +2678,7 @@
         "soldUnits": 387
     },
     {
+        "id": "3430e898-02e6-41b9-b050-e2fd128ccdd4",
         "brand": "Samsung",
         "model": "Galaxy A04S - 32GB - Branco",
         "price": 139.99,
@@ -2484,6 +2691,7 @@
         "soldUnits": 970
     },
     {
+        "id": "90110a4b-47b7-4952-becf-b195355a647a",
         "brand": "Samsung",
         "model": "Galaxy S23 Plus 5G 512GB - Preto",
         "price": 1269.99,
@@ -2496,6 +2704,7 @@
         "soldUnits": 872
     },
     {
+        "id": "4d9ff54a-b080-4927-bb47-081c50fb1d74",
         "brand": "Apple",
         "model": "iPhone 14 - 512GB - Meia-Noite",
         "price": 1299.99,
@@ -2508,6 +2717,7 @@
         "soldUnits": 286
     },
     {
+        "id": "e3f2a9e6-b9f1-4fbe-a154-89a26b857e11",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Preto",
         "price": 799.99,
@@ -2520,6 +2730,7 @@
         "soldUnits": 764
     },
     {
+        "id": "e3213fea-9572-401e-a0c5-77af8cbeebfb",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - (Product) Red",
         "price": 599.98,
@@ -2532,6 +2743,7 @@
         "soldUnits": 13
     },
     {
+        "id": "7d2650e6-a2c1-4238-a67b-b0614d88a144",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 256GB - White",
         "price": 529.99,
@@ -2544,6 +2756,7 @@
         "soldUnits": 81
     },
     {
+        "id": "94b7e36c-bffa-4421-a0dc-0fe684b5d1de",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Azul - Recondicionado – FNAC Restart - Grade A",
         "price": 728.99,
@@ -2556,6 +2769,7 @@
         "soldUnits": 872
     },
     {
+        "id": "ed63a403-b38c-406b-b70f-34bb0bb4aad7",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 256GB - Lavender",
         "price": 959.99,
@@ -2568,6 +2782,7 @@
         "soldUnits": 758
     },
     {
+        "id": "c15a1820-9de8-45d5-b926-f814ac73b907",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 128GB - Silver",
         "price": 379.99,
@@ -2580,6 +2795,7 @@
         "soldUnits": 790
     },
     {
+        "id": "9d9dc676-12c9-43de-9eed-1cf9bf89c645",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 454.99,
@@ -2592,6 +2808,7 @@
         "soldUnits": 336
     },
     {
+        "id": "eec83d94-0c01-498e-b809-e080307658c8",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 434.99,
@@ -2604,6 +2821,7 @@
         "soldUnits": 18
     },
     {
+        "id": "bdae4d04-cd60-4f26-9d8a-a513102e22d7",
         "brand": "Samsung",
         "model": "Galaxy S20 - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
         "price": 359.99,
@@ -2616,6 +2834,7 @@
         "soldUnits": 664
     },
     {
+        "id": "96658433-bddc-428a-a9c4-dc8816e02135",
         "brand": "Macbook Apple",
         "model": "MacBook Pro 13'' Retina i5-1,4GHz | 8GB | 128GB | Intel Iris Plus Graphics 645 com Touch Bar e Touch ID - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 809.99,
@@ -2628,6 +2847,7 @@
         "soldUnits": 837
     },
     {
+        "id": "bf03d1d1-d08e-4238-bd09-4c0b2aac5efd",
         "brand": "Samsung",
         "model": "Galaxy S23 Plus 5G 256GB - Verde",
         "price": 1149.99,
@@ -2640,6 +2860,7 @@
         "soldUnits": 473
     },
     {
+        "id": "293967a4-28ca-41f8-b0b5-0669bf9f1103",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 Pro+ 5G - 256GB - Light Blue",
         "price": 499.99,
@@ -2652,6 +2873,7 @@
         "soldUnits": 920
     },
     {
+        "id": "e541d4a4-654a-440f-ad00-978bd3adbb1e",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 128GB - Preto",
         "price": 899.99,
@@ -2664,6 +2886,7 @@
         "soldUnits": 220
     },
     {
+        "id": "dcd9ffbd-f854-476e-a51d-7b5fd96f9e4a",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 512GB - Bege",
         "price": 1529.99,
@@ -2676,6 +2899,7 @@
         "soldUnits": 897
     },
     {
+        "id": "21436aef-bd84-418e-8baf-8fee2c65b6e5",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 128GB - Lavender",
         "price": 899.99,
@@ -2688,6 +2912,7 @@
         "soldUnits": 445
     },
     {
+        "id": "08d2abc0-2845-4d3b-9a90-de1a1ffb74bd",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - Luz das Estrelas",
         "price": 1019.99,
@@ -2700,6 +2925,7 @@
         "soldUnits": 981
     },
     {
+        "id": "ed9108b9-caac-4f40-a0ee-81e2714cdeca",
         "brand": "Samsung",
         "model": "Galaxy Z Flip4 5G - 128GB - Pink Gold",
         "price": 979.99,
@@ -2712,6 +2938,7 @@
         "soldUnits": 931
     },
     {
+        "id": "1a0eefad-eda6-4222-a4ae-4083993f656d",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 - 128GB - Ice Blue",
         "price": 249.99,
@@ -2724,6 +2951,7 @@
         "soldUnits": 80
     },
     {
+        "id": "84a09ba1-a1c2-4265-8aa5-29295874a591",
         "brand": "Apple rfb",
         "model": "iPhone XR - 64GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 279.99,
@@ -2736,6 +2964,7 @@
         "soldUnits": 279
     },
     {
+        "id": "b24a7178-8617-47af-bf31-a452de23dd9b",
         "brand": "Apple",
         "model": "iPhone 13 - 512GB - Verde",
         "price": 1059.98,
@@ -2748,6 +2977,7 @@
         "soldUnits": 519
     },
     {
+        "id": "d9cd964e-e5fa-47a2-b7c5-627ae7279020",
         "brand": "Samsung",
         "model": "Galaxy A14 5G - 128GB - Verde",
         "price": 229.99,
@@ -2760,6 +2990,7 @@
         "soldUnits": 265
     },
     {
+        "id": "d18efdf1-39f3-42ec-aca7-20746524663d",
         "brand": "Xiaomi",
         "model": "13 Pro 5G - 256GB - Ceramic Black",
         "price": 1399.99,
@@ -2772,6 +3003,7 @@
         "soldUnits": 276
     },
     {
+        "id": "e99c6b19-9f84-4344-9ee3-eaa2de82be6a",
         "brand": "Caterpillar",
         "model": "CAT S53 5G - 128GB - Preto",
         "price": 489.99,
@@ -2784,6 +3016,7 @@
         "soldUnits": 368
     },
     {
+        "id": "25616ab9-3947-48fa-9c7a-3c844a55b4cd",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 128GB - Grafite- Recondicionado – FNAC Restart - Grade B",
         "price": 904.99,
@@ -2796,6 +3029,7 @@
         "soldUnits": 349
     },
     {
+        "id": "c94ccf58-0a51-47d1-82a8-264ad19a1e01",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 5G - 128GB - Onyx Gray",
         "price": 309.99,
@@ -2808,6 +3042,7 @@
         "soldUnits": 147
     },
     {
+        "id": "c5093221-164f-4c4d-87f2-4fe6d7fa360e",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 128GB - Violet",
         "price": 479.99,
@@ -2820,6 +3055,7 @@
         "soldUnits": 534
     },
     {
+        "id": "a9099b11-76dc-4eb9-a191-756c94c8355d",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 1TB - Prateado",
         "price": 1799.99,
@@ -2832,6 +3068,7 @@
         "soldUnits": 467
     },
     {
+        "id": "f3f97300-b5c1-4faa-8774-a8e3adf0af11",
         "brand": "Ulefone",
         "model": "Ulefone Armor X10 Pro - 64GB - Preto",
         "price": 199.99,
@@ -2844,6 +3081,7 @@
         "soldUnits": 989
     },
     {
+        "id": "ac487746-b1ef-45c1-a0fe-8a59f78289f6",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 128GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
         "price": 924.99,
@@ -2856,6 +3094,7 @@
         "soldUnits": 31
     },
     {
+        "id": "3ba84ef5-d0fc-4a55-add9-b886ae636af1",
         "brand": "Samsung",
         "model": "Galaxy A54 5G - 128GB - Lime",
         "price": 479.99,
@@ -2868,6 +3107,7 @@
         "soldUnits": 222
     },
     {
+        "id": "12f31c3a-c232-43c5-b987-1e60f17938e7",
         "brand": "Samsung",
         "model": "Galaxy A14 - 128GB - Prateado",
         "price": 209.99,
@@ -2880,6 +3120,7 @@
         "soldUnits": 694
     },
     {
+        "id": "9e28ce51-108d-43f6-8e31-dc63885031e0",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Rosa",
         "price": 939.99,
@@ -2892,6 +3133,7 @@
         "soldUnits": 596
     },
     {
+        "id": "3f4ed02a-c023-45bc-b757-210af23b8bd0",
         "brand": "Samsung",
         "model": "Galaxy A23 5G - 64GB - Branco",
         "price": 249.99,
@@ -2904,6 +3146,7 @@
         "soldUnits": 774
     },
     {
+        "id": "d4b5b33b-5ad9-4576-991a-14157b58c597",
         "brand": "Ulefone",
         "model": "Ulefone Armor 11T - 256GB - Preto",
         "price": 679.99,
@@ -2916,6 +3159,7 @@
         "soldUnits": 389
     },
     {
+        "id": "0f3dcbb6-4e5e-4f93-88c9-fc519fb8d971",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 64GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 579.99,
@@ -2928,6 +3172,7 @@
         "soldUnits": 691
     },
     {
+        "id": "521365f8-d19c-4654-b6a6-ae2e169f5e40",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Verde",
         "price": 739.98,
@@ -2940,6 +3185,7 @@
         "soldUnits": 646
     },
     {
+        "id": "ecc558b9-6a15-4a88-8061-343212cf7ecf",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 128GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -2952,6 +3198,7 @@
         "soldUnits": 566
     },
     {
+        "id": "1a923036-91ff-4200-97f7-9a3dbe05e1f3",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 7 45mm - Cellular - Aço Inoxidável Prateada - Recondicionado - FNAC Restart - Grade A",
         "price": 609.99,
@@ -2964,6 +3211,7 @@
         "soldUnits": 526
     },
     {
+        "id": "69fa8365-f240-4d78-ae85-bd75b2edcd82",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 5 44mm - Alumínio Cinzento - Recondicionado – FNAC Restart - Grade A",
         "price": 299.99,
@@ -2976,6 +3224,7 @@
         "soldUnits": 3
     },
     {
+        "id": "73ee7af4-7a31-4e29-9ed0-3f144bab0178",
         "brand": "Caterpillar",
         "model": "CAT B40 4G - Preto",
         "price": 89.99,
@@ -2988,6 +3237,7 @@
         "soldUnits": 558
     },
     {
+        "id": "d730465e-5f9b-424c-876a-55da13bf3c83",
         "brand": "Ulefone",
         "model": "Ulefone Armor 9 - 128 GB - Preto",
         "price": 609.99,
@@ -3000,6 +3250,7 @@
         "soldUnits": 808
     },
     {
+        "id": "17d8fa8b-3cd1-4b2f-bea8-de8a58c85c76",
         "brand": "Samsung",
         "model": "Galaxy A13 5G - 128GB - Branco",
         "price": 199.99,
@@ -3012,6 +3263,7 @@
         "soldUnits": 174
     },
     {
+        "id": "9e331c8f-50b0-4a14-b37b-c6818b45baa9",
         "brand": "Samsung",
         "model": "Galaxy S23 Plus 5G 256GB - Preto",
         "price": 1149.99,
@@ -3024,6 +3276,7 @@
         "soldUnits": 832
     },
     {
+        "id": "f95b2742-56eb-4071-95ff-42b0f410f534",
         "brand": "Xiaomi",
         "model": "13 5G - 256GB - Black",
         "price": 999.99,
@@ -3036,6 +3289,7 @@
         "soldUnits": 635
     },
     {
+        "id": "bb860f5c-4614-4dcb-87a6-c054aaafac3b",
         "brand": "Samsung",
         "model": "Galaxy Z Fold4 5G - 256GB - Beige",
         "price": 1599.99,
@@ -3048,6 +3302,7 @@
         "soldUnits": 282
     },
     {
+        "id": "7f936e11-6891-4238-8ebf-d99a9c6cb1c9",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Azul",
         "price": 939.99,
@@ -3060,6 +3315,7 @@
         "soldUnits": 80
     },
     {
+        "id": "e0a798d2-cc38-4e2f-a9c6-d1c91a319810",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 1TB - Roxo Escuro",
         "price": 1799.99,
@@ -3072,6 +3328,7 @@
         "soldUnits": 956
     },
     {
+        "id": "0ea6ffcc-9a04-4b04-8c5a-48161f6a00fd",
         "brand": "Apple rfb",
         "model": "iPhone XR - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 309.99,
@@ -3084,6 +3341,7 @@
         "soldUnits": 30
     },
     {
+        "id": "91a0d3dd-d29c-448f-bd6a-594915488b38",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -3096,6 +3354,7 @@
         "soldUnits": 951
     },
     {
+        "id": "87f8b36d-62c6-4231-8ef0-77a73cb06def",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 256GB - Meia-Noite",
         "price": 1189.99,
@@ -3108,6 +3367,7 @@
         "soldUnits": 483
     },
     {
+        "id": "56d3a6ab-b3c1-480a-ba9b-c1cb4947b644",
         "brand": "Spc internet",
         "model": "Senior SPC Fortune 2 - Preto",
         "price": 39.99,
@@ -3120,6 +3380,7 @@
         "soldUnits": 853
     },
     {
+        "id": "fc6e621f-dc18-4184-ab03-16af5bb4c0da",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 924.99,
@@ -3132,6 +3393,7 @@
         "soldUnits": 100
     },
     {
+        "id": "66b904bd-7c13-4911-a1eb-b72ff935a43d",
         "brand": "Xiaomi",
         "model": "Redmi 9AT - 32GB - Granite Grey",
         "price": 99.99,
@@ -3144,6 +3406,7 @@
         "soldUnits": 32
     },
     {
+        "id": "652905af-d2c7-4ae2-99da-ac99cfde5678",
         "brand": "Samsung",
         "model": "Galaxy A23 5G - 128GB - Branco",
         "price": 249.99,
@@ -3156,6 +3419,7 @@
         "soldUnits": 837
     },
     {
+        "id": "bf78efa3-421e-40b1-8e43-7cdcfb38a280",
         "brand": "Samsung",
         "model": "Galaxy S20+ - 128GB - Preto Cósmico - Recondicionado – FNAC Restart - Grade A",
         "price": 399.99,
@@ -3168,6 +3432,7 @@
         "soldUnits": 911
     },
     {
+        "id": "485682a0-0ad0-4590-92fc-5b409614f008",
         "brand": "Apple rfb",
         "model": "iPhone 11 - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 454.99,
@@ -3180,6 +3445,7 @@
         "soldUnits": 572
     },
     {
+        "id": "6eacb27a-add7-44e3-a96a-40a6cb61683d",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
         "price": 394.99,
@@ -3192,6 +3458,7 @@
         "soldUnits": 565
     },
     {
+        "id": "686cb1a3-eb08-4b74-b9f9-378cf545180b",
         "brand": "Samsung",
         "model": "Galaxy A23 5G - 128GB - Azul",
         "price": 249.99,
@@ -3204,6 +3471,7 @@
         "soldUnits": 920
     },
     {
+        "id": "1e004c23-508f-4848-90b4-faca5f7319e1",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 128GB - Cream",
         "price": 599.98,
@@ -3216,6 +3484,7 @@
         "soldUnits": 47
     },
     {
+        "id": "3a50129d-77fc-4fd3-aeb4-3d523f46c000",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 128GB - Roxo",
         "price": 989.99,
@@ -3228,6 +3497,7 @@
         "soldUnits": 836
     },
     {
+        "id": "1146a632-d2bf-4d5a-9646-f4304130dd59",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 256GB - Bege",
         "price": 959.99,
@@ -3240,6 +3510,7 @@
         "soldUnits": 457
     },
     {
+        "id": "6e5c6138-0797-447b-8b42-5732b3bc597b",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 594.99,
@@ -3252,6 +3523,7 @@
         "soldUnits": 630
     },
     {
+        "id": "71a6759a-e3ec-4424-b84c-9ce41be16f3b",
         "brand": "Apple",
         "model": "iPhone 14 Pro Max - 1TB - Prateado",
         "price": 2149.99,
@@ -3264,6 +3536,7 @@
         "soldUnits": 326
     },
     {
+        "id": "0e8fc8ba-2a92-444d-8f67-964cc089364e",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 629.99,
@@ -3276,6 +3549,7 @@
         "soldUnits": 782
     },
     {
+        "id": "7798fcbd-d395-48f6-8c85-fe1d7e7fd91c",
         "brand": "Samsung",
         "model": "Galaxy A14 - 64GB - Verde",
         "price": 179.99,
@@ -3288,6 +3562,7 @@
         "soldUnits": 828
     },
     {
+        "id": "bfc5c6c5-8683-46aa-877d-6010b9ae3fdf",
         "brand": "Samsung",
         "model": "Galaxy S21 FE 5G - 256GB - Cinzento",
         "price": 629.99,
@@ -3300,6 +3575,7 @@
         "soldUnits": 441
     },
     {
+        "id": "66b72a27-875a-4d6d-9b2e-260de1f4b2e1",
         "brand": "iPad Apple",
         "model": "iPad - 32GB Wi-Fi + Cellular - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 219.99,
@@ -3312,6 +3588,7 @@
         "soldUnits": 574
     },
     {
+        "id": "d42c80b7-b622-4f93-839c-6c099f47c118",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 128GB - Prateado- Recondicionado – FNAC Restart - Grade B",
         "price": 904.99,
@@ -3324,6 +3601,7 @@
         "soldUnits": 254
     },
     {
+        "id": "eb530395-cfb4-4f85-bff5-c28bab821b01",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 599.99,
@@ -3336,6 +3614,7 @@
         "soldUnits": 696
     },
     {
+        "id": "2cbf9d98-5ebd-41bf-a50c-c252483b2996",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 256GB - Lavender",
         "price": 1349.99,
@@ -3348,6 +3627,7 @@
         "soldUnits": 880
     },
     {
+        "id": "ad567171-1c82-4db2-850c-26a47b181c54",
         "brand": "Samsung",
         "model": "Galaxy Z Fold3 5G - 256GB - Black",
         "price": 1099.98,
@@ -3360,6 +3640,7 @@
         "soldUnits": 12
     },
     {
+        "id": "44a021a1-a05c-49f7-9377-bed9da7d383f",
         "brand": "Apple",
         "model": "iPhone 14 - 512GB - Azul",
         "price": 1299.99,
@@ -3372,6 +3653,7 @@
         "soldUnits": 398
     },
     {
+        "id": "ab5e0ccb-887a-4d50-874c-c15f7c2891d9",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Verde",
         "price": 939.99,
@@ -3384,6 +3666,7 @@
         "soldUnits": 755
     },
     {
+        "id": "c451a3ff-c4c1-42ef-b0cf-62eedc372264",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 64GB - Branco",
         "price": 549.98,
@@ -3396,6 +3679,7 @@
         "soldUnits": 695
     },
     {
+        "id": "79fc420d-25ef-4a1e-919e-15f569628f03",
         "brand": "Xiaomi",
         "model": "Redmi 12C - 64GB - Graphite Gray",
         "price": 159.99,
@@ -3408,6 +3692,7 @@
         "soldUnits": 346
     },
     {
+        "id": "f96658f5-6225-4c44-a919-71dda5abe49b",
         "brand": "Ulefone",
         "model": "Ulefone Armor 8 Pro - 128GB - Preto",
         "price": 269.99,
@@ -3420,6 +3705,7 @@
         "soldUnits": 196
     },
     {
+        "id": "cb59688f-1be6-4bf9-86f1-9cb7193d3064",
         "brand": "Apple",
         "model": "iPhone 14 - 256GB - (Product) Red",
         "price": 1019.99,
@@ -3432,6 +3718,7 @@
         "soldUnits": 875
     },
     {
+        "id": "d4aaac7a-6a4d-4027-874e-bfe18554a04a",
         "brand": "Xiaomi",
         "model": "Redmi 12C NFC - 32GB - Azul",
         "price": 139.99,
@@ -3444,6 +3731,7 @@
         "soldUnits": 923
     },
     {
+        "id": "6a0851a8-f23d-4eda-9d0a-4d5a4ff83d1f",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 128GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -3456,6 +3744,7 @@
         "soldUnits": 646
     },
     {
+        "id": "3e23f6c6-11f5-446d-9483-ffc1ec5de8f5",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 256GB - Bege",
         "price": 1349.99,
@@ -3468,6 +3757,7 @@
         "soldUnits": 519
     },
     {
+        "id": "7e92d40d-fafb-4967-9f54-3d9c53356e85",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Roxo",
         "price": 799.99,
@@ -3480,6 +3770,7 @@
         "soldUnits": 312
     },
     {
+        "id": "3da58ab2-fa5a-4505-a862-bd03aad10bf9",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 256GB - Verde",
         "price": 959.99,
@@ -3492,6 +3783,7 @@
         "soldUnits": 827
     },
     {
+        "id": "46b74642-a136-4d5b-bc22-e019fa77224d",
         "brand": "Xiaomi",
         "model": "Redmi 12C NFC - 32GB - Grafite",
         "price": 139.99,
@@ -3504,6 +3796,7 @@
         "soldUnits": 39
     },
     {
+        "id": "6cf46cb6-728f-4b27-ba1b-fc072f0589f2",
         "brand": "Samsung",
         "model": "Galaxy S23 Ultra 5G 256GB - Verde",
         "price": 1349.99,
@@ -3516,6 +3809,7 @@
         "soldUnits": 751
     },
     {
+        "id": "ab86c755-08c7-4fba-ab25-be3365dc683e",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 539.99,
@@ -3528,6 +3822,7 @@
         "soldUnits": 403
     },
     {
+        "id": "3b734f18-12f4-4fc5-9bf8-d644406e0e55",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 1064.99,
@@ -3540,6 +3835,7 @@
         "soldUnits": 397
     },
     {
+        "id": "4a7b1219-5408-4188-a2d4-b14d412d8365",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 256GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 608.99,
@@ -3552,6 +3848,7 @@
         "soldUnits": 611
     },
     {
+        "id": "a512c5e4-9c59-4852-a7bd-4282114d619c",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Grafite - Recondicionado – FNAC Restart - Grade B",
         "price": 694.99,
@@ -3564,6 +3861,7 @@
         "soldUnits": 488
     },
     {
+        "id": "c122617b-40d5-415b-8686-f2ab25907311",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 64GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 509.99,
@@ -3576,6 +3874,7 @@
         "soldUnits": 683
     },
     {
+        "id": "c84121d5-b659-42b0-b8ef-4e0b786503f9",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 256GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
         "price": 879.99,
@@ -3588,6 +3887,7 @@
         "soldUnits": 922
     },
     {
+        "id": "03acccb9-9ef9-4a4a-91e0-dfe161e3c54a",
         "brand": "Samsung",
         "model": "Galaxy S23 Plus 5G 256GB - Lavender",
         "price": 1149.99,
@@ -3600,6 +3900,7 @@
         "soldUnits": 491
     },
     {
+        "id": "46c462ac-0e1c-4347-83c5-8ef8f0ca3a2e",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 256GB - White",
         "price": 729.99,
@@ -3612,6 +3913,7 @@
         "soldUnits": 650
     },
     {
+        "id": "3f7683f6-fbdd-4c18-811a-6e491f835490",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 879.99,
@@ -3624,6 +3926,7 @@
         "soldUnits": 866
     },
     {
+        "id": "cbc767e4-83dd-458e-8c0b-b70ab245a9e3",
         "brand": "Oppo",
         "model": "A17 - 64GB - Midnight Black",
         "price": 169.99,
@@ -3636,6 +3939,7 @@
         "soldUnits": 682
     },
     {
+        "id": "b016882a-f64d-4f97-9d5e-4bbf53ff752c",
         "brand": "Xiaomi",
         "model": "Redmi 12C - 64GB - Ocean Blue",
         "price": 159.99,
@@ -3648,6 +3952,7 @@
         "soldUnits": 338
     },
     {
+        "id": "95d0f4b1-49df-475e-bfef-8f7186f29993",
         "brand": "Samsung",
         "model": "Galaxy A23 5G - 64GB - Azul",
         "price": 249.99,
@@ -3660,6 +3965,7 @@
         "soldUnits": 337
     },
     {
+        "id": "f39e9479-0582-48e6-8361-b1adcfa54efd",
         "brand": "Samsung",
         "model": "Galaxy Z Fold4 5G - 512GB - Phantom Black",
         "price": 1699.99,
@@ -3672,6 +3978,7 @@
         "soldUnits": 289
     },
     {
+        "id": "ec8d24ee-46f7-4959-abd0-fa28c5b4a8b0",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 256GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
         "price": 859.99,
@@ -3684,6 +3991,7 @@
         "soldUnits": 775
     },
     {
+        "id": "608b97b3-6d42-4c7e-977b-cda69984fc56",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 128GB - Branco - Recondicionado – FNAC Restart - Grade B",
         "price": 434.99,
@@ -3696,6 +4004,7 @@
         "soldUnits": 336
     },
     {
+        "id": "0ea71181-88e5-4807-8898-b49b8ce1cf4e",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 994.99,
@@ -3708,6 +4017,7 @@
         "soldUnits": 381
     },
     {
+        "id": "1167405a-c665-4cee-8dc6-ae430e28a2e1",
         "brand": "Macbook Apple",
         "model": "MacBook Air 13'' Retina | i3-1,1GHz | 8GB | 256GB SSD - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 729.99,
@@ -3720,6 +4030,7 @@
         "soldUnits": 10
     },
     {
+        "id": "3f358b03-7fa3-444a-a833-a9b34bb0560d",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 256GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -3732,6 +4043,7 @@
         "soldUnits": 926
     },
     {
+        "id": "b675dc28-969d-4812-8d46-28cd513bd0ab",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 64GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 414.99,
@@ -3744,6 +4056,7 @@
         "soldUnits": 24
     },
     {
+        "id": "4f86c699-9159-47fa-ab62-bf0cb9c454f5",
         "brand": "Spc internet",
         "model": "Senior SPC Stella 2 - Cinzento",
         "price": 49.99,
@@ -3756,6 +4069,7 @@
         "soldUnits": 311
     },
     {
+        "id": "232e2eb0-458f-47d4-bc93-25e3ea5c6bb3",
         "brand": "Apple",
         "model": "iPhone 14 - 128GB - (Product) Red",
         "price": 879.99,
@@ -3768,6 +4082,7 @@
         "soldUnits": 413
     },
     {
+        "id": "e57736ae-c971-4b02-880e-d30bb865267e",
         "brand": "Nokia",
         "model": "NOKIA 210 Dual SIM - Preto",
         "price": 45.99,
@@ -3780,6 +4095,7 @@
         "soldUnits": 83
     },
     {
+        "id": "8a699f07-8ac2-408e-89c8-7dd12369ed47",
         "brand": "Samsung",
         "model": "Galaxy Z Flip4 5G - 256GB - Graphite",
         "price": 1029.99,
@@ -3792,6 +4108,7 @@
         "soldUnits": 997
     },
     {
+        "id": "e25627e3-6473-44ae-a127-d73ea056b9ff",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 256GB - Roxo",
         "price": 1189.99,
@@ -3804,6 +4121,7 @@
         "soldUnits": 648
     },
     {
+        "id": "8ae40a5f-19ae-4f97-9e3e-10cc410005b4",
         "brand": "Apple rfb",
         "model": "iPhone X - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 279.99,
@@ -3816,6 +4134,7 @@
         "soldUnits": 710
     },
     {
+        "id": "00b72651-605d-47fa-936c-771685704c58",
         "brand": "Samsung",
         "model": "Galaxy Z Flip4 5G - 512GB - Pink Gold",
         "price": 1159.99,
@@ -3828,6 +4147,7 @@
         "soldUnits": 975
     },
     {
+        "id": "069f6e12-3123-4603-bd47-94a9ec89c2fd",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 256GB - Silver",
         "price": 429.99,
@@ -3840,6 +4160,7 @@
         "soldUnits": 909
     },
     {
+        "id": "bef38b9a-9be1-48b7-ac9c-f7c27ba7bc65",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -3852,6 +4173,7 @@
         "soldUnits": 770
     },
     {
+        "id": "4296e3f4-f147-455c-9c25-c76ac6db7f5d",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 614.99,
@@ -3864,6 +4186,7 @@
         "soldUnits": 971
     },
     {
+        "id": "055cb225-a2df-41df-a71e-048021a9abfa",
         "brand": "Ulefone",
         "model": "Ulefone Armor 8 Pro - 128GB - Vermelho",
         "price": 269.99,
@@ -3876,6 +4199,7 @@
         "soldUnits": 90
     },
     {
+        "id": "56a2e137-61a0-4d04-bcd5-9e7222857cf3",
         "brand": "Apple",
         "model": "iPhone SE - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 218.99,
@@ -3888,6 +4212,7 @@
         "soldUnits": 282
     },
     {
+        "id": "983f364d-e38d-4da7-807a-b2ef1ae68200",
         "brand": "Samsung",
         "model": "Galaxy S20 FE - 128GB - Verde - Recondicionado – FNAC Restart - Grade A",
         "price": 299.99,
@@ -3900,6 +4225,7 @@
         "soldUnits": 278
     },
     {
+        "id": "dcef51b6-1432-45d1-9d8d-8bd108bafdd9",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -3912,6 +4238,7 @@
         "soldUnits": 280
     },
     {
+        "id": "1860238f-b559-4dce-8710-d009fd952c75",
         "brand": "Apple rfb",
         "model": "iPhone XS Max- 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 398.99,
@@ -3924,6 +4251,7 @@
         "soldUnits": 964
     },
     {
+        "id": "e65472e5-96ea-43bc-a93c-3165104ac8aa",
         "brand": "Samsung",
         "model": "Galaxy A14 - 128GB - Verde",
         "price": 209.99,
@@ -3936,6 +4264,7 @@
         "soldUnits": 118
     },
     {
+        "id": "ac270805-369b-465c-9d11-76aad24dabaa",
         "brand": "Apple rfb",
         "model": "iPhone XR - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
         "price": 279.99,
@@ -3948,6 +4277,7 @@
         "soldUnits": 973
     },
     {
+        "id": "79c9e6cb-3772-4b06-8bc4-cfd8edf71199",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 128GB - Verde",
         "price": 899.99,
@@ -3960,6 +4290,7 @@
         "soldUnits": 470
     },
     {
+        "id": "02308e59-4f5a-4ba0-871f-7020617438fe",
         "brand": "Apple",
         "model": "iPhone SE - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
         "price": 188.99,
@@ -3972,6 +4303,7 @@
         "soldUnits": 730
     },
     {
+        "id": "3f150205-b786-4108-b9c3-46af1a7cbf74",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 128GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade A",
         "price": 604.99,
@@ -3984,6 +4316,7 @@
         "soldUnits": 900
     },
     {
+        "id": "b152f94f-0837-46e2-821f-aa193db89ff1",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
         "price": 694.99,
@@ -3996,6 +4329,7 @@
         "soldUnits": 928
     },
     {
+        "id": "debfffaf-625f-414e-b84b-849d577a9f17",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 128GB - Phantom Black",
         "price": 649.99,
@@ -4008,6 +4342,7 @@
         "soldUnits": 427
     },
     {
+        "id": "59c70a59-f3e8-4e75-b5d4-e9e9bb5ca98e",
         "brand": "Samsung",
         "model": "Galaxy Z Fold4 5G - 256GB - Graygreen",
         "price": 1599.99,
@@ -4020,6 +4355,7 @@
         "soldUnits": 630
     },
     {
+        "id": "29665480-e641-4808-9212-820c0502f406",
         "brand": "Samsung",
         "model": "Galaxy Z Flip4 5G - 256GB - Bora Purple",
         "price": 1029.99,
@@ -4032,6 +4368,7 @@
         "soldUnits": 953
     },
     {
+        "id": "abed69b6-5b34-4ad8-9050-437544b3c77e",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 5G - 128GB - Ice Blue",
         "price": 309.99,
@@ -4044,6 +4381,7 @@
         "soldUnits": 205
     },
     {
+        "id": "fcaf82e6-9011-40e3-af55-869af8f0ce85",
         "brand": "Samsung",
         "model": "Galaxy Note20 Ultra 5G - 256GB - Mystic Black - Recondicionado – FNAC Restart - Grade B",
         "price": 629.99,
@@ -4056,6 +4394,7 @@
         "soldUnits": 523
     },
     {
+        "id": "68508e82-d37c-4452-9a78-b3b6bdc68c9c",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 256GB - (Product) Red",
         "price": 1189.99,
@@ -4068,6 +4407,7 @@
         "soldUnits": 168
     },
     {
+        "id": "a8f97bbe-d5cc-43f1-8695-4d0694706f64",
         "brand": "Ulefone",
         "model": "Ulefone Armor x9 Pro - 64GB - Vermelho",
         "price": 159.99,
@@ -4080,6 +4420,7 @@
         "soldUnits": 673
     },
     {
+        "id": "a9dc7f33-7849-4888-b15c-42a8713693c1",
         "brand": "Apple",
         "model": "iPhone 13 Pro 128GB - Verde - Recondicionado FNAC Restart - Grade A",
         "price": 924.99,
@@ -4092,6 +4433,7 @@
         "soldUnits": 746
     },
     {
+        "id": "affead48-abdc-4c8f-928f-9d556abcca46",
         "brand": "Nokia",
         "model": "Nokia 105 - Black",
         "price": 27.99,
@@ -4104,6 +4446,7 @@
         "soldUnits": 328
     },
     {
+        "id": "0fd10847-4f3f-456e-8402-a75b4924bfc7",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 256GB - Amarelo",
         "price": 1189.99,
@@ -4116,6 +4459,7 @@
         "soldUnits": 75
     },
     {
+        "id": "fd761f24-c3ff-47ae-8deb-806b39735f5a",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 128GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -4128,6 +4472,7 @@
         "soldUnits": 513
     },
     {
+        "id": "f8fe0eaa-1405-4ee2-bb73-5dfaaaa116cb",
         "brand": "Samsung",
         "model": "Galaxy A53 5G - 256GB - Azul",
         "price": 449.99,
@@ -4140,6 +4485,7 @@
         "soldUnits": 235
     },
     {
+        "id": "3584fdf2-4dad-4c2f-a442-cdb3d10bd9f7",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 614.99,
@@ -4152,6 +4498,7 @@
         "soldUnits": 397
     },
     {
+        "id": "72d79534-bd52-400a-a016-7e55dfd11a48",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 64GB - Verde Meia-Noite - Recondicionado – FNAC Restart - Grade A",
         "price": 529.99,
@@ -4164,6 +4511,7 @@
         "soldUnits": 928
     },
     {
+        "id": "c76c375a-d445-47a4-ad6d-3fc52f2a6832",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max 128GB - Verde - Recondicionado FNAC Restart - Grade A",
         "price": 994.99,
@@ -4176,6 +4524,7 @@
         "soldUnits": 116
     },
     {
+        "id": "130898e7-7db7-4b08-b34b-0402c48e845b",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 694.99,
@@ -4188,6 +4537,7 @@
         "soldUnits": 756
     },
     {
+        "id": "c8eb97ac-6af6-403b-a4cd-fe369f32cd3b",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 999.99,
@@ -4200,6 +4550,7 @@
         "soldUnits": 456
     },
     {
+        "id": "bf84921d-7d73-4f8b-814a-c7baf15d9eb1",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 64GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 529.99,
@@ -4212,6 +4563,7 @@
         "soldUnits": 413
     },
     {
+        "id": "cd4d2a04-4637-4d74-92d4-7d25b5f5e092",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 529.99,
@@ -4224,6 +4576,7 @@
         "soldUnits": 668
     },
     {
+        "id": "980edd09-5cc8-4203-8960-d3870d96c750",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 256GB - Azul",
         "price": 1189.99,
@@ -4236,6 +4589,7 @@
         "soldUnits": 765
     },
     {
+        "id": "2c8d951b-b307-45be-b2f6-ded61588b8ec",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 559.99,
@@ -4248,6 +4602,7 @@
         "soldUnits": 930
     },
     {
+        "id": "92f66a51-2270-40e0-a9a5-cbcd498adf90",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Meia-Noite - Recondicionado – FNAC Restart - Grade B",
         "price": 708.99,
@@ -4260,6 +4615,7 @@
         "soldUnits": 349
     },
     {
+        "id": "685ef9dc-eb61-4a29-847f-1e9e0183d912",
         "brand": "Samsung",
         "model": "Galaxy S23 Plus 5G 256GB - Bege",
         "price": 1149.99,
@@ -4272,6 +4628,7 @@
         "soldUnits": 519
     },
     {
+        "id": "39b9b3c2-d224-4f04-aa92-a29b2b6224ce",
         "brand": "Samsung",
         "model": "Galaxy A34 5G - 256GB - Graphite",
         "price": 429.99,
@@ -4284,6 +4641,7 @@
         "soldUnits": 908
     },
     {
+        "id": "8173d103-bb72-445f-a7db-705acd0e7411",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - (Product) Red",
         "price": 879.98,
@@ -4296,6 +4654,7 @@
         "soldUnits": 697
     },
     {
+        "id": "c9119cb8-0fac-4788-936d-f20aaf4990f6",
         "brand": "Samsung",
         "model": "Galaxy S23 5G 128GB - Bege",
         "price": 899.99,
@@ -4308,6 +4667,7 @@
         "soldUnits": 523
     },
     {
+        "id": "0e6904ec-ea4c-4e42-b243-23fe4f114248",
         "brand": "Samsung",
         "model": "Galaxy S22 5G - 256GB - Bora Purple",
         "price": 729.99,
@@ -4320,6 +4680,7 @@
         "soldUnits": 124
     },
     {
+        "id": "da1ed09c-3095-4ba4-b149-e313450a01bb",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 512GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -4332,6 +4693,7 @@
         "soldUnits": 260
     },
     {
+        "id": "457c35f0-4902-4617-9bce-4bacd082743d",
         "brand": "Oppo",
         "model": "A17 - 64GB - Lake Blue",
         "price": 169.99,
@@ -4344,6 +4706,7 @@
         "soldUnits": 729
     },
     {
+        "id": "47e1b96d-29ee-447d-a9ca-8c36b5afcfe1",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 256GB - Roxo - Recondicionado – FNAC Restart - Grade A",
         "price": 669.99,
@@ -4356,6 +4719,7 @@
         "soldUnits": 497
     },
     {
+        "id": "50b5a246-ddd9-4bb1-a048-55ef2d082217",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 128GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 629.99,
@@ -4368,6 +4732,7 @@
         "soldUnits": 929
     },
     {
+        "id": "4c4ba148-a364-46d6-88e4-eb70e8f97ac1",
         "brand": "Ulefone",
         "model": "Ulefone Armor 12 5G - 128GB - Preto",
         "price": 449.99,
@@ -4380,6 +4745,7 @@
         "soldUnits": 777
     },
     {
+        "id": "c1a62c9a-a1c7-4695-8d7f-4774e6c1863d",
         "brand": "Apple",
         "model": "iPhone SE - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 238.99,
@@ -4392,6 +4758,7 @@
         "soldUnits": 471
     },
     {
+        "id": "7015da45-07a2-4ea9-a6b3-2fd6f3d5cf50",
         "brand": "Macbook Apple",
         "model": "MacBook Air 13'' Retina | i3-1,1GHz | 8GB | 256GB SSD - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 769.99,
@@ -4404,6 +4771,7 @@
         "soldUnits": 768
     },
     {
+        "id": "ecf8fbf6-86df-4b1b-abb1-add690f188d1",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 974.99,
@@ -4416,6 +4784,7 @@
         "soldUnits": 447
     },
     {
+        "id": "493c38b0-3a09-4431-b491-ec751394ad90",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 879.99,
@@ -4428,6 +4797,7 @@
         "soldUnits": 199
     },
     {
+        "id": "6117ad36-bfcb-40c2-bc60-070e9aa0b198",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 579.99,
@@ -4440,6 +4810,7 @@
         "soldUnits": 421
     },
     {
+        "id": "698cb371-2c85-45fc-a8aa-ab9e89a4eade",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 256GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -4452,6 +4823,7 @@
         "soldUnits": 470
     },
     {
+        "id": "4520e8c3-6268-454c-a162-6911fa94e898",
         "brand": "Apple",
         "model": "iPhone 13 - 512GB - Rosa",
         "price": 1059.98,
@@ -4464,6 +4836,7 @@
         "soldUnits": 613
     },
     {
+        "id": "682cdd64-8e71-44c3-b6a5-9c7e37ec922e",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 256GB - Grafite- Recondicionado – FNAC Restart - Grade A",
         "price": 999.99,
@@ -4476,6 +4849,7 @@
         "soldUnits": 551
     },
     {
+        "id": "cebd2040-f732-4c57-9b0a-2116c0d5103b",
         "brand": "Apple",
         "model": "iPhone 14 Pro - 1TB - Dourado",
         "price": 1799.99,
@@ -4488,6 +4862,7 @@
         "soldUnits": 838
     },
     {
+        "id": "3a2d48c6-de85-4bc8-ac36-97226d6592b2",
         "brand": "Apple rfb",
         "model": "iPhone XS Max- 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 418.99,
@@ -4500,6 +4875,7 @@
         "soldUnits": 804
     },
     {
+        "id": "8f2fba35-4d42-4945-907e-431b92e55899",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 519.99,
@@ -4512,6 +4888,7 @@
         "soldUnits": 648
     },
     {
+        "id": "7837c20b-0630-4665-b0ae-462a936d1526",
         "brand": "Samsung",
         "model": "Galaxy S21 FE 5G - 256GB - Lavanda",
         "price": 629.99,
@@ -4524,6 +4901,7 @@
         "soldUnits": 718
     },
     {
+        "id": "8da94f86-5046-4f23-a5f2-c80f2e2986d6",
         "brand": "Samsung",
         "model": "Galaxy Z Fold4 5G - 512GB - Graygreen",
         "price": 1699.99,
@@ -4536,6 +4914,7 @@
         "soldUnits": 134
     },
     {
+        "id": "072d7836-b3f4-4335-8442-62ecab05c613",
         "brand": "Ulefone",
         "model": "Ulefone Armor 19T 256GB - Preto",
         "price": 649.99,
@@ -4548,6 +4927,7 @@
         "soldUnits": 735
     },
     {
+        "id": "c11d2023-097c-493d-92fc-eb11d59e569c",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 512GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade A",
         "price": 899.99,
@@ -4560,6 +4940,7 @@
         "soldUnits": 20
     },
     {
+        "id": "9ff8265c-2214-4388-b2b9-bf22c9323ee8",
         "brand": "Huawei",
         "model": "Huawei nova Y70 - 128GB - Preto",
         "price": 179.99,
@@ -4572,6 +4953,7 @@
         "soldUnits": 339
     },
     {
+        "id": "1c7d0ca1-d8de-4b22-86e7-0e50b42f5366",
         "brand": "Samsung",
         "model": "Galaxy Z Flip4 5G - 128GB - Bora Purple",
         "price": 979.99,
@@ -4584,6 +4966,7 @@
         "soldUnits": 353
     },
     {
+        "id": "a74b4dbe-93ca-47df-8117-499f5785547e",
         "brand": "Nokia",
         "model": "Telemovel Nokia 5710 Express Audio - Preto | Vermelho",
         "price": 49.98,
@@ -4596,6 +4979,7 @@
         "soldUnits": 598
     },
     {
+        "id": "49847f13-409d-4c12-9493-fad39e77b805",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Rosa - Recondicionado – FNAC Restart - Grade A",
         "price": 728.99,
@@ -4608,6 +4992,7 @@
         "soldUnits": 700
     },
     {
+        "id": "5c7a9c8a-830a-474c-a2a2-c1b25fd6e8f7",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - Roxo - Recondicionado – FNAC Restart - Grade A",
         "price": 539.99,
@@ -4620,6 +5005,7 @@
         "soldUnits": 42
     },
     {
+        "id": "a50cf27f-c302-480b-bf33-16b21b5c94c6",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 128GB - (Product) Red",
         "price": 989.99,
@@ -4632,6 +5018,7 @@
         "soldUnits": 48
     },
     {
+        "id": "2c9109ba-133e-4fa2-9e88-df0a577cc1f2",
         "brand": "Spc internet",
         "model": "Senior SPC Harmony - Preto",
         "price": 59.99,
@@ -4644,6 +5031,7 @@
         "soldUnits": 32
     },
     {
+        "id": "748ba42a-15b9-4986-809d-a459f4a20a29",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 614.99,
@@ -4656,6 +5044,7 @@
         "soldUnits": 12
     },
     {
+        "id": "2415868c-5897-4b37-9e2d-b1ba084aec4b",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 Pro - 128GB - Graphite Gray",
         "price": 349.99,
@@ -4668,6 +5057,7 @@
         "soldUnits": 287
     },
     {
+        "id": "dafee01e-c2b1-4c1a-9cfb-f094878f90ab",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 879.99,
@@ -4680,6 +5070,7 @@
         "soldUnits": 254
     },
     {
+        "id": "7b4a2347-04be-4b44-97a2-4030800adaec",
         "brand": "Xiaomi",
         "model": "Redmi 10C - 64GB - Ocean Blue",
         "price": 149.99,
@@ -4692,6 +5083,7 @@
         "soldUnits": 925
     },
     {
+        "id": "60c232bc-b439-4f80-9f31-4ebf826e2e80",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade B",
         "price": 859.99,
@@ -4704,6 +5096,7 @@
         "soldUnits": 459
     },
     {
+        "id": "25501dde-e6d3-4acd-beab-03ed411c1dd6",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 859.99,
@@ -4716,6 +5109,7 @@
         "soldUnits": 244
     },
     {
+        "id": "1c66c300-230c-45aa-92a5-21e1c0613dbc",
         "brand": "Samsung",
         "model": "Galaxy Z Fold4 5G - 256GB - Phantom Black",
         "price": 1599.99,
@@ -4728,6 +5122,7 @@
         "soldUnits": 949
     },
     {
+        "id": "b9785c27-d868-4485-a15e-32ccd955cc20",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 64GB - Roxo - Recondicionado – FNAC Restart - Grade A",
         "price": 414.99,
@@ -4740,6 +5135,7 @@
         "soldUnits": 430
     },
     {
+        "id": "9a12eb0d-4416-4813-b454-282a34d6fb79",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 64GB - Verde Meia-Noite - Recondicionado – FNAC Restart - Grade B",
         "price": 559.99,
@@ -4752,6 +5148,7 @@
         "soldUnits": 478
     },
     {
+        "id": "17818d05-10f0-4e6f-b07d-a59b662b5047",
         "brand": "Spc internet",
         "model": "Senior SPC Fortune 2 Pocket Edition - Preto",
         "price": 29.99,
@@ -4764,6 +5161,7 @@
         "soldUnits": 448
     },
     {
+        "id": "55d5bb8e-f6c4-48a4-8773-aaa225c80281",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Rosa - Recondicionado – FNAC Restart - Grade B",
         "price": 708.99,
@@ -4776,6 +5174,7 @@
         "soldUnits": 987
     },
     {
+        "id": "0a1ead43-b7f1-4743-a891-3385b036090f",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 714.99,
@@ -4788,6 +5187,7 @@
         "soldUnits": 84
     },
     {
+        "id": "1bf18b7b-48f8-4317-a319-97e1d0a95fa3",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 594.99,
@@ -4800,6 +5200,7 @@
         "soldUnits": 722
     },
     {
+        "id": "7567e4d9-4801-499c-acc7-44b3a6026d4a",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 256GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 709.99,
@@ -4812,6 +5213,7 @@
         "soldUnits": 177
     },
     {
+        "id": "36f0097b-792b-4f24-b460-ead5aa912329",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 128GB - Roxo - Recondicionado – FNAC Restart - Grade B",
         "price": 434.99,
@@ -4824,6 +5226,7 @@
         "soldUnits": 136
     },
     {
+        "id": "baef37ed-cf03-42f0-9648-c10fa87198cd",
         "brand": "Macbook Apple",
         "model": "MacBook Air 13'' Retina | i5-1,6GHz | 8GB | 128GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 769.99,
@@ -4836,6 +5239,7 @@
         "soldUnits": 622
     },
     {
+        "id": "834bdc60-6f53-461d-a0e0-2fc208323ecb",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 7 45mm - Alumínio Luz das Estrelas - Recondicionado - FNAC Restart - Grade A",
         "price": 369.99,
@@ -4848,6 +5252,7 @@
         "soldUnits": 911
     },
     {
+        "id": "26ad5264-a758-4b3f-9251-336744858879",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 256GB - Luz das Estrelas",
         "price": 1189.99,
@@ -4860,6 +5265,7 @@
         "soldUnits": 148
     },
     {
+        "id": "29ab65b6-b927-4169-89eb-94ff4f56c5fd",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 609.99,
@@ -4872,6 +5278,7 @@
         "soldUnits": 160
     },
     {
+        "id": "b6f2640d-4515-46ee-b621-6888ee011e04",
         "brand": "Samsung",
         "model": "Galaxy A14 5G - 64GB - Prateado",
         "price": 229.99,
@@ -4884,6 +5291,7 @@
         "soldUnits": 446
     },
     {
+        "id": "bd523c0d-59f1-44af-9d49-9bc2a761932e",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 Pro - 128GB - Azul",
         "price": 349.99,
@@ -4896,6 +5304,7 @@
         "soldUnits": 275
     },
     {
+        "id": "7a821c9e-eedc-4b37-9041-87f8a2c1f269",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Dourado – - Recondicionado FNAC Restart - Grade B",
         "price": 1044.99,
@@ -4908,6 +5317,7 @@
         "soldUnits": 787
     },
     {
+        "id": "bdf68068-2d5a-4e46-a10e-42faf6f4263d",
         "brand": "Samsung",
         "model": "Galaxy Z Fold3 5G - 512GB - Black",
         "price": 1199.98,
@@ -4920,6 +5330,7 @@
         "soldUnits": 758
     },
     {
+        "id": "10c6c3df-7ac9-4914-96a1-5bf66f8fcf93",
         "brand": "Samsung",
         "model": "Galaxy Z Fold3 5G - 256GB - Black - Recondicionado – FNAC Restart - Grade A",
         "price": 849.99,
@@ -4932,6 +5343,7 @@
         "soldUnits": 683
     },
     {
+        "id": "59519eb8-8cf4-4915-8322-e9b5155b8e3a",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - Branco - Recondicionado – FNAC Restart - Grade B",
         "price": 579.99,
@@ -4944,6 +5356,7 @@
         "soldUnits": 417
     },
     {
+        "id": "da49ed38-b1a8-4377-8793-6a5b28f38ec1",
         "brand": "iPad Apple",
         "model": "iPad Pro 12,9'' - 256GB WiFi - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 597.99,
@@ -4956,6 +5369,7 @@
         "soldUnits": 313
     },
     {
+        "id": "a088170c-8c2c-465b-82f1-021d7f340d71",
         "brand": "Smartwatch Apple",
         "model": "Watch SE 44mm - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 239.99,
@@ -4968,6 +5382,7 @@
         "soldUnits": 105
     },
     {
+        "id": "7c3ad633-933a-4ef3-8346-f6150b01c2e8",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 256GB - Azul - Recondicionado – FNAC Restart - Grade A",
         "price": 608.99,
@@ -4980,6 +5395,7 @@
         "soldUnits": 242
     },
     {
+        "id": "c6ce7f78-a76d-485b-ba92-df701465205d",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 128GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 694.99,
@@ -4992,6 +5408,7 @@
         "soldUnits": 325
     },
     {
+        "id": "bc00c7d6-6536-4889-9434-3331a00706e1",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Azul - Recondicionado – FNAC Restart - Grade B",
         "price": 708.99,
@@ -5004,6 +5421,7 @@
         "soldUnits": 310
     },
     {
+        "id": "232d24dc-5261-46a2-8c0e-dda4577a9219",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 64GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 529.99,
@@ -5016,6 +5434,7 @@
         "soldUnits": 462
     },
     {
+        "id": "563769f3-0b88-4012-8fb4-5f0fb79d0e0e",
         "brand": "Apple rfb",
         "model": "iPhone XS Max- 64GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 398.99,
@@ -5028,6 +5447,7 @@
         "soldUnits": 423
     },
     {
+        "id": "73ca55e1-54c2-4766-9541-8a41796036d8",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - Branco - Recondicionado – FNAC Restart - Grade B",
         "price": 519.99,
@@ -5040,6 +5460,7 @@
         "soldUnits": 452
     },
     {
+        "id": "779c8402-57f5-4786-bbe3-117d6424f689",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 509.99,
@@ -5052,6 +5473,7 @@
         "soldUnits": 446
     },
     {
+        "id": "7de10f5f-fbd2-4956-a8d5-60423d9ee752",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade B",
         "price": 708.99,
@@ -5064,6 +5486,7 @@
         "soldUnits": 638
     },
     {
+        "id": "9e1dd894-54c0-4b5a-82f4-f9b2fe7632c6",
         "brand": "Oppo",
         "model": "A98 5G - 256 GB - Preto + Auriculares True Wireless Enco Free2i - Branco",
         "price": 399.99,
@@ -5076,6 +5499,7 @@
         "soldUnits": 154
     },
     {
+        "id": "82825f99-407c-417b-9ea9-344ceb05dc17",
         "brand": "Smartwatch Apple",
         "model": "Watch Nike Series 6 40mm - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 309.99,
@@ -5088,6 +5512,7 @@
         "soldUnits": 731
     },
     {
+        "id": "ba4dec2d-1654-4a73-be66-c66ad740a043",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 994.99,
@@ -5100,6 +5525,7 @@
         "soldUnits": 800
     },
     {
+        "id": "b42be892-083d-47e0-b67d-371617594e00",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Roxo - Recondicionado – FNAC Restart - Grade B",
         "price": 594.99,
@@ -5112,6 +5538,7 @@
         "soldUnits": 395
     },
     {
+        "id": "f5b2f23c-d2b4-4721-96a7-cb3c9ec9c954",
         "brand": "Xiaomi",
         "model": "13 Lite 5G - 256GB - Lite Pink",
         "price": 549.99,
@@ -5124,6 +5551,7 @@
         "soldUnits": 871
     },
     {
+        "id": "0871be2a-558f-4bcd-b527-e6e1d4595b17",
         "brand": "Xiaomi",
         "model": "13 Lite 5G - 256GB - Black",
         "price": 549.99,
@@ -5136,6 +5564,7 @@
         "soldUnits": 391
     },
     {
+        "id": "173add83-002a-41f3-8061-9b3f85f2de27",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 44mm - Alumínio Azul - Recondicionado – FNAC Restart - Grade B",
         "price": 329.99,
@@ -5148,6 +5577,7 @@
         "soldUnits": 190
     },
     {
+        "id": "5bb03929-a026-4e78-adc0-e0e184bfaca8",
         "brand": "Oppo",
         "model": "A78 5G - 4GB - 128GB - Glowing Black",
         "price": 259.99,
@@ -5160,6 +5590,7 @@
         "soldUnits": 917
     },
     {
+        "id": "ad906695-c200-4338-acc9-22ad7f600950",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 128GB - Green",
         "price": 649.98,
@@ -5172,6 +5603,7 @@
         "soldUnits": 323
     },
     {
+        "id": "ac153974-9371-471c-b0ff-48cb6aad4a9e",
         "brand": "Samsung",
         "model": "Galaxy S20 Ultra 5G - 128GB - Preto Cósmico - Recondicionado – FNAC Restart - Grade B",
         "price": 544.99,
@@ -5184,6 +5616,7 @@
         "soldUnits": 62
     },
     {
+        "id": "96445c8e-9fee-44ea-8343-5b2b8084d961",
         "brand": "Samsung",
         "model": "Galaxy S20 Ultra 5G - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
         "price": 529.99,
@@ -5196,6 +5629,7 @@
         "soldUnits": 31
     },
     {
+        "id": "35e86a08-1018-4284-b99a-d7f442b085b9",
         "brand": "Oppo",
         "model": "A78 5G - 8GB - 128GB - Glowing Blue",
         "price": 299.99,
@@ -5208,6 +5642,7 @@
         "soldUnits": 900
     },
     {
+        "id": "09125966-3e98-4529-9e77-30777330a51f",
         "brand": "Smartwatch Apple",
         "model": "Watch SE 40mm - Cellular - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 274.99,
@@ -5220,6 +5655,7 @@
         "soldUnits": 119
     },
     {
+        "id": "d7ca9da8-a03a-4ee8-b011-3f965466845f",
         "brand": "Oppo",
         "model": "A98 5G - 256 GB - Azul + Auriculares True Wireless Enco Free2i - Branco",
         "price": 399.99,
@@ -5232,6 +5668,7 @@
         "soldUnits": 370
     },
     {
+        "id": "8ecd1cdc-6672-4c95-b963-d0cdb89d2784",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 128GB - Meia-Noite - Recondicionado – FNAC Restart - Grade A",
         "price": 604.99,
@@ -5244,6 +5681,7 @@
         "soldUnits": 165
     },
     {
+        "id": "6fae1fce-98c8-4f11-9352-63783b587c7b",
         "brand": "Nokia",
         "model": "Nokia 2660 Flip - Preto",
         "price": 89.99,
@@ -5256,6 +5694,7 @@
         "soldUnits": 925
     },
     {
+        "id": "6316ca9a-d4e9-4f99-b2fd-baa5489e963a",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -5268,6 +5707,7 @@
         "soldUnits": 725
     },
     {
+        "id": "79ee6652-178f-4132-ab23-1de5aafedd4d",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 614.99,
@@ -5280,6 +5720,7 @@
         "soldUnits": 892
     },
     {
+        "id": "172e6c40-f2ac-437d-9c6b-02a3fb2bfe29",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 128GB - Grafite - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -5292,6 +5733,7 @@
         "soldUnits": 354
     },
     {
+        "id": "f7ce8e0d-0a7e-4003-bc6b-54e9d65f447f",
         "brand": "Xiaomi",
         "model": "Redmi 10A 6.5\" 3GB | 64GB - Azul",
         "price": 149.99,
@@ -5304,6 +5746,7 @@
         "soldUnits": 739
     },
     {
+        "id": "347461ee-dddd-47d4-82a3-c213872bd9da",
         "brand": "Xiaomi",
         "model": "Redmi Note 12 Pro 5G - 128GB - Atlantic Blue",
         "price": 399.99,
@@ -5316,6 +5759,7 @@
         "soldUnits": 677
     },
     {
+        "id": "8d0d373f-9ed6-4741-9bc2-f58a4b611d44",
         "brand": "Samsung",
         "model": "Galaxy A14 5G - 64GB - Preto",
         "price": 229.99,
@@ -5328,6 +5772,7 @@
         "soldUnits": 412
     },
     {
+        "id": "3f749385-85af-4be7-9a66-6275d3ef9dbb",
         "brand": "Samsung",
         "model": "Galaxy Z Flip4 5G - 128GB - Graphite",
         "price": 979.99,
@@ -5340,6 +5785,7 @@
         "soldUnits": 415
     },
     {
+        "id": "4ee5fdcf-bc4a-468a-b633-9d6e8c83cf18",
         "brand": "Tablet Apple",
         "model": "iPad Pro 12,9'' - 256GB WiFi + Cellular - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 671.99,
@@ -5352,6 +5798,7 @@
         "soldUnits": 213
     },
     {
+        "id": "47eecc39-0817-4ae6-8da4-bad6506ffed3",
         "brand": "Samsung",
         "model": "Galaxy Z Flip4 5G - 512GB - Graphite - Fnac Outlet - Grade A",
         "price": 849.97,
@@ -5364,6 +5811,7 @@
         "soldUnits": 193
     },
     {
+        "id": "f878f837-0ffe-47d3-90ed-1f91fb74155f",
         "brand": "Macbook Apple",
         "model": "MacBook Pro 13'' Retina i5-2,0GHz | 16GB | 512GB | Intel Iris Plus Graphics com Magic Keyboard Touch Bar e Touch ID - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 1279.99,
@@ -5376,6 +5824,7 @@
         "soldUnits": 966
     },
     {
+        "id": "3d26bb2c-9cb0-47b5-a870-ea08a5018a6a",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 128GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 904.99,
@@ -5388,6 +5837,7 @@
         "soldUnits": 107
     },
     {
+        "id": "17a8f4b2-fcad-4250-a11e-7ebf5319900b",
         "brand": "Ulefone",
         "model": "Ulefone Armor 17 Pro - 256GB - Preto",
         "price": 419.99,
@@ -5400,6 +5850,7 @@
         "soldUnits": 711
     },
     {
+        "id": "19a0a299-bad4-4fdc-b698-05029e30c659",
         "brand": "Samsung",
         "model": "Galaxy Z Fold3 5G - 512GB - Silver",
         "price": 1199.98,
@@ -5412,6 +5863,7 @@
         "soldUnits": 783
     },
     {
+        "id": "59b3748b-607a-45aa-b94d-ae44897f97da",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 629.99,
@@ -5424,6 +5876,7 @@
         "soldUnits": 563
     },
     {
+        "id": "ba527f59-4f86-4676-8f19-25d7aa1aefc8",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
         "price": 1044.99,
@@ -5436,6 +5889,7 @@
         "soldUnits": 893
     },
     {
+        "id": "c209451d-7306-4596-9b8d-7ee2ee11fea9",
         "brand": "Macbook Apple",
         "model": "MacBook Air 13'' Retina | i3-1,1GHz | 8GB | 256GB SSD - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 729.99,
@@ -5448,6 +5902,7 @@
         "soldUnits": 173
     },
     {
+        "id": "efa00533-d973-4ca3-9f24-f12f966f49d2",
         "brand": "Samsung",
         "model": "Galaxy Z Fold3 5G - 256GB - Black - Recondicionado – FNAC Restart - Grade B",
         "price": 829.99,
@@ -5460,6 +5915,7 @@
         "soldUnits": 102
     },
     {
+        "id": "52633f76-bc8c-4a8e-b3f8-52c82a82ef04",
         "brand": "Apple rfb",
         "model": "iPhone XS Max- 64GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 378.99,
@@ -5472,6 +5928,7 @@
         "soldUnits": 64
     },
     {
+        "id": "dd726c09-0a8e-4def-b673-44c97b1f3cfc",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 512GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -5484,6 +5941,7 @@
         "soldUnits": 329
     },
     {
+        "id": "8226b022-e345-4ce9-8ee1-12db040973ba",
         "brand": "Samsung",
         "model": "Galaxy S20+ - 128GB - Preto Cósmico - Recondicionado – FNAC Restart - Grade B",
         "price": 379.99,
@@ -5496,6 +5954,7 @@
         "soldUnits": 934
     },
     {
+        "id": "42310dba-a770-4f93-909a-625c46a388be",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 128GB - Rosa - Recondicionado - FNAC Restart - Grade A",
         "price": 449.99,
@@ -5508,6 +5967,7 @@
         "soldUnits": 626
     },
     {
+        "id": "f246905e-ac8e-40bb-80a1-84afd5db9d69",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 649.99,
@@ -5520,6 +5980,7 @@
         "soldUnits": 133
     },
     {
+        "id": "ab76ff7b-65d8-47d1-8a6c-d171d292e273",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 256GB - Branco - Recondicionado – FNAC Restart - Grade B",
         "price": 518.99,
@@ -5532,6 +5993,7 @@
         "soldUnits": 948
     },
     {
+        "id": "5c08c8b7-fb00-4688-bee0-9e0c311c143c",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 512GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 899.99,
@@ -5544,6 +6006,7 @@
         "soldUnits": 327
     },
     {
+        "id": "d79631d5-7435-4f58-9271-249cbb7aa06c",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 256GB - Phantom Black",
         "price": 749.98,
@@ -5556,6 +6019,7 @@
         "soldUnits": 683
     },
     {
+        "id": "1ffa6e61-7b4a-43f1-a5f7-0ac20474b4f0",
         "brand": "Samsung",
         "model": "Galaxy Z Flip4 5G - 512GB - Graphite",
         "price": 1159.99,
@@ -5568,6 +6032,7 @@
         "soldUnits": 475
     },
     {
+        "id": "8a772a28-4c56-4f27-ac82-1253b36ddf04",
         "brand": "Apple rfb",
         "model": "iPhone X - 64GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 279.99,
@@ -5580,6 +6045,7 @@
         "soldUnits": 252
     },
     {
+        "id": "d46b4292-6fe2-43a3-8543-1beaf5f8e6ad",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - Azul - Recondicionado – FNAC Restart - Grade B",
         "price": 519.99,
@@ -5592,6 +6058,7 @@
         "soldUnits": 887
     },
     {
+        "id": "6673dcd2-8db2-4bda-af80-d36ee08dd364",
         "brand": "Samsung",
         "model": "Galaxy S10+ - 128GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 299.99,
@@ -5604,6 +6071,7 @@
         "soldUnits": 31
     },
     {
+        "id": "96951290-28bd-49e2-b032-add0850c7078",
         "brand": "Smartwatch Apple",
         "model": "Watch SE 40mm - Cellular - Alumínio Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 293.99,
@@ -5616,6 +6084,7 @@
         "soldUnits": 129
     },
     {
+        "id": "b504b7f2-bc62-4934-8442-187e81c36ba6",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -5628,6 +6097,7 @@
         "soldUnits": 620
     },
     {
+        "id": "4019b466-fa77-4e58-9504-b0338f1b5a7d",
         "brand": "Samsung",
         "model": "Galaxy S20 Ultra 5G - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade A",
         "price": 549.99,
@@ -5640,6 +6110,7 @@
         "soldUnits": 121
     },
     {
+        "id": "86cdce3c-cda8-4a3e-b7bb-24f4e5a6eb9f",
         "brand": "Apple",
         "model": "iPhone 13 - 512GB - Azul",
         "price": 1059.98,
@@ -5652,6 +6123,7 @@
         "soldUnits": 165
     },
     {
+        "id": "f20f6f7a-5cf6-46e7-a2c8-e9f5081101c0",
         "brand": "Ulefone",
         "model": "Ulefone Armor 14 Pro - 128GB - Preto",
         "price": 309.99,
@@ -5664,6 +6136,7 @@
         "soldUnits": 226
     },
     {
+        "id": "3cf2d2ed-1c71-4464-9b61-b4e50a8fb205",
         "brand": "iPad Apple",
         "model": "Novo iPad Pro 11.0'' - 512GB WiFi + Cellular - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 849.99,
@@ -5676,6 +6149,7 @@
         "soldUnits": 531
     },
     {
+        "id": "105a2074-b06b-49be-9cc0-74b1c40e6fb6",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Branco - Recondicionado – FNAC Restart - Grade B",
         "price": 594.99,
@@ -5688,6 +6162,7 @@
         "soldUnits": 295
     },
     {
+        "id": "9561f52d-d271-466e-9de6-4aac55c5fb9d",
         "brand": "iPad Apple",
         "model": "iPad Air 10.5'' Wi-Fi - 64GB - Cinzento Sideral 2019 - Recondicionado – FNAC Restart - Grade A",
         "price": 387.99,
@@ -5700,6 +6175,7 @@
         "soldUnits": 682
     },
     {
+        "id": "bf391a38-2eff-45ec-ac5b-2ff5f8190e71",
         "brand": "iPad Apple",
         "model": "Novo iPad Pro 11.0'' - 128GB WiFi - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 709.99,
@@ -5712,6 +6188,7 @@
         "soldUnits": 446
     },
     {
+        "id": "6ce81815-b995-4480-801f-4318a02aaf6a",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 128GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 649.99,
@@ -5724,6 +6201,7 @@
         "soldUnits": 66
     },
     {
+        "id": "d7cbbfcf-396d-4c90-a8d2-ec8258e0fc56",
         "brand": "Samsung",
         "model": "Galaxy Z Fold3 5G - 256GB - Green",
         "price": 1099.98,
@@ -5736,6 +6214,7 @@
         "soldUnits": 874
     },
     {
+        "id": "99b08f79-594b-4e0b-b538-c317d029c83b",
         "brand": "iPad Apple",
         "model": "Novo iPad Pro 11.0'' - 512GB WiFi - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 869.99,
@@ -5748,6 +6227,7 @@
         "soldUnits": 938
     },
     {
+        "id": "e600c5bf-3215-4fda-b445-c4506a506456",
         "brand": "Samsung",
         "model": "Galaxy S10 - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 259.99,
@@ -5760,6 +6240,7 @@
         "soldUnits": 122
     },
     {
+        "id": "f39b4fd0-9bfa-4d82-a2b9-967950857134",
         "brand": "Oppo",
         "model": "A78 5G - 4GB - 128GB - Glowing Blue",
         "price": 259.99,
@@ -5772,6 +6253,7 @@
         "soldUnits": 472
     },
     {
+        "id": "a07a5eaf-ac68-41de-87c1-fc43e30ebf64",
         "brand": "Apple",
         "model": "iPhone 13 - 512GB - Luz das Estrelas",
         "price": 1059.98,
@@ -5784,6 +6266,7 @@
         "soldUnits": 103
     },
     {
+        "id": "c744937c-f4ab-4990-8fee-c49ad0eb58db",
         "brand": "Xiaomi",
         "model": "13 Lite 5G - 256GB - Lite Blue",
         "price": 549.99,
@@ -5796,6 +6279,7 @@
         "soldUnits": 473
     },
     {
+        "id": "a0391923-0ba0-49c9-8171-18743a05d586",
         "brand": "Samsung",
         "model": "Galaxy S20 FE - 128GB - Azul - Recondicionado – FNAC Restart - Grade B",
         "price": 279.99,
@@ -5808,6 +6292,7 @@
         "soldUnits": 477
     },
     {
+        "id": "0ce959a9-9d9a-4740-94e8-edd1fd0e6d45",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 40mm - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 299.99,
@@ -5820,6 +6305,7 @@
         "soldUnits": 417
     },
     {
+        "id": "fff80fe6-554d-4ab1-a625-9f9180115751",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 256GB - Grafite- Recondicionado – FNAC Restart - Grade B",
         "price": 979.99,
@@ -5832,6 +6318,7 @@
         "soldUnits": 250
     },
     {
+        "id": "db307871-d292-4fdd-8429-b0251ca60782",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 128GB - Cinzento - Recondicionado – FNAC Restart - Grade B",
         "price": 429.99,
@@ -5844,6 +6331,7 @@
         "soldUnits": 184
     },
     {
+        "id": "f463ea13-0e2e-47b1-867b-dd8fbe72dafa",
         "brand": "Spc",
         "model": "SPC Titan - Preto",
         "price": 34.99,
@@ -5856,6 +6344,7 @@
         "soldUnits": 628
     },
     {
+        "id": "253d1599-9cab-4516-b111-28128e21b963",
         "brand": "Samsung",
         "model": "Galaxy S20+ - 128GB - Azul Nuvem - Recondicionado – FNAC Restart - Grade B",
         "price": 379.99,
@@ -5868,6 +6357,7 @@
         "soldUnits": 546
     },
     {
+        "id": "9642111d-c83f-4b80-bd00-0c8db1342449",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Azul Sierra- Recondicionado – FNAC Restart - Grade B",
         "price": 974.99,
@@ -5880,6 +6370,7 @@
         "soldUnits": 654
     },
     {
+        "id": "35c8edf5-4dbd-42bd-81c2-e1bb82f37f57",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 594.99,
@@ -5892,6 +6383,7 @@
         "soldUnits": 660
     },
     {
+        "id": "8f310658-dfad-43ca-883c-b23ec379ac4d",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 64GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 509.99,
@@ -5904,6 +6396,7 @@
         "soldUnits": 384
     },
     {
+        "id": "479cba2a-03f4-4aac-8aaa-175e7a31c5dc",
         "brand": "Apple rfb",
         "model": "iPhone XR - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
         "price": 299.99,
@@ -5916,6 +6409,7 @@
         "soldUnits": 623
     },
     {
+        "id": "655d3c18-30d6-4ef0-a1fe-9491d8e507f8",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 512GB - Roxo",
         "price": 1579.99,
@@ -5928,6 +6422,7 @@
         "soldUnits": 189
     },
     {
+        "id": "919cefce-be96-43e1-8739-a44110821dd0",
         "brand": "Xiaomi",
         "model": "Redmi A2 - 32GB - Light Green",
         "price": 119.99,
@@ -5940,6 +6435,7 @@
         "soldUnits": 236
     },
     {
+        "id": "5f569e8d-7566-4f90-8673-7cefb71a94de",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 256GB - Green",
         "price": 749.98,
@@ -5952,6 +6448,7 @@
         "soldUnits": 557
     },
     {
+        "id": "5b51e2c5-9df3-4081-aa00-2bbb97b020a2",
         "brand": "Samsung",
         "model": "Galaxy S21+ 5G - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 529.99,
@@ -5964,6 +6461,7 @@
         "soldUnits": 464
     },
     {
+        "id": "14076e00-7d58-4f76-85b5-9255ddc6698a",
         "brand": "iPad Apple",
         "model": "iPad - 32GB Wi-Fi - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 259.99,
@@ -5976,6 +6474,7 @@
         "soldUnits": 430
     },
     {
+        "id": "0e7855ca-7ea1-42c4-be4b-03757f8782da",
         "brand": "Xiaomi",
         "model": "Redmi A2 - 32GB - Blue",
         "price": 119.99,
@@ -5988,6 +6487,7 @@
         "soldUnits": 16
     },
     {
+        "id": "79df0738-1560-44fd-8fed-707510bfe300",
         "brand": "Apple rfb",
         "model": "iPhone XS Max- 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 398.99,
@@ -6000,6 +6500,7 @@
         "soldUnits": 535
     },
     {
+        "id": "e4994f31-309a-4033-bf79-7604d01d18f7",
         "brand": "Nokia",
         "model": "Telemovel Nokia 130 Dual Sim - Preto",
         "price": 34.99,
@@ -6012,6 +6513,7 @@
         "soldUnits": 595
     },
     {
+        "id": "5b82a6bd-a05a-4db8-baf5-352df8b53bd1",
         "brand": "Apple",
         "model": "iPhone 14 - 512GB - (Product) Red",
         "price": 1189.98,
@@ -6024,6 +6526,7 @@
         "soldUnits": 939
     },
     {
+        "id": "ecea1d80-6cef-45f8-87e6-2647cde7f9cb",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 7 45mm - Cellular - Alumínio Meia-Noite - Recondicionado - FNAC Restart - Grade A",
         "price": 399.99,
@@ -6036,6 +6539,7 @@
         "soldUnits": 993
     },
     {
+        "id": "938a20db-0675-4caa-b819-ff9de8f330fd",
         "brand": "Apple",
         "model": "iPhone 13 - 128GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 708.99,
@@ -6048,6 +6552,7 @@
         "soldUnits": 72
     },
     {
+        "id": "ca442160-86a0-4cfe-b9d3-c2e5e081789c",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 256GB - Phantom Black - Recondicionado - FNAC Restart - Grade B",
         "price": 539.99,
@@ -6060,6 +6565,7 @@
         "soldUnits": 322
     },
     {
+        "id": "2cef06f7-18cc-4cd4-9e04-136a72dbe2fc",
         "brand": "Xiaomi",
         "model": "Redmi A2 - 32GB - Black",
         "price": 119.99,
@@ -6072,6 +6578,7 @@
         "soldUnits": 115
     },
     {
+        "id": "b3b305d4-ad0c-4d8b-93c5-29641624220d",
         "brand": "Apple",
         "model": "iPhone SE - 64GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 208.99,
@@ -6084,6 +6591,7 @@
         "soldUnits": 220
     },
     {
+        "id": "55ece177-6010-4613-824c-a49a1047a01b",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 512GB - Azul",
         "price": 1579.99,
@@ -6096,6 +6604,7 @@
         "soldUnits": 821
     },
     {
+        "id": "c27934ed-1525-4f7c-8f6b-c093a0adf825",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 512GB - Meia-Noite",
         "price": 1579.99,
@@ -6108,6 +6617,7 @@
         "soldUnits": 736
     },
     {
+        "id": "88990117-1029-4f29-b864-8bed45d815da",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 256GB - Meia-Noite - Recondicionado – FNAC Restart - Grade A",
         "price": 698.99,
@@ -6120,6 +6630,7 @@
         "soldUnits": 766
     },
     {
+        "id": "69e52a3c-89e5-4e66-af8b-cb9365148761",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 256GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 729.99,
@@ -6132,6 +6643,7 @@
         "soldUnits": 437
     },
     {
+        "id": "344b5040-9ffc-4de6-a1ae-e5a69adf25ac",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
         "price": 1064.99,
@@ -6144,6 +6656,7 @@
         "soldUnits": 277
     },
     {
+        "id": "7d1f7940-f705-4bfb-a00c-9f30c9ba307c",
         "brand": "Samsung",
         "model": "Galaxy A14 5G - 64GB - Verde",
         "price": 229.99,
@@ -6156,6 +6669,7 @@
         "soldUnits": 399
     },
     {
+        "id": "1f286c23-b576-4e28-bc97-f04fcf4542e6",
         "brand": "Apple rfb",
         "model": "iPhone XR - 256GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 429.99,
@@ -6168,6 +6682,7 @@
         "soldUnits": 648
     },
     {
+        "id": "938a2453-0bcb-43f8-bc14-9a8ef9832cad",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 1TB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 1299.99,
@@ -6180,6 +6695,7 @@
         "soldUnits": 784
     },
     {
+        "id": "932e79d4-d821-4203-a217-7a50cf74cb1f",
         "brand": "Ulefone",
         "model": "Ulefone Armor 18T - 256GB - Preto",
         "price": 799.99,
@@ -6192,6 +6708,7 @@
         "soldUnits": 244
     },
     {
+        "id": "8a6bdbeb-dd05-4ffb-bb4d-dc0aecdaef5e",
         "brand": "Samsung",
         "model": "Galaxy S10+ - 512GB - Preto Cerâmico - Recondicionado – FNAC Restart - Grade B",
         "price": 329.99,
@@ -6204,6 +6721,7 @@
         "soldUnits": 285
     },
     {
+        "id": "53024b4e-fdf5-4bfb-9adf-992b28e43e2e",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Grafite - Recondicionado – FNAC Restart - Grade B",
         "price": 1044.99,
@@ -6216,6 +6734,7 @@
         "soldUnits": 571
     },
     {
+        "id": "4d19dc66-606e-4f1e-a984-fbce6b0d9110",
         "brand": "Apple rfb",
         "model": "iPhone XS Max- 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 398.99,
@@ -6228,6 +6747,7 @@
         "soldUnits": 560
     },
     {
+        "id": "767eae40-cc72-4597-b80c-7b5d8fbdc7f8",
         "brand": "Samsung",
         "model": "Galaxy S20+ 5G - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
         "price": 429.99,
@@ -6240,6 +6760,7 @@
         "soldUnits": 212
     },
     {
+        "id": "16fed96b-e18d-4f43-b6ea-680c66a32912",
         "brand": "iPad Apple",
         "model": "Novo iPad Mini 8.3'' Wi-Fi + Cellular - 64GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 499.99,
@@ -6252,6 +6773,7 @@
         "soldUnits": 317
     },
     {
+        "id": "42ab95ab-3b58-4321-a5f0-d3f05ecc167f",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 512GB - (Product) Red",
         "price": 969.98,
@@ -6264,6 +6786,7 @@
         "soldUnits": 584
     },
     {
+        "id": "682a3a5a-2862-40a3-8335-5428e5ada29c",
         "brand": "Samsung",
         "model": "Galaxy S10+ - 512GB - Branco Cerâmico - Recondicionado – FNAC Restart - Grade B",
         "price": 409.99,
@@ -6276,6 +6799,7 @@
         "soldUnits": 956
     },
     {
+        "id": "9619b689-af24-4d36-9ba8-aafa1bbe3cdc",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 579.99,
@@ -6288,6 +6812,7 @@
         "soldUnits": 923
     },
     {
+        "id": "78f357b0-04e1-4354-89a8-6a65659ed45e",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 256GB - Verde - Recondicionado – FNAC Restart - Grade A",
         "price": 608.99,
@@ -6300,6 +6825,7 @@
         "soldUnits": 388
     },
     {
+        "id": "4361cfd5-4689-4adb-818e-fffa9c5306d5",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 64GB - Roxo - Recondicionado – FNAC Restart - Grade B",
         "price": 394.99,
@@ -6312,6 +6838,7 @@
         "soldUnits": 899
     },
     {
+        "id": "cb335250-530d-488a-9769-5826cc09eef7",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 44mm - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 339.99,
@@ -6324,6 +6851,7 @@
         "soldUnits": 234
     },
     {
+        "id": "92d3d745-bdeb-427d-91e5-9567a449042d",
         "brand": "iPad Apple",
         "model": "Novo iPad 10.2'' Wi-Fi - 256GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 479.99,
@@ -6336,6 +6864,7 @@
         "soldUnits": 172
     },
     {
+        "id": "6f6ee163-77ff-484e-b91a-f47eaf8c833f",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - Azul - Recondicionado – FNAC Restart - Grade B",
         "price": 579.99,
@@ -6348,6 +6877,7 @@
         "soldUnits": 139
     },
     {
+        "id": "87891778-991e-44b1-8d13-91caf766ccb8",
         "brand": "iPad Apple",
         "model": "iPad 10.2'' Wi-Fi + Cellular - 32GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 381.99,
@@ -6360,6 +6890,7 @@
         "soldUnits": 311
     },
     {
+        "id": "86377262-c672-412b-a753-f96fa144a8c2",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 128GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 434.99,
@@ -6372,6 +6903,7 @@
         "soldUnits": 381
     },
     {
+        "id": "44079743-e2ca-40cc-b5f4-3af53fe46838",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 64GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 559.99,
@@ -6384,6 +6916,7 @@
         "soldUnits": 383
     },
     {
+        "id": "235b1839-a038-4566-9fb7-c711dd34e93c",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - Verde - Recondicionado – FNAC Restart - Grade A",
         "price": 539.99,
@@ -6396,6 +6929,7 @@
         "soldUnits": 2
     },
     {
+        "id": "f6746a7f-80d9-4dc9-9d2b-2c8593b5b615",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 64GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 449.99,
@@ -6408,6 +6942,7 @@
         "soldUnits": 457
     },
     {
+        "id": "2d01fe29-ed03-4ce7-ac72-b2b0e9d15dbf",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 256GB - Cream",
         "price": 749.98,
@@ -6420,6 +6955,7 @@
         "soldUnits": 153
     },
     {
+        "id": "7ae2c896-a0b8-4198-aae5-c4625a41d941",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 256GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
         "price": 588.99,
@@ -6432,6 +6968,7 @@
         "soldUnits": 616
     },
     {
+        "id": "9f5ef440-80ca-4130-90d0-58bbedfdcf58",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 512GB - Azul Sierra - Recondicionado – FNAC Restart - Grade A",
         "price": 1099.99,
@@ -6444,6 +6981,7 @@
         "soldUnits": 544
     },
     {
+        "id": "07295ccf-5104-4937-ab1f-a212ceb14e9e",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 256GB - Violeta - Recondicionado – FNAC Restart - Grade A",
         "price": 538.99,
@@ -6456,6 +6994,7 @@
         "soldUnits": 215
     },
     {
+        "id": "27e23631-74e8-4748-8b13-583b1e6c3f47",
         "brand": "iPad Apple",
         "model": "iPad 10.2'' Wi-Fi - 32GB - Prateado 2019 - Recondicionado – FNAC Restart - Grade A",
         "price": 312.99,
@@ -6468,6 +7007,7 @@
         "soldUnits": 66
     },
     {
+        "id": "5c26002e-1ad7-463e-965b-453bd1d47337",
         "brand": "Apple rfb",
         "model": "iPhone XR - 128GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
         "price": 309.99,
@@ -6480,6 +7020,7 @@
         "soldUnits": 537
     },
     {
+        "id": "d8675623-0320-474b-946c-d956ce3beaea",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 594.99,
@@ -6492,6 +7033,7 @@
         "soldUnits": 129
     },
     {
+        "id": "3fbfe065-f4d1-401a-a56a-f32fd44a5eac",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 256GB - Grafite - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -6504,6 +7046,7 @@
         "soldUnits": 947
     },
     {
+        "id": "168aff21-478e-47db-a1a1-e3af57c57db5",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 44mm - Cellular - Aço Inoxidável Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 499.99,
@@ -6516,6 +7059,7 @@
         "soldUnits": 121
     },
     {
+        "id": "e366e6f6-9685-4fd2-aab4-acfe81ffebc3",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Rosa - Recondicionado – FNAC Restart - Grade A",
         "price": 784.99,
@@ -6528,6 +7072,7 @@
         "soldUnits": 91
     },
     {
+        "id": "666496a3-30d9-4cbd-bd41-a592644c78bb",
         "brand": "Smartwatch Apple",
         "model": "Watch SE 44mm - Cellular - Alumínio Cinzento Sideral - Recondicionado – FNAC Restart - Grade A",
         "price": 310.99,
@@ -6540,6 +7085,7 @@
         "soldUnits": 768
     },
     {
+        "id": "cd7f6077-3e7e-4bba-82d0-ef89bf2e9882",
         "brand": "Apple",
         "model": "iPhone 14 Plus - 512GB - Luz das Estrelas",
         "price": 1579.99,
@@ -6552,6 +7098,7 @@
         "soldUnits": 10
     },
     {
+        "id": "6222200f-c0e1-48d5-814c-1aadbc20076b",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 256GB - Verde Alpino - Recondicionado – FNAC Restart - Grade A",
         "price": 1064.99,
@@ -6564,6 +7111,7 @@
         "soldUnits": 159
     },
     {
+        "id": "87dc5138-284e-483c-84cc-46e5be6da5bc",
         "brand": "Samsung",
         "model": "Galaxy S20 FE 5G - 128GB - Azul - Recondicionado – FNAC Restart - Grade A",
         "price": 349.99,
@@ -6576,6 +7124,7 @@
         "soldUnits": 440
     },
     {
+        "id": "96778b7b-870d-4ff9-9c50-036ff33f2a7c",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 599.99,
@@ -6588,6 +7137,7 @@
         "soldUnits": 573
     },
     {
+        "id": "f311ba55-e7aa-40b2-90b2-003bc67f9d84",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Meia-Noite - Recondicionado – FNAC Restart - Grade A",
         "price": 784.99,
@@ -6600,6 +7150,7 @@
         "soldUnits": 21
     },
     {
+        "id": "88d3f85c-5226-4ea5-8134-fae8d8b48e1e",
         "brand": "Apple rfb",
         "model": "iPhone XS Max- 512GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 514.99,
@@ -6612,6 +7163,7 @@
         "soldUnits": 844
     },
     {
+        "id": "e6d94f8e-ad7a-4728-94fb-fccd397cfedb",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - (Product) Red Recondicionado – FNAC Restart - Grade A",
         "price": 784.99,
@@ -6624,6 +7176,7 @@
         "soldUnits": 952
     },
     {
+        "id": "8416cd43-0f08-447e-a999-08e733473f21",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 256GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
         "price": 608.99,
@@ -6636,6 +7189,7 @@
         "soldUnits": 354
     },
     {
+        "id": "3ccaa2ca-7abf-433b-98ce-90558947089f",
         "brand": "Samsung",
         "model": "Galaxy Z Flip3 5G - 128GB - Green",
         "price": 649.98,
@@ -6648,6 +7202,7 @@
         "soldUnits": 597
     },
     {
+        "id": "e9ad2d74-f73c-46cf-8a5e-4da24b366cc3",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 1TB - Verde Alpino – Recondicionado - FNAC Restart - Grade A",
         "price": 1299.99,
@@ -6660,6 +7215,7 @@
         "soldUnits": 509
     },
     {
+        "id": "97c71371-9e42-4eb3-8008-fed3abdd5ba5",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 44mm - Alumínio Azul - Recondicionado – FNAC Restart - Grade A",
         "price": 339.99,
@@ -6672,6 +7228,7 @@
         "soldUnits": 536
     },
     {
+        "id": "18b28bcc-21a4-4001-b508-d6d4eb9da28b",
         "brand": "Samsung",
         "model": "Galaxy S21+ 5G - 128GB - Violeta - Recondicionado - FNAC Restart - Grade A",
         "price": 549.99,
@@ -6684,6 +7241,7 @@
         "soldUnits": 757
     },
     {
+        "id": "1f14c5d0-efd6-468f-8e4e-74f277ed6f55",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 256GB - Cinzento - Recondicionado – FNAC Restart - Grade A",
         "price": 538.99,
@@ -6696,6 +7254,7 @@
         "soldUnits": 531
     },
     {
+        "id": "2e15203f-819d-43c1-9d86-3b01a1f043bd",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Roxo - Recondicionado – FNAC Restart - Grade A",
         "price": 614.99,
@@ -6708,6 +7267,7 @@
         "soldUnits": 993
     },
     {
+        "id": "f923a0f6-f0bf-4d98-92ca-6d0c01842129",
         "brand": "Samsung",
         "model": "Galaxy S10e - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 269.99,
@@ -6720,6 +7280,7 @@
         "soldUnits": 40
     },
     {
+        "id": "b6e04cfd-af9f-4f21-adcd-729b60c37524",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 709.99,
@@ -6732,6 +7293,7 @@
         "soldUnits": 391
     },
     {
+        "id": "7048d9c6-f352-42a9-ae2d-5ae6bffa098b",
         "brand": "Samsung",
         "model": "Galaxy S21+ 5G - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 579.99,
@@ -6744,6 +7306,7 @@
         "soldUnits": 857
     },
     {
+        "id": "c540fe7b-d431-4a1e-ae23-7ca69902de78",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -6756,6 +7319,7 @@
         "soldUnits": 539
     },
     {
+        "id": "dd9cf548-c74a-4ffd-b143-7ac096e10e0e",
         "brand": "Samsung",
         "model": "Galaxy S10+ - 128GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 279.99,
@@ -6768,6 +7332,7 @@
         "soldUnits": 370
     },
     {
+        "id": "62510a0a-9410-4369-b0c1-5d3b64b77641",
         "brand": "Smartwatch Apple",
         "model": "Watch SE 44mm - Cellular - Alumínio Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 310.99,
@@ -6780,6 +7345,7 @@
         "soldUnits": 6
     },
     {
+        "id": "3267f000-92d4-4599-aabe-92c23f436484",
         "brand": "Ztc",
         "model": "ZTC Cardphone G200 - Branco",
         "price": 64.99,
@@ -6792,6 +7358,7 @@
         "soldUnits": 664
     },
     {
+        "id": "c183d9f5-2d6e-4032-9f1b-b06f0e6d44f0",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 7 45mm - Alumínio Azul - Recondicionado - FNAC Restart - Grade B",
         "price": 349.99,
@@ -6804,6 +7371,7 @@
         "soldUnits": 337
     },
     {
+        "id": "bfc5880a-7008-417b-8e18-94e4dbbda399",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 128GB - Verde Alpino - Recondicionado – FNAC Restart - Grade B",
         "price": 974.99,
@@ -6816,6 +7384,7 @@
         "soldUnits": 412
     },
     {
+        "id": "0bd3b19c-858a-4bc3-8a64-f16e11665831",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 256GB - Titânio - Recondicionado – FNAC Restart - Grade A",
         "price": 749.99,
@@ -6828,6 +7397,7 @@
         "soldUnits": 560
     },
     {
+        "id": "23c892a5-3c5c-443d-8f4c-813854f92ae6",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 859.99,
@@ -6840,6 +7410,7 @@
         "soldUnits": 819
     },
     {
+        "id": "e1530e1a-d087-48b7-ae50-38564c95618d",
         "brand": "Apple",
         "model": "iPhone 13 Mini - 256GB - Azul- Recondicionado – FNAC Restart - Grade A",
         "price": 698.99,
@@ -6852,6 +7423,7 @@
         "soldUnits": 844
     },
     {
+        "id": "3c9377e7-cbc2-4181-ae89-b87007274cf1",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 256GB - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 629.99,
@@ -6864,6 +7436,7 @@
         "soldUnits": 324
     },
     {
+        "id": "9f983798-dd62-4e49-bff7-22378d0cc36c",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 256GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 729.99,
@@ -6876,6 +7449,7 @@
         "soldUnits": 871
     },
     {
+        "id": "ad406e76-f7ae-45c2-9270-c4e9e42ff8d3",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 44mm - Alumínio Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 329.99,
@@ -6888,6 +7462,7 @@
         "soldUnits": 519
     },
     {
+        "id": "ebbd3400-c892-4e9a-b7de-85a474cbc982",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
         "price": 599.99,
@@ -6900,6 +7475,7 @@
         "soldUnits": 962
     },
     {
+        "id": "21eefd41-1527-40ba-9a27-29f57d2a4cf0",
         "brand": "Ulefone",
         "model": "Ulefone Armor 13 - 256GB - Preto",
         "price": 399.99,
@@ -6912,6 +7488,7 @@
         "soldUnits": 182
     },
     {
+        "id": "d1896edc-ca17-41d4-9be0-1518fbbdddac",
         "brand": "Samsung",
         "model": "Galaxy S21+ 5G - 128GB - Violeta – FNAC Restart - Grade B",
         "price": 529.99,
@@ -6924,6 +7501,7 @@
         "soldUnits": 869
     },
     {
+        "id": "a07eddc0-1278-470e-8a5c-b5fe64f16ecf",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade A",
         "price": 784.99,
@@ -6936,6 +7514,7 @@
         "soldUnits": 210
     },
     {
+        "id": "d776c50b-1a57-4fa3-bb3a-9f578caef89b",
         "brand": "Gadget Conectável Apple",
         "model": "Watch Series 7 45mm - Cellular - Aço Inoxidável Grafite - Recondicionado – FNAC Restart - Grade B",
         "price": 589.99,
@@ -6948,6 +7527,7 @@
         "soldUnits": 854
     },
     {
+        "id": "1900e350-4a62-47fc-adb7-31f4bb60a100",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 64GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 559.99,
@@ -6960,6 +7540,7 @@
         "soldUnits": 893
     },
     {
+        "id": "a41d3b78-9c20-4dad-99c3-71455f358cdc",
         "brand": "Samsung",
         "model": "Galaxy S21 Ultra 5G - 512GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 799.99,
@@ -6972,6 +7553,7 @@
         "soldUnits": 683
     },
     {
+        "id": "f5a4fedc-99d7-419e-956e-b165942e3de6",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro Max - 64GB - Verde Meia-Noite - Recondicionado – FNAC Restart - Grade A",
         "price": 579.99,
@@ -6984,6 +7566,7 @@
         "soldUnits": 140
     },
     {
+        "id": "fe479610-c21d-456c-a11c-297772f5d650",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 256GB - Cinzento - Recondicionado – FNAC Restart - Grade B",
         "price": 518.99,
@@ -6996,6 +7579,7 @@
         "soldUnits": 859
     },
     {
+        "id": "3b8aa19f-77b3-42a7-b37e-953673971eaa",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 128GB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
         "price": 904.99,
@@ -7008,6 +7592,7 @@
         "soldUnits": 931
     },
     {
+        "id": "9494391e-0957-4d76-aaf2-8e805dae6728",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 256GB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
         "price": 979.99,
@@ -7020,6 +7605,7 @@
         "soldUnits": 412
     },
     {
+        "id": "08db463a-8389-4fc4-b04d-ba79a0f518ce",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 7 45mm - Cellular - Aço Inoxidável Grafite - Recondicionado - FNAC Restart - Grade A",
         "price": 609.99,
@@ -7032,6 +7618,7 @@
         "soldUnits": 801
     },
     {
+        "id": "a224468b-06a4-4512-97e5-58d081565b2a",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 40mm - Alumínio Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 319.99,
@@ -7044,6 +7631,7 @@
         "soldUnits": 764
     },
     {
+        "id": "c0f862e9-653d-4853-81ec-f245ff1621b2",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 779.99,
@@ -7056,6 +7644,7 @@
         "soldUnits": 418
     },
     {
+        "id": "aeb91385-c602-4763-bf28-33a1ea16340b",
         "brand": "Apple rfb",
         "model": "iPhone XS Max- 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 398.99,
@@ -7068,6 +7657,7 @@
         "soldUnits": 497
     },
     {
+        "id": "09776574-bce9-402c-b309-629f5df48678",
         "brand": "Apple",
         "model": "iPhone 12 - 256GB - Roxo - Recondicionado – FNAC Restart - Grade A",
         "price": 708.99,
@@ -7080,6 +7670,7 @@
         "soldUnits": 457
     },
     {
+        "id": "79f6bd3a-4d25-47c0-bd72-0472297075db",
         "brand": "Ulefone",
         "model": "Ulefone Armor 8 - 64GB - Preto",
         "price": 229.99,
@@ -7092,6 +7683,7 @@
         "soldUnits": 284
     },
     {
+        "id": "65517a77-d88e-4771-b61e-e103e480c8f9",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 7 45mm - Alumínio (Product) Red - Recondicionado - FNAC Restart - Grade B",
         "price": 349.99,
@@ -7104,6 +7696,7 @@
         "soldUnits": 455
     },
     {
+        "id": "e6001bb9-3cae-48f6-a896-f118a8de2f39",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Azul - Recondicionado – FNAC Restart - Grade A",
         "price": 784.99,
@@ -7116,6 +7709,7 @@
         "soldUnits": 624
     },
     {
+        "id": "d352b351-ca73-4d8d-a80b-da5ea8a2efe5",
         "brand": "Ulefone",
         "model": "Ulefone Armor 15 - 128GB - Preto",
         "price": 329.99,
@@ -7128,6 +7722,7 @@
         "soldUnits": 409
     },
     {
+        "id": "3544aa93-912b-4d4b-a0e8-e19dd643c5ea",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 1TB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
         "price": 1279.99,
@@ -7140,6 +7735,7 @@
         "soldUnits": 965
     },
     {
+        "id": "8eaf8e99-9d21-4c84-b71b-5e8357ca2fdd",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 256GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 649.99,
@@ -7152,6 +7748,7 @@
         "soldUnits": 26
     },
     {
+        "id": "7b782409-427e-4fe1-b22e-72d6681e6fc5",
         "brand": "Samsung",
         "model": "Galaxy S21+ 5G - 256GB - Preto - Recondicionado – FNAC Restart - Grade B",
         "price": 559.99,
@@ -7164,6 +7761,7 @@
         "soldUnits": 761
     },
     {
+        "id": "a22679ab-31d2-4985-800d-1ec344b5551a",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 64GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 394.99,
@@ -7176,6 +7774,7 @@
         "soldUnits": 489
     },
     {
+        "id": "b9b2f9fc-e9f5-4405-bea6-0152025cefec",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 594.99,
@@ -7188,6 +7787,7 @@
         "soldUnits": 426
     },
     {
+        "id": "60fde007-4a87-46eb-9418-0d355eb812e3",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 512GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
         "price": 808.99,
@@ -7200,6 +7800,7 @@
         "soldUnits": 747
     },
     {
+        "id": "ee5b49cc-90f8-4469-a27a-774851cac5b6",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Meia-Noite - Recondicionado – FNAC Restart - Grade B",
         "price": 764.99,
@@ -7212,6 +7813,7 @@
         "soldUnits": 773
     },
     {
+        "id": "009c3b53-e190-4294-977a-ce63cdb51756",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 512GB - Azul Sierra - Recondicionado - FNAC Restart - Grade A",
         "price": 1199.99,
@@ -7224,6 +7826,7 @@
         "soldUnits": 226
     },
     {
+        "id": "8aa7cad4-9b0c-4d0d-9eae-bdbadf35a678",
         "brand": "Apple",
         "model": "iPhone 13 - 256GB - Luz das Estrelas - Recondicionado – FNAC Restart - Grade B",
         "price": 764.99,
@@ -7236,6 +7839,7 @@
         "soldUnits": 722
     },
     {
+        "id": "ab27f78a-45da-4a02-a490-29e38e5af557",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 128GB - Rosa - Recondicionado – FNAC Restart - Grade B",
         "price": 429.99,
@@ -7248,6 +7852,7 @@
         "soldUnits": 477
     },
     {
+        "id": "2c98b120-ffd2-425e-b3fb-e61529cab831",
         "brand": "Samsung",
         "model": "Galaxy S20 FE 5G - 128GB - Azul - Recondicionado – FNAC Restart - Grade B",
         "price": 329.99,
@@ -7260,6 +7865,7 @@
         "soldUnits": 556
     },
     {
+        "id": "e116086a-cedd-4014-a26f-2bc6a51ce90e",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 1TB - Dourado - Recondicionado FNAC Restart - Grade A",
         "price": 1249.99,
@@ -7272,6 +7878,7 @@
         "soldUnits": 816
     },
     {
+        "id": "6ea6cf47-4486-401a-996a-b36bc02afab9",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 609.99,
@@ -7284,6 +7891,7 @@
         "soldUnits": 497
     },
     {
+        "id": "0235a5c7-9ec1-487d-bef1-f408bd4417c6",
         "brand": "Apple",
         "model": "iPhone 12 - 256GB - Verde - Recondicionado – FNAC Restart - Grade A",
         "price": 708.99,
@@ -7296,6 +7904,7 @@
         "soldUnits": 985
     },
     {
+        "id": "d5083050-94b3-4ac5-bcf7-06af5fd4fd40",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 512GB - Cinzento Sideral - Recondicionado – FNAC Restart - Grade B",
         "price": 688.99,
@@ -7308,6 +7917,7 @@
         "soldUnits": 318
     },
     {
+        "id": "c7f0bd36-00f2-472a-b38e-b90d22f4c45b",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
         "price": 519.99,
@@ -7320,6 +7930,7 @@
         "soldUnits": 380
     },
     {
+        "id": "3c91f764-7280-40cf-8aca-276cc0e74803",
         "brand": "Samsung",
         "model": "Galaxy S10 - 128GB - Verde - Recondicionado – FNAC Restart - Grade A",
         "price": 279.99,
@@ -7332,6 +7943,7 @@
         "soldUnits": 565
     },
     {
+        "id": "307c1e3f-b66c-452c-bd16-aaf2d84990c8",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 Pro - 256GB - Dourado - Recondicionado – FNAC Restart - Grade B",
         "price": 609.99,
@@ -7344,6 +7956,7 @@
         "soldUnits": 112
     },
     {
+        "id": "40187ff1-5a9c-4c2f-b12f-01fe00d87a46",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 256GB - Branco - Recondicionado – FNAC Restart - Grade A",
         "price": 538.99,
@@ -7356,6 +7969,7 @@
         "soldUnits": 887
     },
     {
+        "id": "5cf620e3-d3a8-44da-943a-8a6a9f0c7cf2",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 256GB - Azul - Recondicionado – FNAC Restart - Grade B",
         "price": 588.99,
@@ -7368,6 +7982,7 @@
         "soldUnits": 962
     },
     {
+        "id": "5d268f2b-bce0-408d-9303-ffd21dc2f383",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 5 44mm - Alumínio Prateado - Recondicionado - FNAC Restart - Grade B",
         "price": 399.99,
@@ -7380,6 +7995,7 @@
         "soldUnits": 705
     },
     {
+        "id": "a18343bc-7fdd-421f-a1b6-1936e56b0448",
         "brand": "Samsung",
         "model": "Galaxy S20+ - 128GB - Cinzento Cósmico - Recondicionado – FNAC Restart - Grade B",
         "price": 379.99,
@@ -7392,6 +8008,7 @@
         "soldUnits": 910
     },
     {
+        "id": "5db94018-be4c-4e2b-9d7a-edf1feb38ffa",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 128GB - Cinzento - Recondicionado – FNAC Restart - Grade A",
         "price": 549.99,
@@ -7404,6 +8021,7 @@
         "soldUnits": 748
     },
     {
+        "id": "8fcac4ea-e90b-42d5-a41e-47b5fd31f4a9",
         "brand": "Apple",
         "model": "Novo iPad Air 10.9'' Wi-Fi + Cellular - 64GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 556.99,
@@ -7416,6 +8034,7 @@
         "soldUnits": 674
     },
     {
+        "id": "9fd951e5-c940-41cf-9b5d-e9a34f0991fa",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 128GB - Azul - Recondicionado – FNAC Restart - Grade A",
         "price": 599.99,
@@ -7428,6 +8047,7 @@
         "soldUnits": 28
     },
     {
+        "id": "878e4228-d706-472b-a0b0-5e15fcf48741",
         "brand": "Apple",
         "model": "iPhone 12 Mini - 256GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 588.99,
@@ -7440,6 +8060,7 @@
         "soldUnits": 909
     },
     {
+        "id": "73358b73-806e-4899-8c12-2238fca0b8d5",
         "brand": "Rfb pcclinic",
         "model": "iPhone 11 - 256GB - Preto - Recondicionado – FNAC Restart - Grade A",
         "price": 669.99,
@@ -7452,6 +8073,7 @@
         "soldUnits": 275
     },
     {
+        "id": "8ac998f6-ef46-4b1d-a12f-766b139f6f02",
         "brand": "Samsung",
         "model": "Galaxy S21 5G - 128GB - Violeta - Recondicionado - FNAC Restart - Grade B",
         "price": 479.99,
@@ -7464,6 +8086,7 @@
         "soldUnits": 176
     },
     {
+        "id": "26904fee-d715-4654-8407-4ebb2b5e9ff5",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 44mm - Alumínio (PRODUCT) RED - Recondicionado – FNAC Restart - Grade A",
         "price": 339.99,
@@ -7476,6 +8099,7 @@
         "soldUnits": 848
     },
     {
+        "id": "6615fd10-6574-4d57-ad57-2017d88688a4",
         "brand": "Apple",
         "model": "iPhone 12 - 64GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 519.99,
@@ -7488,6 +8112,7 @@
         "soldUnits": 808
     },
     {
+        "id": "95fefdb3-533a-44ac-81d8-33414125d104",
         "brand": "Smartwatch Apple",
         "model": "Watch Series 6 44mm - Cellular - Aço Inoxidável Prateada - Recondicionado – FNAC Restart - Grade A",
         "price": 499.99,
@@ -7500,6 +8125,7 @@
         "soldUnits": 697
     },
     {
+        "id": "1905fcee-6d33-405e-b8e7-b3b2cb1e86f8",
         "brand": "Apple",
         "model": "iPhone 13 - 512GB - Verde - Recondicionado – FNAC Restart - Grade B",
         "price": 1008.99,
@@ -7512,6 +8138,7 @@
         "soldUnits": 40
     },
     {
+        "id": "1f6ff71d-7084-4d0c-bf7d-db54829d5498",
         "brand": "Apple",
         "model": "iPhone 12 Pro Max - 512GB - Azul Pacífico - Recondicionado – FNAC Restart - Grade B",
         "price": 879.99,
@@ -7524,6 +8151,7 @@
         "soldUnits": 114
     },
     {
+        "id": "0d4713b3-4817-454e-ac84-abe830169483",
         "brand": "Ulefone",
         "model": "Ulefone Armor 8 - 64GB - Vermelho",
         "price": 229.99,
@@ -7536,6 +8164,7 @@
         "soldUnits": 629
     },
     {
+        "id": "30ff4b61-1c67-4bd6-9b1b-0c19d97ff869",
         "brand": "Apple",
         "model": "iPhone 12 - 128GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
         "price": 614.99,
@@ -7548,6 +8177,7 @@
         "soldUnits": 902
     },
     {
+        "id": "7112e7e8-7711-4662-943a-0fb1b37a23aa",
         "brand": "Apple",
         "model": "iPhone 12 - 256GB - (Product) Red - Recondicionado – FNAC Restart - Grade A",
         "price": 708.99,
@@ -7560,6 +8190,7 @@
         "soldUnits": 988
     },
     {
+        "id": "e57e5736-b7a6-452f-9a67-58302e0ecb62",
         "brand": "Apple",
         "model": "iPhone XR - 256GB - (Product) Red - Recondicionado – FNAC Restart - Grade B",
         "price": 409.99,
@@ -7572,6 +8203,7 @@
         "soldUnits": 347
     },
     {
+        "id": "75331714-05ee-4f3a-8832-c88a2964887f",
         "brand": "Samsung",
         "model": "Galaxy S21+ 5G - 256GB - Prateado - Recondicionado – FNAC Restart - Grade B",
         "price": 559.99,
@@ -7584,6 +8216,7 @@
         "soldUnits": 693
     },
     {
+        "id": "73526d1d-115f-4863-9a1e-9dca3d2cbd92",
         "brand": "Tcl",
         "model": "TCL 3189 128MB - Himalaya Grey",
         "price": 59.99,
@@ -7596,6 +8229,7 @@
         "soldUnits": 179
     },
     {
+        "id": "3d392362-3e31-49fc-8d4a-ce4a15655236",
         "brand": "Tcl",
         "model": "TCL 3189 128MB - Illuminating Yellow",
         "price": 59.99,
@@ -7608,6 +8242,7 @@
         "soldUnits": 76
     },
     {
+        "id": "957ee61e-4037-4f69-a881-bd6934563d5e",
         "brand": "Tablet Android Apple",
         "model": "MacBook Air 13'' Retina | M1 | 8GB | 512GB SSD | GPU 8-Core - Dourado - Recondicionado – FNAC Restart - Grade A",
         "price": 939.99,
@@ -7620,6 +8255,7 @@
         "soldUnits": 549
     },
     {
+        "id": "0c4c4156-f1d0-4a99-9da9-93abc9d7eec0",
         "brand": "Apple",
         "model": "iPhone 12 Pro - 512GB - Prateado - Recondicionado – FNAC Restart - Grade A",
         "price": 828.99,
@@ -7632,6 +8268,7 @@
         "soldUnits": 81
     },
     {
+        "id": "56ce9a74-fe66-4add-8405-02f6a34ceb3e",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 512GB - Grafite - Recondicionado – FNAC Restart - Grade A",
         "price": 1099.99,
@@ -7644,6 +8281,7 @@
         "soldUnits": 544
     },
     {
+        "id": "6dcc553a-4a1f-445f-80f0-e82c37af13cd",
         "brand": "Apple",
         "model": "iPhone 13 Pro Max - 512GB - Azul Sierra - Recondicionado – FNAC Restart - Grade B",
         "price": 1179.99,
@@ -7656,6 +8294,7 @@
         "soldUnits": 609
     },
     {
+        "id": "462cbaf5-8702-47f5-aebb-476af2ac7bf9",
         "brand": "Apple",
         "model": "iPhone 13 Pro - 128GB - Verde Alpino - Recondicionado – FNAC Restart - Grade B",
         "price": 904.99,
