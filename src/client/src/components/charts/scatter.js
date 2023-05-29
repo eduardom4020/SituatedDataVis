@@ -1,7 +1,8 @@
 import { Text, View } from 'react-native';
 import { VictoryScatter, VictoryChart, VictoryTheme, VictoryLegend, VictoryAxis } from "victory-native";
+import { BaseTheme } from '../themes';
 
-export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => {
+export const Scatter = ({domain, data, chartEncoding={}, contextualData={}, chartProps={}}) => {
     if(!chartEncoding) {
         throw new Error('Unable to mount chart without encoding');
     }
@@ -9,10 +10,6 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
     const enhancedData = { data };
     enhancedData.fill = () => '#dbdbdb';
     enhancedData.size = () => 1.5;
-
-    // if(data && data.length) {
-    //     console.log('enhancedData ', data.map(x => x.model.replace(/ /g, '')))
-    // }
     
     const hasContextSelectAction = chartEncoding && Boolean(chartEncoding.contextSelect);
     const selectSeries = hasContextSelectAction && chartEncoding.contextSelect.series;
@@ -40,9 +37,19 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
                 || 0;
         });
 
-        enhancedData.fill = ({datum}) => contextActivatedValues.includes(datum[selectSeries].replace(/ /g, ''))
-            && (chartEncoding.contextSelect.colors && chartEncoding.contextSelect.colors[datum[selectSeries].replace(/ /g, '')] || '#2596be')
-            || '#dbdbdb';
+        enhancedData.fill = ({datum}) => {
+            if(contextActivatedValues.includes(datum[selectSeries].replace(/ /g, ''))) {
+                const colorThemeIndex = chartEncoding.contextSelect.colors && chartEncoding.contextSelect.colors[datum[selectSeries].replace(/ /g, '')];
+                
+                if(colorThemeIndex == null || colorThemeIndex == '') {
+                    return '#2596be';
+                }
+
+                return BaseTheme.colors[+colorThemeIndex];
+            }
+
+            return '#dbdbdb';
+        }
 
         enhancedData.size = ({datum}) => contextActivatedValues.includes(datum[selectSeries].replace(/ /g, ''))
             && (chartEncoding.contextSelect.sizes && chartEncoding.contextSelect.sizes[datum[selectSeries].replace(/ /g, '')] || 2.5)
@@ -69,7 +76,9 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
                 textAlign: 'center',
                 fontWeight: 300,
                 fontSize: 24
-            }}>Smartphones in this Fnac Store</Text>
+            }}>
+                {chartProps.title || 'Scatter'}
+            </Text>
             <VictoryChart
                 theme={VictoryTheme.material}
                 height={400}
@@ -109,14 +118,14 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}}) => 
                         <VictoryLegend
                             x={60} 
                             y={350}
-                            title="Brands"
+                            title="Selected:"
                             centerTitle
                             orientation="horizontal"
                             gutter={20}
                             style={{ title: {fontSize: 14 } }}
                             data={
                                 contextActivatedValues.map(name => ({ 
-                                    name, 
+                                    name: selectSeries === 'id' ? enhancedData.data.find(x => x.id === name).model : name, 
                                     symbol: { 
                                         fill: contextActivatedValues
                                             ? (chartEncoding.contextSelect.colors[name] || '#2596be')

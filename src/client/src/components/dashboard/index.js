@@ -31,12 +31,12 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
         }
     }, [chartEncoding]);
     
-    const { 
+    const {
+        id,
         brand: var_Brand,
         model: var_Model,
         price: var_Price,
         soldUnits: var_SoldUnits,
-        // camera: var_Camera,
         meanRating: var_MeanRating,
         ratings5s,
         ratings4s,
@@ -65,88 +65,106 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
         y: var_Price[index],
         brand: var_Brand[index],
         model: var_Model[index],
+        id: id[index],
     }));
+
+    // console.log(JSON.stringify(contextualData, null, 4))
     
     const pieData = useMemo(() => {        
-        if(!datasource.fetching && chartEncoding && ['StackedBarchart', 'Piechart'].includes(chartEncoding.chartType) && contextualData.directAttention && contextualData.directAttention.model) {
-            const selectedModels = contextualData.directAttention.model;
+        if(
+            !datasource.fetching && chartEncoding && ['StackedBarchart', 'Piechart'].includes(chartEncoding.chartType) && 
+            storedData.targetSeries && contextualData.directAttention && contextualData.directAttention[storedData.targetSeries]
+        ) {
+            const selectedContextualData = contextualData.directAttention[storedData.targetSeries];
+            const seriesData = datasource.entries[storedData.targetSeries];
 
-            return selectedModels.map(selectedModel => {
-                const selectedModelIndex = var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModel.replaceAll(' ', ''));
+            return selectedContextualData.map(selectedData => {
+                const dataIndex = seriesData.findIndex(m => m.replaceAll(' ', '') === selectedData.replaceAll(' ', ''));
     
-                return [
-                    {
-                        x: 1,
-                        y: +ratings5s[selectedModelIndex],
-                        label: '5*',
-                    },
-                    {
-                        x: 2,
-                        y: +ratings4s[selectedModelIndex],
-                        label: '4*',
-                    },
-                    {
-                        x: 3,
-                        y: +ratings3s[selectedModelIndex],
-                        label: '3*',
-                    },
-                    {
-                        x: 4,
-                        y: +ratings2s[selectedModelIndex],
-                        label: '2*',
-                    },
-                    {
-                        x: 5,
-                        y: +ratings1s[selectedModelIndex],
-                        label: '1*',
-                    }
-                ];
+                return {
+                    title: `Rating Piehcart of:\n${var_Model[dataIndex]}`,
+                    entries: [
+                        {
+                            x: 1,
+                            y: +ratings5s[dataIndex],
+                            label: '★★★★★',
+                        },
+                        {
+                            x: 2,
+                            y: +ratings4s[dataIndex],
+                            label: '★★★★',
+                        },
+                        {
+                            x: 3,
+                            y: +ratings3s[dataIndex],
+                            label: '★★★',
+                        },
+                        {
+                            x: 4,
+                            y: +ratings2s[dataIndex],
+                            label: '★★',
+                        },
+                        {
+                            x: 5,
+                            y: +ratings1s[dataIndex],
+                            label: '★',
+                        }
+                    ]
+                };
             });
         }
 
-        return [[]];
+        return [{}];
     }, [chartEncoding, contextualData, datasource]);
     
     const stackedBarData = useMemo(() => {
-        if(!datasource.fetching && chartEncoding && chartEncoding.chartType === 'StackedBarchart' && contextualData.directAttention && contextualData.directAttention.model) {
-            const selectedModels = contextualData.directAttention.model;
-            const selectedModelIndexes = selectedModels.map(selectedModel => var_Model.findIndex(m => m.replaceAll(' ', '') === selectedModel.replaceAll(' ', '')));
+        if(
+            !datasource.fetching && chartEncoding && chartEncoding.chartType === 'StackedBarchart' &&
+            storedData.targetSeries && contextualData.directAttention && contextualData.directAttention[storedData.targetSeries]
+        ) {
+            const selectedContextualData = contextualData.directAttention[storedData.targetSeries];
+            const seriesData = datasource.entries[storedData.targetSeries];
+            
+            const selectedDataIndexes = selectedContextualData.map(selectedData => seriesData.findIndex(m => m.replaceAll(' ', '') === selectedData.replaceAll(' ', '')));
 
-            const maxRatingsBySelectedModels = selectedModelIndexes.map(selectedModelIndex => (
-                +ratings5s[selectedModelIndex] +
-                +ratings4s[selectedModelIndex] +
-                +ratings3s[selectedModelIndex] +
-                +ratings2s[selectedModelIndex] +
-                +ratings1s[selectedModelIndex]
+            const maxRatingsBySelectedSeries = selectedDataIndexes.map(index => (
+                +ratings5s[index] +
+                +ratings4s[index] +
+                +ratings3s[index] +
+                +ratings2s[index] +
+                +ratings1s[index]
             ));
 
-            return [
-                selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
-                    y: (+ratings5s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
-                    label: '5*',
-                })),
-                selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
-                    y: (+ratings4s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
-                    label: '4*',
-                })),
-                selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
-                    y: (+ratings3s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
-                    label: '3*',
-                })),
-                selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
-                    y: (+ratings2s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
-                    label: '2*',
-                })),
-                selectedModelIndexes.map((selectedModelIndex, index) => ({
-                    x: index + 1,
-                    y: (+ratings1s[selectedModelIndex] / maxRatingsBySelectedModels[index]) * 100,
-                    label: '1*',
-                })),
-            ];
+            return {
+                names: selectedDataIndexes.map(selectedIndex => var_Model[selectedIndex]),
+                entries: [
+                    selectedDataIndexes.map((selectedIndex, index) => ({
+                        x: index + 1,
+                        y: (+ratings5s[selectedIndex] / maxRatingsBySelectedSeries[index]) * 100,
+                        label: '5★',
+                    })),
+                    selectedDataIndexes.map((selectedIndex, index) => ({
+                        x: index + 1,
+                        y: (+ratings4s[selectedIndex] / maxRatingsBySelectedSeries[index]) * 100,
+                        label: '4★',
+                    })),
+                    selectedDataIndexes.map((selectedIndex, index) => ({
+                        x: index + 1,
+                        y: (+ratings3s[selectedIndex] / maxRatingsBySelectedSeries[index]) * 100,
+                        label: '3★',
+                    })),
+                    selectedDataIndexes.map((selectedIndex, index) => ({
+                        x: index + 1,
+                        y: (+ratings2s[selectedIndex] / maxRatingsBySelectedSeries[index]) * 100,
+                        label: '2★',
+                    })),
+                    selectedDataIndexes.map((selectedIndex, index) => ({
+                        x: index + 1,
+                        y: (+ratings1s[selectedIndex] / maxRatingsBySelectedSeries[index]) * 100,
+                        label: '1★',
+                    })),
+                ]
+            };
         }
 
         return [];
@@ -159,7 +177,9 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
             </View>
         )
     }
-    console.log(pieData)
+
+    const directAttentionSelected = contextualData.directAttention && contextualData.directAttention[storedData.targetSeries];
+    
     return (
         <ScrollView>
             <View style={styles.container}>
@@ -170,8 +190,11 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
                         domain={scatterDomain}
                         contextualData={contextualData}
                         chartEncoding={chartEncoding}
+                        chartProps={{
+                            title: 'Smartphones cost / selling in this Fnac store',
+                        }}
                     />
-                ) : chartEncoding.chartType === 'Piechart' ? (
+                ) : chartEncoding.chartType === 'Piechart' && directAttentionSelected && directAttentionSelected.length === 1 ? (
                     <View style={{display: 'flex', alignItems: 'center', padding: 8, flexDirection: 'column'}}>
                         <Scatter
                             data={scatterData}
@@ -179,27 +202,30 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
                             contextualData={contextualData}
                             chartEncoding={{
                                 contextSelect: {
-                                    series: 'model',
-                                    contextualActivation: 'directAttention',
+                                    series: storedData.targetSeries,
+                                    contextualActivation: storedData.currentContextualTrigger,
                                     colors: {
-                                        "RedmiNote12Pro5G-128GB-MidnightBlack": "#1982c4",
+                                        [directAttentionSelected[0]]: 0,
                                     },
                                     sizes: {
-                                        "RedmiNote12Pro5G-128GB-MidnightBlack": 4,
+                                        [directAttentionSelected[0]]: 4,
                                     }
                                 }
+                            }}
+                            chartProps={{
+                                title: 'Selected smartphone in cost / selling relation',
                             }}
                         />
                         <View style={{height: 20}}/>
                         <Pie
-                            data={pieData[0]}
+                            data={pieData[0].entries}
                             contextualData={contextualData}
                             chartEncoding={chartEncoding}
-                            title='Xiaomi Redmi Note12 Pro5G: Ratings'
-                            pieProps={{
-                                width: 260,
-                                height: 260,
-                                labelRadius: ({ innerRadius }) => innerRadius + 90,
+                            title={pieData[0].title}
+                            chartProps={{
+                                width: 380,
+                                height: 320,
+                                labelRadius: ({ innerRadius }) => innerRadius + 130,
                             }}
                         />
                     </View>
@@ -209,35 +235,30 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
                             data={stackedBarData}
                             contextualData={contextualData}
                             chartEncoding={chartEncoding}
+                            chartProps={{
+                                title: 'Smartphones ratings comparison'
+                            }}
                         />
                         <View style={{height: 20}}/>
                         <View style={{display: 'flex', justifyContent: 'center', alignItems: 'space-around', flexDirection: 'row', width: 220, padding: 12}}>
-                            <Pie
-                                data={pieData[0]}
-                                contextualData={contextualData}
-                                chartEncoding={chartEncoding}
-                                title='Xiaomi Redmi Note12 Pro5G: Ratings'
-                                titleSize={14}
-                                pieProps={{
-                                    width: 240,
-                                    height: 240,
-                                    labelRadius: ({ innerRadius }) => innerRadius + 40,
-                                    style: { labels: { fill: "white", fontWeight: 400 } }
-                                }}
-                            />
-                            <Pie
-                                data={pieData[1]}
-                                contextualData={contextualData}
-                                chartEncoding={chartEncoding}
-                                title='iPhone 14 Pro Max - 128GB - Roxo Escuro: Ratings'
-                                titleSize={14}
-                                pieProps={{
-                                    width: 240,
-                                    height: 240,
-                                    labelRadius: ({ innerRadius }) => innerRadius + 40,
-                                    style: { labels: { fill: "white", fontWeight: 400 } }
-                                }}
-                            />
+                            {
+                                pieData.map(pie => (
+                                    <Pie
+                                        data={pie.entries}
+                                        contextualData={contextualData}
+                                        chartEncoding={chartEncoding}
+                                        title={pie.title}
+                                        titleSize={14}
+                                        chartProps={{
+                                            width: 240,
+                                            height: 240,
+                                            labelRadius: ({ innerRadius }) => innerRadius + 30,
+                                            style: { labels: { fill: "white", fontWeight: 400, fontSize: 8 } },
+                                            titleStyles: { width: 150 },
+                                        }}
+                                    />
+                                ))
+                            }
                         </View>
                     </View>
                 ) : (

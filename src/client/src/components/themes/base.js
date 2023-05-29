@@ -9,7 +9,7 @@ const lime300 = "#DCE775";
 const lightGreen500 = "#8BC34A";
 const teal700 = "#00796B";
 const cyan900 = "#006064";
-const colors = [
+export const colors = [
   '#1982c4',
   '#ff595e',
   '#8ac926',

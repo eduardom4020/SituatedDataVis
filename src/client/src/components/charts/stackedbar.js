@@ -2,7 +2,7 @@ import { VictoryBar, VictoryChart, VictoryAxis, VictoryStack, VictoryTheme, Vict
 import { BaseTheme, PieRatingsTheme } from '../themes';
 import { Text, View } from 'react-native';
 
-export const StackedBar = ({data, chartEncoding={}, contextualData={}}) => {
+export const StackedBar = ({data, chartEncoding={}, contextualData={}, chartProps={}}) => {
     if(!chartEncoding) {
         throw new Error('Unable to mount chart without encoding');
     }
@@ -21,7 +21,9 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}}) => {
                 textAlign: 'center',
                 fontWeight: 300,
                 fontSize: 24
-            }}>Phone Ratings Comparison</Text>
+            }}>
+                { chartProps.title || 'Stacked bars' }
+            </Text>
             <VictoryChart
                 theme={{
                     ...VictoryTheme.material,
@@ -42,16 +44,19 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}}) => {
                     horizontal
                 >
                 {
-                    enhancedData.data.map(data => (
+                    enhancedData.data.entries.map(data => (
                         <VictoryBar
                             barWidth={25}
                             data={data}
-                            labelComponent={<VictoryLabel dx={-15} style={{fill: 'white'}}/>}
+                            labelComponent={<VictoryLabel dx={-20} style={{fill: 'white'}}/>}
                         />
                     ))
                 }
-                <VictoryLabel textAnchor="start" text='iPhone 14 Pro Max - 128GB - Roxo Escuro' dy={80} dx={20} />
-                <VictoryLabel textAnchor="start" text='Xiaomi Redmi Note12 Pro5G' y={130} x={20} />
+                {
+                    enhancedData.data.names.map((name, index) => (
+                        <VictoryLabel textAnchor="start" text={name} dx={20} dy={80 + 50 * index} />
+                    ))
+                }
                 </VictoryStack>
                 <VictoryAxis dependentAxis gridComponent={<></>} domain={[0, 100]} offsetY={35}/>
                 {/* 
