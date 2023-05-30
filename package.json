@@ -7,8 +7,12 @@
         "postinstall": "(cd ./src/client && yarn install) && (cd ../server && yarn install)",
         "start:server": "cd ./src/server && yarn dev",
         "start:client": "cd ./src/client && yarn start",
-        "lint": "eslint ."
+        "lint": "eslint .",
+        "build:server": "cd ./src/server && yarn build"
     },
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "node": "16.16.0"
+    }
 }
