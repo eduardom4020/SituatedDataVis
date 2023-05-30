@@ -16,11 +16,12 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}, chartProp
             alignItems: 'center'
         }}>
             <Text style={{
-                top: 40,
+                top: 50,
                 width: '100%',
                 textAlign: 'center',
                 fontWeight: 300,
-                fontSize: 24
+                fontSize: 24,
+                marginBottom: 40,
             }}>
                 { chartProps.title || 'Stacked bars' }
             </Text>
@@ -31,16 +32,13 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}, chartProp
                         colorScale: PieRatingsTheme.pie.colorScale
                     }
                 }}
-                height={200}
+                height={200 + (enhancedData.data.names.length * 30)}
                 padding={{left:20, right: 20}}
-                // domainPadding={100}
-                domain={{x: [0, 4]}}
             >
                 <VictoryStack
                     style={{
                         data: { stroke: "white", strokeWidth: 1 }
                     }}
-                    // alignment="middle"
                     horizontal
                 >
                 {
@@ -48,17 +46,25 @@ export const StackedBar = ({data, chartEncoding={}, contextualData={}, chartProp
                         <VictoryBar
                             barWidth={25}
                             data={data}
-                            labelComponent={<VictoryLabel dx={-20} style={{fill: 'white'}}/>}
+                            labelComponent={
+                                <VictoryLabel dx={-20} style={{fill: 'white'}}/>
+                            }
                         />
                     ))
                 }
-                {
-                    enhancedData.data.names.map((name, index) => (
-                        <VictoryLabel textAnchor="start" text={name} dx={20} dy={80 + 50 * index} />
-                    ))
-                }
                 </VictoryStack>
-                <VictoryAxis dependentAxis gridComponent={<></>} domain={[0, 100]} offsetY={35}/>
+                <VictoryBar
+                    data={
+                        enhancedData.data.names.map((label, index) => (
+                            { x: index + 1, y: 0, label: `${label.slice(0, 52)}${label.slice(52) != '' ? '...' : ''}` }
+                        ))
+                    } 
+                    labelComponent={<VictoryLabel dy={-22} dx={0} style={{fontSize: 14}} />}
+                />
+                <VictoryAxis dependentAxis gridComponent={<></>} domain={[0, 100]} offsetY={30}/>
+                <VictoryAxis crossAxis domain={[0, enhancedData.data.names.length + 1]} 
+                    gridComponent={<></>} axisComponent={<></>} tickComponent={<></>} tickLabelComponent={<></>}
+                />
                 {/* 
                 <VictoryAxis dependentAxis /> */}
                 {/* <VictoryLegend y={40}

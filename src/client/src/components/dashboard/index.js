@@ -5,6 +5,10 @@ import { useEffect, useMemo } from 'react';
 import { Pie } from '../charts/pie';
 import { StackedBar } from '../charts/stackedbar';
 
+const ToChunks = (arr, size = 2) => (
+    arr.map((_, i) => i % size == 0 && arr.slice(i, i + size)).filter(Boolean)
+);
+
 export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=null}) => {
     const datasource = useDatasource('fnac');
     
@@ -67,8 +71,6 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
         model: var_Model[index],
         id: id[index],
     }));
-
-    // console.log(JSON.stringify(contextualData, null, 4))
     
     const pieData = useMemo(() => {        
         if(
@@ -230,36 +232,40 @@ export const Dashboard = ({contextualData={}, storedData={}, onEncodingSelected=
                         />
                     </View>
                 ) : chartEncoding.chartType === 'StackedBarchart' ? (
-                    <View style={{display: 'flex', alignItems: 'center', padding: 8, flexDirection: 'column'}}>
+                    <View style={{display: 'flex', alignItems: 'center', padding: 8, flexDirection: 'column', top: 40}}>
                         <StackedBar
                             data={stackedBarData}
                             contextualData={contextualData}
                             chartEncoding={chartEncoding}
                             chartProps={{
-                                title: 'Smartphones ratings comparison'
+                                title: 'Smartphones ratings comparison',
                             }}
                         />
                         <View style={{height: 20}}/>
-                        <View style={{display: 'flex', justifyContent: 'center', alignItems: 'space-around', flexDirection: 'row', width: 220, padding: 12}}>
-                            {
-                                pieData.map(pie => (
-                                    <Pie
-                                        data={pie.entries}
-                                        contextualData={contextualData}
-                                        chartEncoding={chartEncoding}
-                                        title={pie.title}
-                                        titleSize={14}
-                                        chartProps={{
-                                            width: 240,
-                                            height: 240,
-                                            labelRadius: ({ innerRadius }) => innerRadius + 30,
-                                            style: { labels: { fill: "white", fontWeight: 400, fontSize: 8 } },
-                                            titleStyles: { width: 150 },
-                                        }}
-                                    />
-                                ))
-                            }
-                        </View>
+                        {
+                            ToChunks(pieData).map(piesChunk => (
+                                <View style={{display: 'flex', justifyContent: 'center', alignItems: 'space-around', flexDirection: 'row', width: 220, padding: 12}}>
+                                {
+                                    piesChunk.map(pie => (
+                                        <Pie
+                                            data={pie.entries}
+                                            contextualData={contextualData}
+                                            chartEncoding={chartEncoding}
+                                            title={pie.title}
+                                            titleSize={14}
+                                            chartProps={{
+                                                width: 240,
+                                                height: 240,
+                                                labelRadius: ({ innerRadius }) => innerRadius + 30,
+                                                style: { labels: { fill: "white", fontWeight: 400, fontSize: 8 } },
+                                                titleStyles: { width: 150 },
+                                            }}
+                                        />
+                                    ))
+                                }
+                                </View>
+                            ))
+                        }
                     </View>
                 ) : (
                     <></>

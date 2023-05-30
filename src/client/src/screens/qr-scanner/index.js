@@ -11,6 +11,8 @@ export const QrScannerScreen = ({ navigation, route }) => {
                 directAttention,
             } = data;
 
+            console.log('On qr scanner ', data)
+
             const { contextualData={}, storedData={} } = route.params;
             const { encoding } = storedData || {};
 

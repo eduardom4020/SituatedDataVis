@@ -1,6 +1,6 @@
 import { Text, View } from 'react-native';
 import { VictoryScatter, VictoryChart, VictoryTheme, VictoryLegend, VictoryAxis } from "victory-native";
-import { BaseTheme } from '../themes';
+import { colors as BaseThemeColors } from '../themes/base';
 
 export const Scatter = ({domain, data, chartEncoding={}, contextualData={}, chartProps={}}) => {
     if(!chartEncoding) {
@@ -14,7 +14,7 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}, char
     const hasContextSelectAction = chartEncoding && Boolean(chartEncoding.contextSelect);
     const selectSeries = hasContextSelectAction && chartEncoding.contextSelect.series;
 
-    let contextActivatedValues = null;
+    let contextActivatedValues = [];
 
     if(hasContextSelectAction) {
         const contextDeactivatedSeries = contextualData[chartEncoding.contextSelect.contextualDeactivation] || {};
@@ -27,7 +27,7 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}, char
         contextActivatedValues = contextActivatedValues.filter(v => !contextDeactivatedValues.includes(v));
     }
     
-    if(contextActivatedValues) {
+    if(contextActivatedValues.length) {
         enhancedData.data = enhancedData.data.sort((a, b) => {
             const containsA = +(contextActivatedValues.includes(a[selectSeries].replace(/ /g, '')));
             const containsB = +(contextActivatedValues.includes(b[selectSeries].replace(/ /g, '')));
@@ -41,11 +41,11 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}, char
             if(contextActivatedValues.includes(datum[selectSeries].replace(/ /g, ''))) {
                 const colorThemeIndex = chartEncoding.contextSelect.colors && chartEncoding.contextSelect.colors[datum[selectSeries].replace(/ /g, '')];
                 
-                if(colorThemeIndex == null || colorThemeIndex == '') {
+                if(colorThemeIndex == null || colorThemeIndex === '') {
                     return '#2596be';
                 }
 
-                return BaseTheme.colors[+colorThemeIndex];
+                return BaseThemeColors[+colorThemeIndex];
             }
 
             return '#dbdbdb';
@@ -72,10 +72,10 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}, char
         }}>
             <Text style={{
                 top: 80,
-                width: '100%',
                 textAlign: 'center',
                 fontWeight: 300,
-                fontSize: 24
+                fontSize: 24,
+                ...(chartProps.titleStyles || {})
             }}>
                 {chartProps.title || 'Scatter'}
             </Text>
@@ -124,14 +124,18 @@ export const Scatter = ({domain, data, chartEncoding={}, contextualData={}, char
                             gutter={20}
                             style={{ title: {fontSize: 14 } }}
                             data={
-                                contextActivatedValues.map(name => ({ 
-                                    name: selectSeries === 'id' ? enhancedData.data.find(x => x.id === name).model : name, 
-                                    symbol: { 
-                                        fill: contextActivatedValues
-                                            ? (chartEncoding.contextSelect.colors[name] || '#2596be')
-                                            : '#dbdbdb'
+                                contextActivatedValues.map(name => {
+                                    const selectedColor = chartEncoding.contextSelect.colors[name];
+                                    
+                                    return { 
+                                        name: selectSeries === 'id' ? enhancedData.data.find(x => x.id === name).model : name, 
+                                        symbol: { 
+                                            fill: contextActivatedValues
+                                                ? (selectedColor != null ? BaseThemeColors[+selectedColor] : '#2596be')
+                                                : '#dbdbdb'
+                                        }
                                     }
-                                }))
+                                })
                             }
                         />
                     ) 
