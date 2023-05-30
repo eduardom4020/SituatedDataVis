@@ -3,7 +3,7 @@ import path from 'path';
 import http from 'http';
 
 const host = '0.0.0.0';
-const port = 8080;
+const port = process.env.PORT || 8080;
 
 const readDataset = async () => {
     const rawFileBytes = await new Promise(res => {
