@@ -9,7 +9,8 @@
             "contextualDeactivation": "far",
             "colors": {
                 "Xiaomi": 0,
-                "Apple": 1
+                "Apple": 1,
+                "Samsung": 2
             }
         },
         "changeRepresentation": {
