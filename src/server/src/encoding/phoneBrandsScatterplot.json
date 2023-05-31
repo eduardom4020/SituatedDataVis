@@ -10,7 +10,8 @@
             "colors": {
                 "Xiaomi": 0,
                 "Apple": 1,
-                "Samsung": 2
+                "Samsung": 2,
+                "Oppo": 3
             }
         },
         "changeRepresentation": {
