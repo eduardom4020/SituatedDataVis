@@ -8305,5 +8305,18 @@
         "ratings4s": 38,
         "ratings5s": 97,
         "soldUnits": 57
+    },
+    {
+        "id": "bc51a33e-be1a-44d0-97b1-78833c177222",
+        "brand": "Samsung",
+        "model": "Galaxy Watch5",
+        "price": 219.99,
+        "meanRating": 45,
+        "ratings1s": 27,
+        "ratings2s": 21,
+        "ratings3s": 67,
+        "ratings4s": 27,
+        "ratings5s": 83,
+        "soldUnits": 412
     }
 ]

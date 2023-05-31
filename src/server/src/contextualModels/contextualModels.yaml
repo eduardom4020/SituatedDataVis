@@ -63,11 +63,16 @@ directAttention:
 # {"near":{"brand":["Xiaomi"]}}
 # {"near":{"brand":["Apple"]}}
 
-# {"directAttention":{"id":["b92a0afc-4482-471c-8126-b68c32f37e9c"]}}
-# {"directAttention":{"id":["358f725d-5394-4be5-9e68-9856c098ee1f"]}}
-# {"directAttention":{"id":["41aec074-7d26-4268-9505-1646c13d9d11"]}}
-# {"directAttention":{"id":["853383a0-1466-48ce-91e5-83d5cd3dcad8"]}}
+# {"directAttention":{"id":["f16a367a-1f64-4b89-a648-0832e38dffd5"]}}  Oppo Reno 8
+# {"directAttention":{"id":["f39b4fd0-9bfa-4d82-a2b9-967950857134"]}}  Oppo A78 5g
 
+# {"directAttention":{"id":["b92a0afc-4482-471c-8126-b68c32f37e9c"]}}  Xiaomi Redmi Note 12 5G
+# {"directAttention":{"id":["227f458c-385c-46ab-b4a0-21fce827ecfe"]}}  Xiaomi 12
+# {"directAttention":{"id":["f95b2742-56eb-4071-95ff-42b0f410f534"]}}  Xiaomi 13
 
-# {"directAttention":{"model":["Redmi Note 12 Pro 5G - 128GB - Midnight Black"]}}
-# {"directAttention":{"model":["iPhone 14 Pro Max - 128GB - Roxo Escuro"]}}
+# {"directAttention":{"id":["072ba7ef-70b0-490f-8f32-3ca1f3039018"]}} iPhone 14 pro
+# {"directAttention":{"id":["355bf03b-ee68-4a93-9350-9d22e1637391"]}} iPhone 13 mini
+# {"directAttention":{"id":["6a02aad1-a6a4-40f7-8510-edb81e0dc6a6"]}} iPhone 14
+
+# {"directAttention":{"id":["02df48f5-0fa6-4ac4-a90f-aad2c8e98d5f"]}} galaxy A34 5g
+# {"directAttention":{"id":["a4616931-6ff1-4ba7-9d7a-96613c9c497a","bc51a33e-be1a-44d0-97b1-78833c177222"]}} galaxy s23 e galaxy watch
