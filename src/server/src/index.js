@@ -59,6 +59,22 @@ const requestListener = async (req, res) => {
         return res.end(JSON.stringify(fnacPhones, null, 4));
     }
 
+    if(req.url === '/baruk') {
+        return fs.readFile(__dirname + '/baruk/baruk.html',function (_, data) {
+            res.writeHead(200, {'Content-Type': 'text/html','Content-Length':data.length});
+            res.write(data);
+            res.end();
+        });
+    }
+
+    if(req.url === '/Baruk.gif') {
+        return fs.readFile(__dirname + '/baruk/Baruk.gif',function (_, data) {
+            res.writeHead(200, {'Content-Type': 'application/octet-stream','Content-Length':data.length});
+            res.write(data);
+            res.end();
+        });
+    }
+
     res.writeHead(404);
     res.end(JSON.stringify({message: "Page doesn't exist."}, null, 4))
 };

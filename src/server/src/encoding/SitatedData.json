@@ -1,0 +1,22 @@
+[
+    {
+        "near": {
+            "brand":["Xiaomi", "Apple"]
+        },
+        "far": {
+            "brand":["Oppo"]
+        }
+    },
+
+    {
+        "far": {
+            "id": ["b92a0afc-4482-471c-8126-b68c32f37e9c"] // Xiaomi Redmi Note 12 5G
+        }
+    },
+
+    {
+        "directAttention": {
+            "id": ["f16a367a-1f64-4b89-a648-0832e38dffd5"]
+        }
+    }  //Oppo Reno 8
+]
