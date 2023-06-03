@@ -1,6 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 import http from 'http';
+import settings from '../../../situated-toolkit/settings';
+import RED from 'node-red';
+import express from 'express';
 
 const host = '0.0.0.0';
 const port = process.env.PORT || 8080;
@@ -39,47 +42,54 @@ const readEncoding = async (fileName) => {
     return JSON.parse(rawFileBytes.toString('utf8'));
 }
 
-const requestListener = async (req, res) => {
-    console.log('req url ', req.url)
-    if(req.url === '/phoneBrands/data') {
-        const dataset = await readDataset();
-        res.writeHead(200);
-        return res.end(JSON.stringify(dataset, null, 4));
-    }
-    
-    if(req.url === '/phoneBrands' || req.url === '/fnac') {
-        const phoneBrandsEncoding = await readEncoding('phoneBrandsScatterplot.json');
-        res.writeHead(200);
-        return res.end(JSON.stringify(phoneBrandsEncoding, null, 4));
-    }
+const router = express.Router();
+router.use("/",express.static("public"));
 
-    if(req.url === '/fnac/data') {
-        const fnacPhones = require('./data/fnacPhonesAllTreated.json');
-        res.writeHead(200);
-        return res.end(JSON.stringify(fnacPhones, null, 4));
-    }
-
-    if(req.url === '/baruk') {
-        return fs.readFile(__dirname + '/baruk/baruk.html',function (_, data) {
-            res.writeHead(200, {'Content-Type': 'text/html','Content-Length':data.length});
-            res.write(data);
-            res.end();
-        });
-    }
-
-    if(req.url === '/Baruk.gif') {
-        return fs.readFile(__dirname + '/baruk/Baruk.gif',function (_, data) {
-            res.writeHead(200, {'Content-Type': 'application/octet-stream','Content-Length':data.length});
-            res.write(data);
-            res.end();
-        });
-    }
-
-    res.writeHead(404);
-    res.end(JSON.stringify({message: "Page doesn't exist."}, null, 4))
-};
-
-const server = http.createServer(requestListener);
-server.listen(port, host, () => {
-    console.log(`Server is running on http://${host}:${port}`);
+// Define middleware for all routes
+router.use((request, _, next) => {
+  console.log(request.path)
+  next()
 });
+
+router.get('/phoneBrands/data', async (_, res) => {
+    const dataset = await readDataset();
+    res.writeHead(200);
+    res.end(JSON.stringify(dataset, null, 4));
+});
+
+router.get(/\/phoneBrands|\/fnac'/, async (_, res) => {
+    const phoneBrandsEncoding = await readEncoding('phoneBrandsScatterplot.json');
+    res.writeHead(200);
+    res.end(JSON.stringify(phoneBrandsEncoding, null, 4));
+});
+
+router.get('/fnac/data', async (_, res) => {
+    const fnacPhones = require('./data/fnacPhonesAllTreated.json');
+    res.writeHead(200);
+    res.end(JSON.stringify(fnacPhones, null, 4));
+});
+
+const app = express();
+app.use(router);
+
+const server = http.createServer(app);
+
+RED.init(server,settings);
+
+// // Serve the editor UI from /red
+router.use(settings.httpAdminRoot, RED.httpAdmin);
+
+// // Serve the http nodes UI from /api
+router.use(settings.httpNodeRoot, RED.httpNode);
+
+router.get(/.*/, (_, res) => {
+    res.writeHead(404);
+    res.end(JSON.stringify({message: "Page doesn't exist."}, null, 4));
+});
+
+server.listen(
+    port,
+    host,
+    () => console.log(`Server listening on http://${host}:${port}.`));
+
+RED.start();
