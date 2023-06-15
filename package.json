@@ -7,7 +7,7 @@
         "postinstall": "(cd ./src/client && yarn install) && (cd ../server && yarn install) && (cd ./src/client-ar && yarn install)",
         "start:server": "cd ./src/server && yarn dev",
         "start:client": "cd ./src/client && yarn start",
-        "start:client-ar": "cd ./src/client-ar && yarn start",
+        "start:client-ar": "cd ./src/client-ar && yarn start:https",
         "lint": "eslint .",
         "build:server": "cd ./src/server && yarn build"
     },
